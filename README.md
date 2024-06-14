@@ -39,7 +39,7 @@ The code is organized as follows:
 ```
 
 ## Implementation Details
-Our experiments were conducted on an NVIDIA RTX A6000 GPU with 48GB of RAM, utilizing the PyTorch deep learning framework for implementation. Throughout the training process, we configured the number of training epochs to 1,000, with a batch size of 256, modality embedding dimensions set at 256, and a learning rate of 0.0005. For baseline methods, we relied on both their originally reported results and our reproduction of those results. This experimental setup ensures a rigorous and fair comparison across all evaluated models.
+Our experiments were conducted on an NVIDIA RTX A6000 GPU with 48GB of RAM, utilizing the PyTorch deep learning framework for implementation. Throughout the training process, we configured the number of training epochs to 1,000, with a batch size of 256, modality embedding dimensions set at 256, and a learning rate of 0.0005. 
 
 ## Usage
 
