@@ -1,0 +1,181 @@
+admonisher.n.01	someone who gives a warning so that a mistake can be avoided
+airplane.n.01	an aircraft that has a fixed wing and is powered by propellers or jets
+apple.n.01	fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
+ashcan.n.01	a bin that holds rubbish until it is collected
+backpack.n.01	a bag carried by a strap on your back or shoulder
+bag.n.01	a flexible container with a single opening
+bag.n.04	a container used for carrying money and small personal items or accessories (especially by women)
+bag.n.06	a portable rectangular container for carrying clothes
+baggage.n.01	cases used to carry belongings when traveling
+ball.n.01	round object that is hit or thrown or kicked in games
+ball.n.03	an object with a spherical shape
+banana.n.01	any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits
+banana.n.02	elongated crescent-shaped yellow fruit with soft sweet flesh
+baseball_bat.n.01	an implement used in baseball by the batter
+baseball_glove.n.01	the handwear used by fielders in playing baseball
+basket.n.01	a container that is usually woven and has handles
+bear.n.01	massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
+bed.n.01	a piece of furniture that provides a place to sleep
+beer.n.01	a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops
+bench.n.01	a long seat for more than one person
+bicycle.n.01	a wheeled vehicle that has two wheels and is moved by foot pedals
+bird.n.01	warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings
+bloomers.n.01	underpants worn by women
+boat.n.01	a small vessel for travel on water
+book.n.01	a written work or composition that has been published (printed on pages bound together)
+bottle.n.01	a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped
+bowl.n.01	a round vessel that is open at the top; used chiefly for holding food or liquids;
+box.n.01	a (usually rectangular) container; may have a lid
+broccoli.n.01	plant with dense clusters of tight green flower buds
+building.n.01	a structure that has a roof and walls and stands more or less permanently in one place
+bus.n.01	a vehicle carrying many passengers; used for public transport
+bush.n.02	a large wilderness area
+cabinet.n.01	a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display
+cake.n.01	a block of solid substance (such as soap or wax)
+cake.n.03	baked goods made from or based on a mixture of flour, sugar, eggs, and fat
+camera.n.01	equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)
+can.n.01	airtight sealed metal container for food or drink or paint etc.
+car.n.01	a motor vehicle with four wheels; usually propelled by an internal combustion engine
+carrot.n.01	deep orange edible root of the cultivated carrot plant
+cart.n.01	a heavy open wagon usually having two wheels and drawn by an animal
+cat.n.01	feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats
+cell_phone	cell phone
+cellular_telephone.n.01	a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver
+chair.n.01	a seat for one person, with a support for the back
+clock.n.01	a timepiece that shows the time of day
+coat.n.01	an outer garment that has sleeves and covers the body from shoulder down; worn outdoors
+coat.n.03	growth of hair or wool or fur covering the body of an animal
+computer.n.01	a machine for performing calculations automatically
+cone.n.01	any cone-shaped artifact
+counter.n.01	table consisting of a horizontal surface over which business is transacted
+cow.n.01	female of domestic cattle: "`moo-cow' is a child's term"
+cow.n.02	mature female of mammals of which the male is called `bull'
+cup.n.01	a small open container usually used for drinking; usually has a handle
+desk.n.01	a piece of furniture with a writing surface and usually drawers or other compartments
+dining_table.n.01	a table at which meals are served
+dog.n.01	a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+doughnut.n.02	a small ring-shaped friedcake
+elephant.n.01	five-toed pachyderm
+engine.n.01	motor that converts thermal energy to mechanical work
+face.n.01	the front of the human head from the forehead to the chin and ear to ear
+face.n.07	the part of an animal corresponding to the human face
+faucet.n.01	a regulator for controlling the flow of a liquid from a reservoir
+fireplug.n.01	an upright hydrant for drawing water to use in fighting a fire
+fork.n.01	cutlery used for serving and eating food
+frisbee.n.01	a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition
+giraffe.n.01	tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa
+glass.n.01	a brittle transparent solid with irregular atomic structure
+glass.n.02	a container for holding liquids while drinking
+grass.n.01	narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay
+gun.n.01	a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)
+hand.n.01	the (prehensile) extremity of the superior limb
+hand.n.08	a rotating pointer on the face of a timepiece
+hand_blower.n.01	a hand-held electric blower that can blow warm air onto the hair; used for styling hair
+handcart.n.01	wheeled vehicle that can be pushed by a person; may have one or two or four wheels
+hat.n.01	headdress that protects the head from bad weather; has shaped crown and usually a brim
+helmet.n.01	armor plate that protects the head
+helmet.n.02	a protective headgear made of hard material to resist blows
+horse.n.01	solid-hoofed herbivorous quadruped domesticated since prehistoric times
+hotdog.n.02	a frankfurter served hot on a bun
+hydrant	hydrant
+hydrant.n.02	a discharge pipe with a valve and spout at which water may be drawn from the mains of waterworks
+jacket.n.01	a short coat
+jean.n.01	(usually plural) close-fitting trousers of heavy denim for manual work or casual wear
+keyboard.n.01	device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like
+kite.n.01	a bank check that has been fraudulently altered to increase its face value
+kite.n.02	a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+kite.n.03	plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string
+knife.n.01	edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle
+lamp.n.01	an artificial source of visible illumination
+lamp.n.02	a piece of furniture holding one or more electric light bulbs
+laptop.n.01	a portable computer small enough to use in your lap
+manner.n.01	how something is done or how it happens
+microwave.n.01	a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data
+monitor.n.04	display produced by a device that takes signals and displays them on a television screen or a computer monitor
+monitor.n.05	electronic equipment that is used to check the quality or content of electronic transmissions
+motorcycle.n.01	a motor vehicle with two wheels and a strong frame
+mountain.n.01	a land mass that projects well above its surroundings; higher than a hill
+mouse.n.01	any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails
+mouse.n.04	a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad
+necktie.n.01	neckwear consisting of a long narrow piece of material worn (mostly by men) under a collar and tied in knot at the front
+orange.n.01	round yellow to orange fruit of any of several citrus trees
+oven.n.01	kitchen appliance used for baking or roasting
+paper.n.01	a material made of cellulose pulp derived mainly from wood or rags or certain grasses
+parking_meter.n.01	a coin-operated timer located next to a parking space; depositing money into it entitles you to park your car there for a specified length of time
+person.n.01	a human being
+person.n.02	a human body (usually including the clothing)
+pillow.n.01	a cushion to support the head of a sleeping person
+pizza.n.01	Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese
+plant.n.01	buildings for carrying on industrial labor
+plant.n.02	(botany) a living organism lacking the power of locomotion
+plate.n.02	a sheet of metal or wood or glass or plastic
+plate.n.03	a full-page illustration (usually on slick paper)
+plate.n.04	dish on which food is served or from which food is eaten
+post.n.01	the position where someone (as a guard or sentry) stands or is assigned to stand
+post.n.04	an upright consisting of a piece of timber or metal fixed firmly in an upright position
+pot.n.01	metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid
+pot.n.04	a container in which plants are cultivated
+potted.a.01	of plants; planted or grown in a pot
+potted_plant	potted plant
+president.n.04	the officer who presides at the meetings of an organization
+proctor.n.01	someone who supervises (an examination)
+ramp.n.01	an inclined surface connecting two levels
+refrigerator.n.01	white goods in which food can be stored at low temperatures
+remote_control.n.01	a device that can be used to control a machine or apparatus from a distance
+road.n.01	an open way (generally public) for travel or transportation
+roof.n.01	a protective covering that covers or forms the top of a building
+roof.n.02	protective covering on top of a motor vehicle
+sand.n.01	a loose material consisting of grains of rock or coral
+sandwich.n.01	two (or more) slices of bread with a filling between them
+scissors.n.01	an edge tool having two crossed pivoting blades
+sheep.n.01	woolly usually horned ruminant mammal related to the goat
+shelf.n.01	a support that consists of a horizontal surface for holding objects
+shirt.n.01	a garment worn on the upper half of the body
+shoe.n.01	footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material
+short_pants.n.01	trousers that end at or above the knee
+shrub.n.01	a low woody perennial plant usually having several major stems
+side.n.04	a surface forming part of the outside of an object
+sink.n.01	plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe
+skateboard.n.01	a board with wheels that is ridden in a standing or crouching position and propelled by foot
+ski.n.01	narrow wood or metal or plastic runners used in pairs for gliding over snow
+sky.n.01	the atmosphere and outer space as viewed from the earth
+snowboard.n.01	a board that resembles a broad ski or a small surfboard; used in a standing position to slide down snow-covered slopes
+sofa.n.01	an upholstered seat for more than one person
+spectacles.n.01	optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision
+spoon.n.01	a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food
+sport.n.01	an active diversion requiring physical exertion and competition
+sports_ball	sports ball
+stop_sign	stop sign
+stove.n.01	a kitchen appliance used for cooking food
+street.n.01	a thoroughfare (usually including sidewalks) that is lined with buildings
+street.n.02	the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel
+street.n.03	the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction
+sunglasses.n.01	spectacles that are darkened or polarized to protect the eyes from the glare of the sun
+surfboard.n.01	a narrow buoyant board for riding surf
+table.n.01	a set of data arranged in rows and columns
+table.n.02	a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs
+table.n.03	a piece of furniture with tableware for a meal laid out on it
+teddy.n.01	plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)
+telephone.n.01	electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds
+television.n.01	broadcasting visual images of stationary or moving objects
+tennis_racket.n.01	a racket used to play tennis
+tie.n.04	a horizontal beam used to prevent two other structural members from spreading apart or separating
+toaster.n.01	someone who proposes a toast; someone who drinks to the health of success of someone or some venture
+toaster.n.02	a kitchen appliance (usually electric) for toasting bread
+toilet.n.01	a room or building equipped with one or more toilets
+toilet.n.02	a plumbing fixture for defecation and urination
+toothbrush.n.01	small brush; has long handle; used to clean teeth
+tower.n.01	a structure taller than its diameter; can stand alone or be attached to a larger building
+traffic_light.n.01	a visual signal to control the flow of traffic at intersections
+train.n.01	public transport provided by a line of railway cars coupled together and drawn by a locomotive
+tree.n.01	a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms
+trouser.n.01	(usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately
+truck.n.01	an automotive vehicle suitable for hauling
+umbrella.n.01	a lightweight handheld collapsible canopy
+van.n.05	a truck with an enclosed cargo space
+vase.n.01	an open jar of glass or porcelain used as an ornament or to hold flowers
+watch.n.01	a small portable timepiece
+wheel.n.01	a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)
+wheel.n.03	forces that provide energy and direction
+wine.n.01	fermented juice (of grapes especially)
+zebra.n.01	any of several fleet black-and-white striped African equines

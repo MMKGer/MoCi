@@ -1,0 +1,2731 @@
+separate.v.09	separate
+pollute.v.01	pollute
+overcast.v.01	overcast
+equip.v.01	equip
+profit.v.01	profit
+away.s.01	away
+burn.v.07	burn
+add.v.04	add
+rinse.v.01	rinse
+separate.v.02	separate
+populate.v.01	populate
+feign.v.01	feign
+blow_up.v.02	blow up
+flog.v.01	flog
+adopt.v.02	adopt
+remember.v.01	remember
+blow	blow
+pass.v.01	pass
+spin.v.05	spin
+flip.v.05	flip
+offer.v.04	offer
+direct.v.09	direct
+corner.v.02	corner
+market.v.01	market
+lick.v.02	lick
+wave_in	wave in
+jump	jump
+drink_in.v.01	drink in
+scape	scape
+drag.v.11	drag
+legislate.v.01	legislate
+present.v.04	present
+catch.v.02	catch
+transport.v.01	transport
+stand.v.06	stand
+train.v.02	train
+break.v.29	break
+conduct.v.02	conduct
+change.v.05	change
+ground.v.05	ground
+cut_off.v.03	cut off
+herd.v.02	herd
+close.v.06	close
+reach_for	reach for
+stay.v.09	stay
+plop.v.02	plop
+tune.v.02	tune
+wonder.v.03	wonder
+dream.v.02	dream
+stand.v.02	stand
+distinguish.v.01	distinguish
+inspect.v.01	inspect
+reason.v.03	reason
+orb.v.01	orb
+charge.v.01	charge
+tie.v.01	tie
+enter.v.01	enter
+predominate.v.01	predominate
+drag.v.01	drag
+camp.v.02	camp
+tug.v.02	tug
+sign_to	sign to
+saw.v.01	saw
+worsen.v.02	worsen
+scape_from	scape from
+fit.v.05	fit
+execute.v.01	execute
+return_from	return from
+meet.v.04	meet
+dilute.v.01	dilute
+cool.v.02	cool
+preen.v.01	preen
+thrust.v.01	thrust
+incline.v.02	incline
+classify.v.01	classify
+wring.v.02	wring
+destroy.v.01	destroy
+weather.v.01	weather
+guide.v.05	guide
+question.v.03	question
+forget.v.02	forget
+hover.v.03	hover
+represent.v.12	represent
+become.v.01	become
+get.v.01	get
+slow.v.02	slow
+herd.v.01	herd
+besiege.v.01	besiege
+send.v.01	send
+pluck.v.04	pluck
+bottom_out.v.01	bottom out
+_hypernym	hypernym
+make.v.14	make
+sleep_in	sleep in
+mother.v.01	mother
+assemble.v.01	assemble
+fellate.v.01	fellate
+promote.v.01	promote
+mind.v.02	mind
+play.v.01	play
+side.v.01	side
+froth.v.03	froth
+end.v.04	end
+state_mind_to	state mind to
+administer.v.01	administer
+drive.v.15	drive
+prolong.v.02	prolong
+intercept.v.01	intercept
+understand.v.02	understand
+battle	battle
+fracture.v.05	fracture
+weather.v.03	weather
+fly.v.05	fly
+process.v.02	process
+step_on.v.01	step on
+promise.v.01	promise
+tease.v.01	tease
+delay.v.01	delay
+turn.v.10	turn
+surface.v.01	surface
+volunteer.v.02	volunteer
+rock.v.01	rock
+hollow.v.02	hollow
+honor.v.01	honor
+serve.v.14	serve
+second.v.01	second
+cling.v.03	cling
+spit.v.01	spit
+maim.v.01	maim
+hold.v.02	hold
+cup.v.02	cup
+support.v.01	support
+deliver.v.02	deliver
+forecast.v.01	forecast
+precipitate.v.03	precipitate
+endanger.v.01	endanger
+appear.v.04	appear
+accumulate.v.02	accumulate
+check.v.02	check
+play.v.07	play
+insert.v.02	insert
+deal.v.06	deal
+travel_under	travel under
+extinguish.v.04	extinguish
+stain.v.01	stain
+rout.v.02	rout
+nest.v.01	nest
+explain.v.01	explain
+travel.v.03	travel
+determine.v.02	determine
+freeze.v.01	freeze
+age.v.01	age
+wind.v.05	wind
+mix.v.04	mix
+gnaw.v.01	gnaw
+settle.v.03	settle
+chew_over.v.01	chew over
+take.v.01	take
+frighten.v.01	frighten
+through.r.01	through
+open_fire.v.01	open fire
+rain	rain
+create.v.05	create
+sign.v.04	sign
+irritate.v.02	irritate
+splash.v.05	splash
+breath_in	breath in
+play.v.35	play
+hop_on.v.01	hop on
+order.v.01	order
+return_with	return with
+howl.v.02	howl
+head.v.01	head
+give_voice.v.01	give voice
+will.v.02	will
+develop.v.01	develop
+shout.v.02	shout
+_has_part	has part
+give.v.04	give
+attach_to	attach to
+mellow.v.02	mellow
+man	man
+assemble.v.03	assemble
+praise.v.01	praise
+mail	mail
+load.v.01	load
+prosecute.v.03	prosecute
+belong.v.04	belong
+harm.v.01	harm
+lease.v.03	lease
+clean.v.02	clean
+position.v.01	position
+quarter.v.03	quarter
+fabricate.v.02	fabricate
+massacre.v.01	massacre
+put_up.v.08	put up
+feed.v.02	feed
+wonder.v.01	wonder
+exist.v.01	exist
+ring.v.01	ring
+brandish.v.01	brandish
+plant.v.06	plant
+elect.v.01	elect
+arrive_on	arrive on
+return.v.01	return
+cloud.v.06	cloud
+board_up.v.01	board up
+screen.v.03	screen
+short-circuit.v.02	short-circuit
+advertise.v.01	advertise
+postdate.v.01	postdate
+vote.v.01	vote
+away.r.02	away
+cry.v.02	cry
+break_in.v.01	break in
+stream.v.05	stream
+affect.v.01	affect
+appear.v.02	appear
+advance.v.01	advance
+show.v.10	show
+fuel.v.02	fuel
+restrict.v.01	restrict
+up.v.01	up
+touch.v.03	touch
+further.r.01	further
+come_in.v.03	come in
+study.v.02	study
+walk.v.01	walk
+box.v.01	box
+short-change.v.01	short-change
+make.v.02	make
+head.v.04	head
+conflict.v.01	conflict
+measure.v.01	measure
+feel_up_to	feel up to
+issue_forth.v.01	issue forth
+dislocate.v.01	dislocate
+think.v.05	think
+company.v.01	company
+try.v.01	try
+receive.v.02	receive
+distingush_by	distingush by
+infest.v.01	infest
+expand.v.03	expand
+out.v.02	out
+give.v.37	give
+field.v.01	field
+report.v.01	report
+devour.v.01	devour
+end.v.01	end
+picture.v.02	picture
+pull.v.03	pull
+argue.v.01	argue
+treat.v.03	treat
+hit	hit
+crowd_around	crowd around
+rise_above	rise above
+reduce.v.01	reduce
+lap.v.01	lap
+outdo.v.02	outdo
+download.v.01	download
+signalize.v.03	signalize
+debate.v.01	debate
+back.v.05	back
+hope.v.02	hope
+fry.v.02	fry
+wall_in.v.01	wall in
+comply.v.01	comply
+exist_in	exist in
+fix	fix
+cleanse.v.02	cleanse
+leak.v.03	leak
+wedge	wedge
+denote.v.02	denote
+cry.v.05	cry
+publish.v.02	publish
+make_bold.v.01	make bold
+excel.v.01	excel
+involve.v.02	involve
+change.v.03	change
+shine.v.02	shine
+give.v.07	give
+unseat.v.02	unseat
+grind.v.07	grind
+remember.v.03	remember
+down.a.01	down
+stalk.v.03	stalk
+wind.v.02	wind
+perambulate.v.02	perambulate
+attract.v.01	attract
+dine.v.01	dine
+lower.v.01	lower
+eat.v.01	eat
+situate.v.02	situate
+dust.v.01	dust
+foster.v.01	foster
+place.v.06	place
+winter.v.01	winter
+storm	storm
+delight.v.02	delight
+scorch.v.02	scorch
+decompose.v.03	decompose
+spot.v.04	spot
+confront.v.02	confront
+shape.v.03	shape
+wind_down	wind down
+jump.v.06	jump
+bite.v.02	bite
+run.v.14	run
+show.v.01	show
+board.v.01	board
+include.v.03	include
+make_up.v.04	make up
+will	will
+tear.v.05	tear
+weave.v.01	weave
+swing.v.02	swing
+boil.v.02	boil
+bring_to.v.01	bring to
+open.v.03	open
+manufacture.v.01	manufacture
+switch.v.06	switch
+rubbish.v.01	rubbish
+repair.v.01	repair
+kick.v.02	kick
+smoke	smoke
+roll.v.01	roll
+double.v.01	double
+cry_out_for.v.01	cry out for
+teach.v.02	teach
+pass.v.20	pass
+provide.v.02	provide
+trip.v.05	trip
+flat.s.01	flat
+push_up.v.01	push up
+doctor.v.02	doctor
+chair.v.01	chair
+steam.v.02	steam
+bring.v.01	bring
+clear.v.05	clear
+observe.v.06	observe
+tear_away.v.01	tear away
+express.v.02	express
+hanker.v.01	hanker
+share.v.04	share
+waste.v.02	waste
+distinguish.v.03	distinguish
+offer.v.06	offer
+free.v.06	free
+singe.v.01	singe
+cut.v.22	cut
+exert.v.01	exert
+duplicate.v.03	duplicate
+play.v.16	play
+dissolve.v.09	dissolve
+season.v.01	season
+transport.v.02	transport
+barricade.v.01	barricade
+shoot.v.02	shoot
+break.v.18	break
+spoil.v.02	spoil
+trill.v.01	trill
+run_into.v.01	run into
+beat.v.01	beat
+satisfy.v.01	satisfy
+seem.v.03	seem
+end.v.02	end
+grab.v.06	grab
+group.v.02	group
+head.v.02	head
+fail.v.03	fail
+crowd.v.03	crowd
+sit	sit
+fall_asleep.v.01	fall asleep
+retain.v.01	retain
+row_with	row with
+sing.v.01	sing
+cool.v.01	cool
+hatch.v.01	hatch
+list.v.03	list
+wet.a.01	wet
+dissolve.v.02	dissolve
+appear.v.06	appear
+brown	brown
+enjoy.v.01	enjoy
+share.v.05	share
+meet.v.02	meet
+clap.v.04	clap
+leave.v.02	leave
+strew.v.01	strew
+answer.v.10	answer
+offer.v.02	offer
+move_on	move on
+install.v.01	install
+stalk.v.01	stalk
+buy.v.01	buy
+restrict.v.03	restrict
+establish.v.01	establish
+weigh.v.03	weigh
+stumble.v.02	stumble
+tail.v.03	tail
+burn_into	burn into
+needle	needle
+doubt.v.01	doubt
+realize.v.05	realize
+wander.v.03	wander
+equal.v.02	equal
+rule.v.02	rule
+lower	lower
+prefer.v.01	prefer
+freeze.v.04	freeze
+page.v.02	page
+spill.v.01	spill
+gauge.v.02	gauge
+be.v.11	be
+regenerate.v.04	regenerate
+color.v.01	color
+number.v.03	number
+walk.v.10	walk
+grow_with	grow with
+think.v.02	think
+manipulate.v.01	manipulate
+issue.v.02	issue
+seat.v.02	seat
+soar.v.01	soar
+trip.v.04	trip
+believe_in.v.01	believe in
+happen.v.01	happen
+blow.v.10	blow
+go_into.v.02	go into
+catch_up.v.01	catch up
+lean.v.01	lean
+discriminate.v.01	discriminate
+water.v.02	water
+pounce.v.01	pounce
+push.v.01	push
+rush.v.05	rush
+rear.v.01	rear
+insert.v.01	insert
+_member_of_domain_usage	member of domain usage
+blow.v.03	blow
+fish.v.01	fish
+strike.v.01	strike
+turn.v.07	turn
+spill.v.05	spill
+relax.v.01	relax
+cover.v.15	cover
+howl.v.01	howl
+wind	wind
+fence	fence
+command.v.02	command
+follow	follow
+stream_through	stream through
+float_on	float on
+give.v.09	give
+dream.v.01	dream
+realize.v.03	realize
+rear.v.02	rear
+trouble.v.05	trouble
+specify.v.02	specify
+cling.v.01	cling
+face.v.05	face
+dangle.v.01	dangle
+reserve.v.04	reserve
+trigger.v.02	trigger
+corner.v.03	corner
+plan.v.03	plan
+drive_up.v.01	drive up
+announce.v.02	announce
+come_on.v.01	come on
+leave.v.03	leave
+stain.v.02	stain
+further.s.01	further
+withdraw.v.01	withdraw
+spend.v.02	spend
+lie.v.06	lie
+keep_track_of	keep track of
+attach.v.01	attach
+fence.v.02	fence
+ride.v.04	ride
+unite.v.05	unite
+tear.v.01	tear
+quieten.v.01	quieten
+roll.v.11	roll
+tend.v.01	tend
+get_mad_at	get mad at
+strive.v.02	strive
+starve.v.02	starve
+long_for	long for
+nail.v.01	nail
+forget.v.01	forget
+read_to	read to
+overturn.v.02	overturn
+gallop.v.02	gallop
+form.v.07	form
+challenge.v.02	challenge
+beget.v.01	beget
+murder.v.01	murder
+ball.v.01	ball
+slash.v.01	slash
+rise.v.13	rise
+work_in	work in
+field.v.04	field
+equal.v.03	equal
+travel_by.v.01	travel by
+audit.v.01	audit
+spurt.v.01	spurt
+move_over.v.01	move over
+price.v.01	price
+store.v.02	store
+round.v.02	round
+chew.v.01	chew
+apologize.v.02	apologize
+make.v.15	make
+yoke.v.01	yoke
+strike.v.13	strike
+direct.v.01	direct
+visit.v.01	visit
+haunt.v.02	haunt
+talk.v.02	talk
+succeed.v.01	succeed
+fan.v.01	fan
+falsify.v.01	falsify
+forgive.v.01	forgive
+bank_with	bank with
+lie	lie
+submit.v.01	submit
+network.v.01	network
+rest.v.11	rest
+urge.v.01	urge
+include.v.02	include
+crop.v.05	crop
+typify.v.02	typify
+pry.v.01	pry
+write.v.02	write
+hide.v.01	hide
+injure.v.01	injure
+videotape.v.01	videotape
+follow.v.01	follow
+harness.v.01	harness
+honor.v.03	honor
+refuse.v.01	refuse
+feed.v.06	feed
+fill.v.09	fill
+swing_around.v.01	swing around
+think_about.v.01	think about
+talk_of.v.01	talk of
+escape.v.01	escape
+bake.v.01	bake
+answer.v.01	answer
+impress.v.02	impress
+annoy.v.01	annoy
+remember.v.02	remember
+carry.v.02	carry
+tear.v.02	tear
+comment.v.01	comment
+throw.v.01	throw
+fish.v.02	fish
+obstruct.v.03	obstruct
+skid.v.04	skid
+align.v.01	align
+storm.v.02	storm
+bridge_gap_in	bridge gap in
+look_forward.v.01	look forward
+rest.v.01	rest
+reap.v.02	reap
+comfort.v.02	comfort
+dress.v.01	dress
+squirt.v.01	squirt
+yield.v.01	yield
+educate.v.03	educate
+worship.v.02	worship
+display.v.02	display
+change_state.v.01	change state
+clear.v.10	clear
+relieve.v.01	relieve
+bristle.v.03	bristle
+appear.v.05	appear
+side.a.01	side
+invest.v.01	invest
+march.v.01	march
+time.v.04	time
+belong.v.03	belong
+over.r.01	over
+restrain.v.03	restrain
+bicycle_for	bicycle for
+prey.v.01	prey
+date.v.03	date
+come.v.13	come
+exit.v.01	exit
+list_to	list to
+quiet.a.01	quiet
+defend.v.01	defend
+back.v.06	back
+cut_to	cut to
+circle.v.01	circle
+burden.v.01	burden
+horse_around.v.01	horse around
+ingredient_in	ingredient in
+postpone.v.01	postpone
+screw.v.03	screw
+rest.v.08	rest
+round.v.01	round
+rear	rear
+evaluate.v.02	evaluate
+snap.v.01	snap
+contract.v.04	contract
+destroy.v.02	destroy
+head	head
+sting.v.02	sting
+captain.v.01	captain
+admit.v.03	admit
+suffer.v.02	suffer
+gallop.v.03	gallop
+come.v.05	come
+confront.v.03	confront
+knead.v.01	knead
+damage.v.01	damage
+row.v.01	row
+take.v.20	take
+consume.v.05	consume
+cut.v.04	cut
+rake.v.05	rake
+choose.v.01	choose
+consist.v.04	consist
+force.v.04	force
+look.v.01	look
+stage.v.01	stage
+help.v.02	help
+eat_in.v.01	eat in
+force.v.08	force
+spear.v.01	spear
+nip.v.02	nip
+teach_in	teach in
+suck.v.01	suck
+feel.v.04	feel
+right.v.02	right
+hurry_to	hurry to
+beat.v.04	beat
+steam.v.06	steam
+score.v.06	score
+repress.v.01	repress
+twitch.v.01	twitch
+attach.v.02	attach
+cup	cup
+disagree.v.01	disagree
+distribute.v.01	distribute
+put.v.02	put
+enforce.v.01	enforce
+greet.v.01	greet
+produce.v.04	produce
+groan.v.01	groan
+part	part
+climb.v.01	climb
+process.v.03	process
+tolerate.v.03	tolerate
+coat.v.01	coat
+continue.v.07	continue
+keep.v.18	keep
+print.v.03	print
+follow.v.06	follow
+tear.v.03	tear
+perfect.v.01	perfect
+fit.v.04	fit
+milk	milk
+amount_to	amount to
+crouch.v.01	crouch
+absorb.v.04	absorb
+bicycle.v.01	bicycle
+search.v.02	search
+call.v.02	call
+inspire.v.01	inspire
+demolish.v.03	demolish
+welcome.v.02	welcome
+land.v.02	land
+experience.v.03	experience
+order.v.03	order
+do.v.03	do
+mean.v.01	mean
+weather.v.02	weather
+preserve.v.04	preserve
+convert.v.01	convert
+set	set
+fill.v.01	fill
+receive.v.05	receive
+infect.v.01	infect
+spare.v.01	spare
+cook.v.05	cook
+take.v.35	take
+lean.v.02	lean
+light_up.v.05	light up
+support.v.02	support
+arouse.v.01	arouse
+perform.v.03	perform
+pitch.v.08	pitch
+care.v.02	care
+stand.v.01	stand
+love.v.01	love
+spring.v.04	spring
+fail.v.06	fail
+cure_for	cure for
+stir-fry_in	stir-fry in
+weather.v.04	weather
+coat.v.03	coat
+kill.v.01	kill
+die.v.01	die
+fix.v.12	fix
+fall.v.31	fall
+roll_up.v.02	roll up
+fast.v.01	fast
+visit.v.07	visit
+flim-flam.v.01	flim-flam
+call_at.v.01	call at
+fence.v.03	fence
+hear.v.04	hear
+hang.v.01	hang
+stimulate.v.03	stimulate
+leap.v.02	leap
+letter.v.01	letter
+hurt.v.05	hurt
+matter_more_than	matter more than
+capture.v.06	capture
+oversee.v.01	oversee
+meet.v.07	meet
+act.v.02	act
+detect.v.01	detect
+succeed.v.02	succeed
+lead.v.04	lead
+burn.v.09	burn
+stand.v.03	stand
+wake.v.01	wake
+gyrate.v.01	gyrate
+laugh.v.01	laugh
+trace.v.02	trace
+step.v.01	step
+collar.v.01	collar
+disrupt.v.02	disrupt
+instruct.v.02	instruct
+rush.s.02	rush
+sharpen.v.01	sharpen
+ready.s.02	ready
+dye.v.01	dye
+strike.v.20	strike
+shoulder.v.03	shoulder
+serve.v.05	serve
+launch.v.02	launch
+pierce.v.01	pierce
+function.v.01	function
+lay.v.03	lay
+own.s.01	own
+dig	dig
+school.v.01	school
+bring.v.03	bring
+sing.v.02	sing
+break.v.02	break
+paint.v.01	paint
+deal.v.03	deal
+seat.v.06	seat
+raise.v.02	raise
+better.v.03	better
+flee.v.01	flee
+stir.v.01	stir
+lay_down.v.01	lay down
+reflect.v.06	reflect
+lasso.v.01	lasso
+in_charge_of	in charge of
+disappoint.v.01	disappoint
+branch.v.02	branch
+break.v.24	break
+give	give
+score.v.01	score
+prop_up.v.01	prop up
+examine.v.02	examine
+parry.v.01	parry
+note.v.01	note
+bow.v.01	bow
+save.v.06	save
+wall_off	wall off
+catch.v.12	catch
+recover.v.01	recover
+produce.v.01	produce
+get.v.03	get
+open.v.02	open
+play.v.18	play
+dance.v.02	dance
+walk.v.08	walk
+transfer	transfer
+jump_to	jump to
+revolve.v.01	revolve
+cover.v.11	cover
+educate.v.01	educate
+squash.v.01	squash
+shine.v.07	shine
+move.v.03	move
+speak.v.03	speak
+crawl.v.01	crawl
+jab.v.01	jab
+study.v.03	study
+leave.v.01	leave
+seat.v.05	seat
+fence.v.01	fence
+clear.v.24	clear
+refer.v.02	refer
+convert.v.02	convert
+fly.v.03	fly
+run_out.v.01	run out
+erupt.v.02	erupt
+ride.v.01	ride
+enter.v.02	enter
+love.v.02	love
+erase.v.02	erase
+roll.v.08	roll
+suffer.v.03	suffer
+interrogate.v.02	interrogate
+even.s.02	even
+clock.v.01	clock
+monitor.v.01	monitor
+top.v.03	top
+rise.v.01	rise
+iron_out.v.01	iron out
+cock.v.01	cock
+glass	glass
+chop.v.01	chop
+board	board
+tilt.v.04	tilt
+_also_see	also see
+demur.v.01	demur
+forward	forward
+have.v.01	have
+reach.v.06	reach
+flaunt.v.01	flaunt
+subject.s.02	subject
+indicate.v.02	indicate
+brown.v.01	brown
+use.v.01	use
+give.v.08	give
+drill.v.03	drill
+misconstrue.v.01	misconstrue
+connect.v.03	connect
+lead.v.03	lead
+bear.v.01	bear
+evict.v.01	evict
+connect.v.01	connect
+stool.v.04	stool
+flip.v.06	flip
+ramp.v.01	ramp
+lend.v.01	lend
+displace.v.03	displace
+cause.v.01	cause
+make_a_clean_breast_of.v.01	make a clean breast of
+word	word
+disappear.v.01	disappear
+turn_on.v.03	turn on
+ready.s.04	ready
+subscribe.v.03	subscribe
+reduce.v.08	reduce
+trust.v.01	trust
+guard.v.01	guard
+matter_to.v.01	matter to
+practice.v.01	practice
+boost.v.04	boost
+drive.v.11	drive
+veto.v.01	veto
+turn_at	turn at
+travel_over	travel over
+kill.v.04	kill
+visit.v.04	visit
+study.v.05	study
+empower.v.01	empower
+swerve.v.01	swerve
+back.v.02	back
+skid.v.01	skid
+chew_the_fat.v.01	chew the fat
+decay.v.02	decay
+take_over.v.05	take over
+live_in	live in
+establish.v.02	establish
+position	position
+get.v.25	get
+drop_by.v.01	drop by
+take.v.06	take
+run.v.15	run
+hot.a.01	hot
+arm.v.01	arm
+lecture.v.01	lecture
+nurse.v.01	nurse
+hope.v.01	hope
+wash.v.04	wash
+peruse.v.01	peruse
+change_by_reversal.v.01	change by reversal
+sled.v.01	sled
+expect.v.04	expect
+stay.v.01	stay
+prosecute.v.01	prosecute
+care_for.v.02	care for
+corner.v.01	corner
+rush.v.01	rush
+shore.v.01	shore
+hang_out.v.01	hang out
+watch.v.05	watch
+dirty.v.01	dirty
+do.v.04	do
+down.v.05	down
+disturb.v.01	disturb
+persevere.v.01	persevere
+flit.v.01	flit
+pronounce.v.02	pronounce
+condition.v.04	condition
+sign.v.07	sign
+clog.v.03	clog
+wear.v.01	wear
+go_on	go on
+salvage.v.01	salvage
+dribble.v.03	dribble
+sell.v.02	sell
+keep.v.03	keep
+model.v.03	model
+bell.v.01	bell
+crowd.v.02	crowd
+summarize.v.02	summarize
+source.v.01	source
+copy.v.01	copy
+stamp_out.v.01	stamp out
+cook.v.02	cook
+ask.v.04	ask
+roll_across	roll across
+put_on.v.02	put on
+stamp.v.02	stamp
+rub.v.02	rub
+flick.v.06	flick
+increase.v.01	increase
+influence.v.01	influence
+report.v.03	report
+ignore.v.01	ignore
+travel.v.04	travel
+water.v.01	water
+chuck.v.03	chuck
+pack.v.01	pack
+drive.v.02	drive
+appear.v.07	appear
+shout.v.01	shout
+hide.v.02	hide
+prove.v.02	prove
+hedge.v.01	hedge
+distribute.v.04	distribute
+double.s.01	double
+inhibit.v.02	inhibit
+rationalize.v.03	rationalize
+wield.v.02	wield
+issue.v.04	issue
+pull.v.01	pull
+cancel.v.03	cancel
+move.v.04	move
+dominate.v.03	dominate
+lie.v.05	lie
+vacation.v.01	vacation
+inside.r.02	inside
+fail.v.07	fail
+fracture.v.06	fracture
+fly_in	fly in
+flare_out.v.01	flare out
+gun.v.01	gun
+shed.v.04	shed
+fast.a.01	fast
+kill.v.15	kill
+measure.v.04	measure
+shade.v.03	shade
+govern.v.03	govern
+deflect.v.02	deflect
+seed.v.02	seed
+step.v.10	step
+come_out_of_the_closet.v.01	come out of the closet
+_instance_hypernym	instance hypernym
+habituate.v.02	habituate
+run_up.v.01	run up
+rub.v.01	rub
+analyze.v.01	analyze
+guess.v.02	guess
+run_on.v.02	run on
+notice.v.02	notice
+enfeeble.v.01	enfeeble
+borrow.v.01	borrow
+advance.v.12	advance
+jump.v.08	jump
+deliver.v.01	deliver
+compress.v.01	compress
+learn.v.01	learn
+complete.v.01	complete
+name.v.01	name
+right.v.01	right
+shift.v.02	shift
+drink_through	drink through
+low_to	low to
+float.v.08	float
+correct.v.01	correct
+stream_over	stream over
+shoo_away	shoo away
+advance.v.10	advance
+fall.v.01	fall
+take_care.v.02	take care
+crusade.v.01	crusade
+slump.v.02	slump
+bespeak.v.01	bespeak
+recognize.v.02	recognize
+wipe_off.v.01	wipe off
+step.v.02	step
+smother.v.05	smother
+present.v.02	present
+shelter.v.01	shelter
+pin.v.02	pin
+tarnish.v.01	tarnish
+raise.v.01	raise
+accept.v.01	accept
+fume.v.02	fume
+agrivate	agrivate
+carry.v.05	carry
+skulk.v.03	skulk
+attend.v.01	attend
+subscribe.v.05	subscribe
+stream.v.02	stream
+let_go.v.02	let go
+lighten.v.01	lighten
+transfer.v.01	transfer
+gnash.v.01	gnash
+bury.v.03	bury
+step_around	step around
+wrinkle.v.02	wrinkle
+bask.v.02	bask
+lose.v.01	lose
+ruin.v.02	ruin
+envelop.v.01	envelop
+construct.v.01	construct
+touch.v.01	touch
+drink.v.02	drink
+remove.v.01	remove
+perch.v.01	perch
+man.v.01	man
+guide.v.03	guide
+give.v.28	give
+name.v.02	name
+sit.v.07	sit
+pain.v.02	pain
+play.v.02	play
+write.v.10	write
+fertilize.v.01	fertilize
+confess.v.01	confess
+continue.v.01	continue
+rush.v.04	rush
+pull.v.17	pull
+run.v.19	run
+run.v.03	run
+number_in	number in
+plunge.v.06	plunge
+heat.v.02	heat
+condition.v.05	condition
+beat.v.02	beat
+school.v.03	school
+save.v.03	save
+cut.v.01	cut
+leave.v.04	leave
+ticket.v.01	ticket
+balloon.v.02	balloon
+nurse.v.04	nurse
+shade.v.02	shade
+sophisticate.v.03	sophisticate
+clench.v.01	clench
+resist.v.04	resist
+catch.v.19	catch
+kiss.v.02	kiss
+connect_to	connect to
+research.v.01	research
+obstruct.v.01	obstruct
+storm.v.03	storm
+nibble.v.02	nibble
+halt.v.01	halt
+house.v.01	house
+vary.v.03	vary
+clear_up.v.04	clear up
+precede.v.02	precede
+decorate.v.01	decorate
+needle.v.02	needle
+bus.v.02	bus
+avoid.v.03	avoid
+perpetrate.v.01	perpetrate
+fail.v.02	fail
+back_out.v.01	back out
+hear.v.03	hear
+persue	persue
+douse.v.01	douse
+action.v.01	action
+cram.v.03	cram
+escalate.v.01	escalate
+resolve.v.06	resolve
+cut.v.05	cut
+communicate.v.01	communicate
+take.v.08	take
+reflect.v.03	reflect
+entertain.v.01	entertain
+lower.v.04	lower
+dig.v.05	dig
+consume.v.02	consume
+apparent.s.01	apparent
+subcontract.v.01	subcontract
+serve.v.03	serve
+dress.v.02	dress
+please.v.02	please
+close.v.01	close
+idolize.v.01	idolize
+deposit.v.02	deposit
+ready.a.01	ready
+settle.v.01	settle
+take.v.04	take
+compete.v.01	compete
+service.v.02	service
+wash_out.v.02	wash out
+regulate.v.02	regulate
+set.v.05	set
+lay.v.04	lay
+hurt.s.01	hurt
+teach.v.01	teach
+determine.v.03	determine
+make.v.03	make
+class	class
+wrong.v.01	wrong
+prize.v.01	prize
+fight.v.02	fight
+let_go_of.v.01	let go of
+find.v.05	find
+send.v.02	send
+originate.v.01	originate
+stretch.v.02	stretch
+bring.v.02	bring
+course.v.01	course
+wet.v.02	wet
+burn.v.06	burn
+look_like.v.01	look like
+will.v.01	will
+wash.v.13	wash
+miss.v.07	miss
+drop_out.v.03	drop out
+impregnate.v.04	impregnate
+jump_across	jump across
+read.v.01	read
+return.v.07	return
+stay.v.04	stay
+turn.v.06	turn
+stay.v.05	stay
+act_as.v.01	act as
+talk.v.01	talk
+organize.v.04	organize
+light.v.01	light
+campaign.v.01	campaign
+tighten.v.01	tighten
+rant.v.01	rant
+fall_in.v.02	fall in
+hang.v.02	hang
+get_rid_of.v.01	get rid of
+evaporate.v.01	evaporate
+act.v.03	act
+stick.v.10	stick
+progress.v.01	progress
+perform.v.01	perform
+recycle.v.02	recycle
+alter.v.03	alter
+stream_across	stream across
+drive.v.01	drive
+fly.v.13	fly
+bottom.a.01	bottom
+border.v.05	border
+ache.v.03	ache
+envy.v.02	envy
+suffer.v.01	suffer
+seed	seed
+box_in.v.01	box in
+race.v.02	race
+manipulate.v.02	manipulate
+clear_off.v.01	clear off
+blast.v.07	blast
+draw.v.16	draw
+like.v.03	like
+pass.v.07	pass
+gain.v.05	gain
+taste.v.01	taste
+list.v.04	list
+raise.v.09	raise
+please.v.03	please
+prick.v.02	prick
+rhyme.v.02	rhyme
+divide.v.02	divide
+debar.v.02	debar
+follow.v.07	follow
+make.v.49	make
+short.a.01	short
+park.v.02	park
+duck.v.01	duck
+butter_up.v.01	butter up
+permit.v.01	permit
+quench.v.01	quench
+fill.v.02	fill
+brood.v.05	brood
+gulp.v.01	gulp
+smell.v.01	smell
+listen_under	listen under
+publicize.v.01	publicize
+admit.v.02	admit
+dare.v.02	dare
+bum.v.02	bum
+dwell.v.02	dwell
+ski.v.01	ski
+flow.v.01	flow
+delegate.v.02	delegate
+raise.v.03	raise
+live_with	live with
+separate.v.07	separate
+receive	receive
+contend.v.06	contend
+take.v.19	take
+rest.v.07	rest
+live_in.v.01	live in
+travel_rapidly.v.01	travel rapidly
+cremate.v.01	cremate
+rush_over	rush over
+houseclean.v.01	houseclean
+film.v.01	film
+match.v.01	match
+bare.v.01	bare
+stick	stick
+conduct	conduct
+resurrect.v.03	resurrect
+prance.v.02	prance
+haul.v.02	haul
+anticipate.v.05	anticipate
+shake.v.07	shake
+smell.v.05	smell
+win.v.01	win
+attach_to.v.01	attach to
+down.v.04	down
+see.v.10	see
+put	put
+brush.v.01	brush
+pick_up.v.01	pick up
+lease.v.04	lease
+trade_on	trade on
+stand_on	stand on
+thin_out.v.01	thin out
+glitter.v.01	glitter
+miss.v.02	miss
+charge.v.08	charge
+wipe_out.v.03	wipe out
+spot.v.02	spot
+depend_on.v.03	depend on
+steal.v.01	steal
+oppose.v.01	oppose
+wonder.v.02	wonder
+slither.v.01	slither
+write.v.08	write
+guard.v.02	guard
+look.v.02	look
+peck.v.02	peck
+leave.v.08	leave
+note.v.04	note
+act.v.01	act
+wheel.v.03	wheel
+jump.v.03	jump
+expect.v.01	expect
+ignite.v.01	ignite
+trace.v.06	trace
+induce.v.01	induce
+polish.v.01	polish
+dart.v.03	dart
+date.v.05	date
+abandon.v.02	abandon
+deposit	deposit
+undergo.v.01	undergo
+add_to.v.01	add to
+add.v.01	add
+equal.v.01	equal
+participate.v.01	participate
+swallow.v.05	swallow
+hold.v.11	hold
+balance.v.01	balance
+hold.v.03	hold
+defy.v.01	defy
+swim.v.01	swim
+address.v.06	address
+inflame.v.04	inflame
+bottle.v.01	bottle
+free.v.01	free
+connect.v.04	connect
+spread.v.01	spread
+decrease.v.01	decrease
+involve.v.07	involve
+work_in.v.01	work in
+need.v.03	need
+brighten.v.01	brighten
+ball	ball
+case.v.01	case
+sing_to	sing to
+embrace.v.02	embrace
+froth.v.02	froth
+fall.v.24	fall
+eclipse.v.02	eclipse
+guard.v.04	guard
+close.v.02	close
+quicker.r.01	quicker
+glass.v.04	glass
+book.v.04	book
+get_to.v.02	get to
+house.v.02	house
+labor.v.02	labor
+coach.v.01	coach
+fast.v.02	fast
+mine.v.01	mine
+render.v.04	render
+originate.v.02	originate
+steer.v.01	steer
+pierce.v.05	pierce
+burn.v.01	burn
+stride.v.01	stride
+dry.a.01	dry
+gather.v.01	gather
+take_care.v.01	take care
+twirl.v.01	twirl
+discourse.v.01	discourse
+hiss.v.01	hiss
+drop.v.07	drop
+work.v.01	work
+arrange.v.01	arrange
+blend.v.02	blend
+gull.v.02	gull
+stick.v.12	stick
+slip.v.02	slip
+result.v.03	result
+defend.v.03	defend
+tell.v.02	tell
+float.v.02	float
+jiggle.v.01	jiggle
+pay.v.01	pay
+partially.r.01	partially
+miss.v.05	miss
+cleanse.v.01	cleanse
+possess.v.01	possess
+come_to.v.04	come to
+cup.v.01	cup
+mine	mine
+cut.v.24	cut
+pass.v.05	pass
+repel.v.01	repel
+charge.v.23	charge
+stoop.v.04	stoop
+honk.v.01	honk
+oil	oil
+quiet.a.02	quiet
+limp.v.01	limp
+ship_on	ship on
+make.v.01	make
+unhorse.v.01	unhorse
+assume.v.05	assume
+fall_upon.v.01	fall upon
+offer.v.07	offer
+demand.v.03	demand
+note_in	note in
+voice.v.01	voice
+incur.v.01	incur
+portray.v.02	portray
+discipline.v.01	discipline
+bank	bank
+bare	bare
+purse.v.02	purse
+plow.v.01	plow
+breastfeed.v.01	breastfeed
+derive.v.02	derive
+bring.v.04	bring
+storm_from	storm from
+crunch.v.03	crunch
+bend.v.01	bend
+discard.v.01	discard
+carry.v.04	carry
+hitch.v.01	hitch
+desire.v.01	desire
+throw.v.08	throw
+eye.v.01	eye
+elude.v.02	elude
+break.v.08	break
+achieve.v.01	achieve
+exclude.v.01	exclude
+change.v.02	change
+care.v.01	care
+appeal.v.01	appeal
+jerk.v.02	jerk
+man.v.02	man
+run_away.v.02	run away
+write.v.01	write
+retire.v.01	retire
+choke.v.01	choke
+ask.v.05	ask
+serve.v.09	serve
+boot.v.02	boot
+close.v.09	close
+grow.v.02	grow
+scale.v.04	scale
+stand_back.v.01	stand back
+slow.v.03	slow
+tire.v.02	tire
+show.v.04	show
+trip.v.02	trip
+do.v.08	do
+fight.v.03	fight
+let_out.v.04	let out
+gore.v.01	gore
+humidify.v.01	humidify
+form.v.01	form
+bank.v.03	bank
+pick.v.02	pick
+roll.v.12	roll
+drive_on	drive on
+sound.v.02	sound
+convey.v.01	convey
+form.v.03	form
+breathe.v.01	breathe
+shake.v.02	shake
+staple.v.01	staple
+charge.v.03	charge
+haul.v.01	haul
+join.v.02	join
+do_well.v.01	do well
+map.v.01	map
+transport.v.04	transport
+serve.v.06	serve
+fool.v.01	fool
+enter.v.06	enter
+dive.v.02	dive
+distance.v.01	distance
+emerge.v.01	emerge
+grow.v.07	grow
+trip_on	trip on
+smell_like	smell like
+record.v.01	record
+tear_down	tear down
+coerce.v.01	coerce
+sink.v.01	sink
+serve.v.10	serve
+tread.v.02	tread
+project.v.10	project
+wear.v.09	wear
+result.v.01	result
+push.v.02	push
+last.v.01	last
+fall.v.03	fall
+learn.v.02	learn
+watch.v.04	watch
+stretch.v.01	stretch
+charge.v.09	charge
+heed.v.01	heed
+fidget.v.01	fidget
+outrun.v.01	outrun
+glass.v.03	glass
+try.v.06	try
+draw_a_bead_on.v.02	draw a bead on
+arrive.v.01	arrive
+cast.v.02	cast
+master.v.01	master
+blossom.v.02	blossom
+strain.v.06	strain
+destroy.v.04	destroy
+note.v.03	note
+suprise	suprise
+breeze_through.v.01	breeze through
+ridicule.v.01	ridicule
+digest.v.04	digest
+bag.v.01	bag
+stream_to	stream to
+burn_up	burn up
+reach.v.07	reach
+startle.v.02	startle
+inject.v.01	inject
+levy.v.01	levy
+come.v.01	come
+pour.v.02	pour
+bridge.v.02	bridge
+gather.v.05	gather
+reinforce.v.01	reinforce
+scratch.v.02	scratch
+deal.v.09	deal
+manage.v.02	manage
+hop.v.01	hop
+ride.v.02	ride
+lose.v.02	lose
+vomit.v.01	vomit
+burn.v.03	burn
+mow.v.01	mow
+shadow.v.02	shadow
+rejoice.v.01	rejoice
+beat.v.15	beat
+shred.v.01	shred
+run.v.18	run
+service_to	service to
+complete.v.02	complete
+slap.v.01	slap
+pin_down.v.01	pin down
+respect.v.02	respect
+reach.v.01	reach
+join.v.03	join
+pick	pick
+consist.v.03	consist
+uncover.v.01	uncover
+browse.v.03	browse
+stomp.v.01	stomp
+sink.v.02	sink
+transgress.v.01	transgress
+launch.v.03	launch
+bribe.v.01	bribe
+peck.v.01	peck
+lay.v.02	lay
+furrow.v.02	furrow
+wipe_up.v.01	wipe up
+outdistance.v.01	outdistance
+reflect.v.04	reflect
+cheat.v.03	cheat
+make.v.08	make
+fail_in	fail in
+draw.v.10	draw
+double_over.v.01	double over
+belong.v.05	belong
+watch.v.01	watch
+practice.v.04	practice
+empty.v.02	empty
+lie.v.01	lie
+serve.v.01	serve
+blow_off.v.01	blow off
+cover.v.05	cover
+recumb.v.01	recumb
+air.v.02	air
+receive.v.01	receive
+sleep.v.01	sleep
+expose.v.03	expose
+embroil.v.01	embroil
+make.v.16	make
+know.v.05	know
+open.v.01	open
+confuse.v.02	confuse
+sit_on	sit on
+enhance.v.01	enhance
+lengthen.v.01	lengthen
+gain.v.07	gain
+saddle.v.01	saddle
+access.v.02	access
+tie_down.v.01	tie down
+adhere.v.06	adhere
+read.v.03	read
+anger.v.01	anger
+trouble.v.02	trouble
+work.v.05	work
+job.v.03	job
+grasp.v.01	grasp
+testify.v.02	testify
+report.v.05	report
+lie.v.04	lie
+acquire.v.05	acquire
+consider.v.03	consider
+overrule.v.01	overrule
+record.v.02	record
+pursue.v.02	pursue
+give.v.05	give
+welcome.v.03	welcome
+vibrate.v.01	vibrate
+control.v.02	control
+envy.v.01	envy
+hurt.v.06	hurt
+put_on.v.04	put on
+convey.v.03	convey
+fear.v.02	fear
+service.v.01	service
+forget.v.04	forget
+wall.v.01	wall
+gallop.v.01	gallop
+shed.v.01	shed
+promote.v.02	promote
+fast_for	fast for
+wag.v.01	wag
+flush.v.04	flush
+orient.v.01	orient
+frequent.v.02	frequent
+plant.v.05	plant
+condition.v.01	condition
+milk.v.02	milk
+bay.v.02	bay
+pass	pass
+low.a.01	low
+go.v.23	go
+interrupt.v.04	interrupt
+number.v.02	number
+hammer.v.01	hammer
+diagnose.v.02	diagnose
+thin.v.01	thin
+consist.v.02	consist
+erupt.v.01	erupt
+grow.v.03	grow
+work.v.02	work
+resist.v.02	resist
+spread.v.02	spread
+act_out.v.01	act out
+cover.v.04	cover
+have_to	have to
+cook.v.03	cook
+excrete.v.01	excrete
+age	age
+cake	cake
+draw.v.06	draw
+drop.v.03	drop
+turn.v.04	turn
+hit.v.01	hit
+develop.v.10	develop
+trample.v.02	trample
+unfold.v.04	unfold
+rise.v.02	rise
+concern.v.02	concern
+sponsor.v.01	sponsor
+happen.v.02	happen
+cut_out.v.01	cut out
+refer.v.03	refer
+belong_to.v.01	belong to
+double.v.04	double
+field.v.02	field
+lose.v.06	lose
+rate.v.03	rate
+bone.v.02	bone
+spin_off.v.01	spin off
+captain	captain
+subject.v.01	subject
+build.v.10	build
+contest.v.01	contest
+live.v.02	live
+guillotine.v.01	guillotine
+park.v.01	park
+commercialize.v.02	commercialize
+bloom.v.01	bloom
+play.v.05	play
+paw.v.01	paw
+harbor.v.01	harbor
+seal.v.01	seal
+immerse.v.01	immerse
+report.v.04	report
+switch_on.v.01	switch on
+sit_in.v.01	sit in
+crack.v.01	crack
+wind.v.03	wind
+hear.v.01	hear
+oil.v.01	oil
+drive	drive
+advance.v.02	advance
+choke.v.02	choke
+dress.v.03	dress
+diversify.v.03	diversify
+carry.v.21	carry
+observe.v.04	observe
+air_out.v.01	air out
+affect.v.02	affect
+race.v.03	race
+see.v.01	see
+travel_to.v.01	travel to
+say.v.10	say
+smell.v.02	smell
+bottle.v.02	bottle
+listen.v.02	listen
+hold_up.v.04	hold up
+obey.v.01	obey
+share.v.01	share
+pace.v.01	pace
+set.v.08	set
+come.v.16	come
+alight.v.01	alight
+wait.v.01	wait
+stay.v.02	stay
+buy	buy
+set.v.04	set
+skate.v.01	skate
+dislike.v.01	dislike
+date.v.01	date
+travel.v.01	travel
+interrupt.v.02	interrupt
+garden.v.01	garden
+dissolve_in	dissolve in
+ask.v.01	ask
+hear_with	hear with
+make.v.35	make
+side_against	side against
+plan.v.01	plan
+conduct.v.01	conduct
+rid.v.01	rid
+surprise.v.01	surprise
+machine.v.02	machine
+impart.v.03	impart
+sit_down.v.01	sit down
+fight	fight
+touch.v.02	touch
+mail.v.01	mail
+wish.v.03	wish
+plan.v.02	plan
+avoid.v.01	avoid
+take_up.v.04	take up
+endow.v.01	endow
+sail_along	sail along
+rush.v.03	rush
+miss.v.03	miss
+descend.v.01	descend
+shoot.v.01	shoot
+travel.v.05	travel
+nail_down.v.01	nail down
+kick.v.03	kick
+learn_from	learn from
+mark.v.02	mark
+jumpstart.v.01	jumpstart
+text_on	text on
+plain	plain
+cream.v.02	cream
+induce.v.02	induce
+time.v.02	time
+trade.v.03	trade
+strike.v.07	strike
+predict.v.01	predict
+lay	lay
+require	require
+gain.v.08	gain
+ship.v.05	ship
+offer.v.05	offer
+lend	lend
+get.v.27	get
+type.v.01	type
+work_at.v.01	work at
+stand.v.04	stand
+govern.v.02	govern
+lie.v.02	lie
+drink.v.01	drink
+mention.v.01	mention
+seat.v.04	seat
+wear.v.04	wear
+lead.v.08	lead
+adapt.v.01	adapt
+tumble.v.01	tumble
+bear.v.04	bear
+incorporate.v.02	incorporate
+mine.v.02	mine
+load.v.04	load
+carry.v.12	carry
+ramify.v.02	ramify
+interfere.v.01	interfere
+increase.v.02	increase
+drive.v.03	drive
+call.v.03	call
+embrown.v.02	embrown
+knock_out.v.01	knock out
+mark.v.05	mark
+fall_into.v.01	fall into
+hound.v.01	hound
+place.v.05	place
+flower	flower
+leave.v.07	leave
+author.v.01	author
+bring_around.v.02	bring around
+design.v.04	design
+force.v.06	force
+break_open.v.01	break open
+meet.v.06	meet
+inflict.v.01	inflict
+board.v.04	board
+prevail.v.03	prevail
+snuff_out.v.02	snuff out
+look_to.v.01	look to
+stick.v.09	stick
+wallow.v.02	wallow
+deceive.v.01	deceive
+camp.v.01	camp
+burn.v.10	burn
+answer.v.02	answer
+guide.v.04	guide
+intend.v.01	intend
+subjugate.v.02	subjugate
+strengthen.v.01	strengthen
+power.v.01	power
+flood.v.02	flood
+sail.v.03	sail
+follow.v.04	follow
+circle	circle
+donate.v.01	donate
+plant.v.01	plant
+break.v.09	break
+_similar_to	similar to
+cost.v.01	cost
+stiffen.v.02	stiffen
+detach.v.02	detach
+barbeque.v.01	barbeque
+save.v.02	save
+engage.v.10	engage
+sneak.v.01	sneak
+jump.v.01	jump
+against	against
+build_up.v.01	build up
+excavate.v.02	excavate
+sell.v.01	sell
+rope_in.v.01	rope in
+serve.v.07	serve
+travel_through	travel through
+smoke.v.01	smoke
+make_noise.v.01	make noise
+blow.v.01	blow
+seal.v.02	seal
+stock.v.06	stock
+carve.v.01	carve
+alloy.v.02	alloy
+patch.v.01	patch
+roll.v.17	roll
+start.v.06	start
+leave	leave
+imply.v.01	imply
+swallow.v.01	swallow
+spend.v.01	spend
+exist.v.02	exist
+pick.v.05	pick
+close_up.v.01	close up
+hurt.v.04	hurt
+keep.v.07	keep
+reconcile.v.03	reconcile
+commandeer.v.01	commandeer
+mind.v.01	mind
+salt.v.01	salt
+throw	throw
+farm.v.01	farm
+format.v.01	format
+wrestle.v.01	wrestle
+date.v.02	date
+taller_than	taller than
+change.v.06	change
+sleep_on	sleep on
+freeze.v.02	freeze
+agitate.v.02	agitate
+inhibit.v.04	inhibit
+tune	tune
+forward.v.01	forward
+feel.v.01	feel
+fail.v.04	fail
+limp.v.02	limp
+miss.v.06	miss
+hike.v.02	hike
+refund.v.01	refund
+groom.v.03	groom
+obscure.v.03	obscure
+sun.v.02	sun
+herd.v.03	herd
+recommend.v.01	recommend
+stick.v.13	stick
+smite.v.01	smite
+rain.v.01	rain
+roll.v.14	roll
+march.v.03	march
+hold.v.22	hold
+express.v.01	express
+stock.v.01	stock
+help.v.03	help
+sun.v.01	sun
+supply.v.01	supply
+smooth.v.01	smooth
+flush.v.02	flush
+consider.v.04	consider
+blow.v.02	blow
+air.v.03	air
+smash.v.01	smash
+expand.v.02	expand
+_derivationally_related_form	derivationally related form
+snooze.v.01	snooze
+temper.v.04	temper
+get_the_better_of.v.01	get the better of
+alphabetize.v.01	alphabetize
+denude.v.01	denude
+church.v.01	church
+crash.v.03	crash
+have	have
+bus	bus
+protect.v.01	protect
+blow.v.06	blow
+justify.v.01	justify
+map.v.04	map
+vote_in.v.01	vote in
+shake.v.01	shake
+visualize.v.01	visualize
+fear.v.01	fear
+exploit.v.01	exploit
+come.v.03	come
+observe.v.08	observe
+save.v.04	save
+marry.v.01	marry
+mean.s.06	mean
+appeal.v.02	appeal
+agree.v.01	agree
+give.v.03	give
+deviate.v.01	deviate
+penetrate.v.01	penetrate
+jump.v.11	jump
+judge.v.01	judge
+necessitate.v.01	necessitate
+drop_out.v.01	drop out
+arm	arm
+hit.v.09	hit
+land	land
+drink_out_of	drink out of
+rest.v.05	rest
+append.v.02	append
+dance_around	dance around
+seize.v.02	seize
+sentence.v.01	sentence
+wear.v.02	wear
+rescue.v.01	rescue
+grow_on	grow on
+switch_off.v.01	switch off
+land.v.04	land
+prevent.v.01	prevent
+report.v.02	report
+fold.v.01	fold
+focus.v.02	focus
+champ.v.01	champ
+get_down.v.07	get down
+stop.v.05	stop
+tell.v.05	tell
+occur.v.03	occur
+mimic.v.01	mimic
+nod.v.02	nod
+unclutter.v.01	unclutter
+exercise.v.04	exercise
+write_in.v.01	write in
+choose.v.03	choose
+prepare	prepare
+produce.v.02	produce
+represent.v.03	represent
+wedge.v.02	wedge
+save.v.05	save
+better.v.01	better
+ripple.v.01	ripple
+bank.v.01	bank
+box.v.02	box
+disguise.v.01	disguise
+harness.v.02	harness
+drown.v.03	drown
+group.v.01	group
+follow.v.23	follow
+order.v.02	order
+lift.v.03	lift
+taste.v.06	taste
+needle.v.01	needle
+bring.v.05	bring
+ride.v.10	ride
+blow.v.14	blow
+toast.v.02	toast
+hose.v.01	hose
+hold.v.10	hold
+proceed.v.02	proceed
+wear.v.03	wear
+touch.v.05	touch
+melt.v.01	melt
+break.v.05	break
+visit.v.03	visit
+ring.v.03	ring
+burn_down.v.01	burn down
+extract.v.01	extract
+earn.v.02	earn
+change.v.01	change
+raise.v.04	raise
+cast	cast
+charge.v.24	charge
+cover.v.13	cover
+pick.v.01	pick
+flutter.v.03	flutter
+jog.v.03	jog
+involve.v.01	involve
+turn.v.01	turn
+group	group
+reach.v.02	reach
+bag.v.05	bag
+doubt.v.02	doubt
+cook.v.01	cook
+tax.v.01	tax
+quarter.v.04	quarter
+cover.v.02	cover
+bus.v.03	bus
+bigger.s.01	bigger
+storm.v.05	storm
+provoke.v.02	provoke
+sound.v.04	sound
+build.v.03	build
+bite.v.01	bite
+mean.v.03	mean
+complete.v.05	complete
+prepare.v.05	prepare
+quote.v.02	quote
+empty.v.01	empty
+point.v.08	point
+seed.v.01	seed
+fall_in	fall in
+produce.v.03	produce
+give.v.19	give
+roll_out.v.01	roll out
+shoulder.v.01	shoulder
+imply.v.05	imply
+drop_on	drop on
+better.v.02	better
+exercise.v.03	exercise
+observe.v.09	observe
+bequeath.v.01	bequeath
+kick.v.01	kick
+wish.v.01	wish
+fly	fly
+cross.v.05	cross
+train_in	train in
+pronounce.v.01	pronounce
+celebrate.v.02	celebrate
+rise.v.15	rise
+count.v.02	count
+advertise.v.02	advertise
+hush.v.02	hush
+lap.v.03	lap
+swing.v.01	swing
+attach.v.03	attach
+absorb.v.01	absorb
+_member_of_domain_region	member of domain region
+save.v.09	save
+believe.v.01	believe
+feel.v.03	feel
+believe.v.04	believe
+_member_meronym	member meronym
+thin.v.02	thin
+cut.v.36	cut
+vanish.v.02	vanish
+tackle.v.03	tackle
+thwart.v.01	thwart
+gag.v.05	gag
+prepare.v.03	prepare
+invade.v.01	invade
+cut.v.30	cut
+ask.v.03	ask
+begin.v.04	begin
+retort.v.01	retort
+own.v.01	own
+prove.v.01	prove
+draw.v.04	draw
+thank.v.01	thank
+wedge_between	wedge between
+life	life
+upset.v.02	upset
+meet.v.01	meet
+hate.v.01	hate
+put_away.v.04	put away
+botch.v.01	botch
+drop.v.08	drop
+bob_for	bob for
+like.v.02	like
+play.v.09	play
+paint.v.02	paint
+dig.v.02	dig
+age.v.03	age
+regale.v.01	regale
+go.v.10	go
+cover.v.16	cover
+twist.v.10	twist
+include.v.01	include
+give.v.31	give
+page	page
+cloud.v.04	cloud
+care_for.v.01	care for
+graze.v.02	graze
+pollinate.v.01	pollinate
+weed_out.v.01	weed out
+finish_up.v.02	finish up
+haunt.v.01	haunt
+encourage.v.02	encourage
+bone	bone
+sign.v.01	sign
+sip.v.01	sip
+burn.v.05	burn
+effect.v.01	effect
+milk.v.01	milk
+pick_up.v.02	pick up
+strike_out.v.02	strike out
+hire.v.01	hire
+foam.v.01	foam
+prepare_for	prepare for
+lose.v.05	lose
+book.v.01	book
+adopt.v.01	adopt
+service	service
+pray_at	pray at
+argue.v.02	argue
+catalyze.v.01	catalyze
+seek.v.01	seek
+follow.v.03	follow
+rent.v.01	rent
+catch.v.27	catch
+iron.v.01	iron
+furlough.v.01	furlough
+announce.v.01	announce
+keep.v.01	keep
+think_up.v.01	think up
+snip.v.02	snip
+page.v.01	page
+mark	mark
+keep_track.v.01	keep track
+cash.v.01	cash
+control.v.01	control
+move.v.02	move
+shade.v.04	shade
+partake.v.02	partake
+wiretap.v.01	wiretap
+compress.v.02	compress
+dance.v.01	dance
+discontinue.v.01	discontinue
+store.v.01	store
+confront.v.01	confront
+crash.v.01	crash
+reach_into.v.01	reach into
+call.v.05	call
+rob.v.01	rob
+close.v.04	close
+lean_on.v.01	lean on
+separate.v.05	separate
+back.v.01	back
+grumble.v.03	grumble
+knock_out.v.03	knock out
+rest.v.02	rest
+choke.v.04	choke
+shield.v.01	shield
+voyage.v.01	voyage
+stamp.v.06	stamp
+stop.v.03	stop
+find.v.03	find
+race.v.04	race
+continue.v.02	continue
+value.v.01	value
+wrap.v.01	wrap
+break.v.44	break
+see.v.05	see
+shuttle.v.01	shuttle
+play_back.v.01	play back
+stay_from	stay from
+rate.v.01	rate
+decant.v.01	decant
+wake_up.v.02	wake up
+propel.v.01	propel
+administer.v.04	administer
+drop.v.02	drop
+list.v.01	list
+stick_to.v.02	stick to
+separate.v.01	separate
+mend.v.02	mend
+charge.v.06	charge
+solve.v.01	solve
+droop.v.02	droop
+skim_over.v.02	skim over
+quest_for.v.01	quest for
+harry.v.02	harry
+sound.v.01	sound
+become.v.02	become
+adhere.v.04	adhere
+salt.v.03	salt
+mine_for	mine for
+page_through	page through
+bet_on.v.01	bet on
+spring	spring
+make	make
+result_in	result in
+stumble.v.01	stumble
+fit.v.07	fit
+hit.v.03	hit
+tune.v.01	tune
+inflate.v.02	inflate
+across.r.02	across
+expect.v.03	expect
+clean.v.01	clean
+rise.v.04	rise
+rend.v.01	rend
+build_up.v.02	build up
+rush.v.02	rush
+gain.v.09	gain
+program.v.02	program
+agitate.v.06	agitate
+starve.v.01	starve
+lower.v.02	lower
+reflect.v.05	reflect
+sound.v.06	sound
+rest.v.03	rest
+sniff.v.01	sniff
+state.v.01	state
+stock.v.04	stock
+meet.v.05	meet
+wash.v.02	wash
+range.v.05	range
+break_with.v.01	break with
+frolic.v.01	frolic
+cut.v.28	cut
+flag_down.v.01	flag down
+locate.v.01	locate
+rent.v.04	rent
+carry	carry
+overdress.v.02	overdress
+weave.v.04	weave
+thump.v.03	thump
+describe.v.01	describe
+glass.v.01	glass
+squeeze.v.02	squeeze
+drown_in	drown in
+occur_in	occur in
+dress.v.06	dress
+widen.v.04	widen
+test.v.01	test
+count.v.04	count
+skin.v.04	skin
+float.v.01	float
+specialize.v.01	specialize
+depend_on.v.02	depend on
+wash.v.03	wash
+operate.v.01	operate
+grade.v.03	grade
+best	best
+surround.v.01	surround
+heat.v.01	heat
+defend.v.02	defend
+senesce.v.01	senesce
+sign.v.05	sign
+count.v.01	count
+salt.v.02	salt
+start.v.09	start
+serve.v.02	serve
+bathe.v.01	bathe
+end.v.03	end
+forget.v.03	forget
+chase.v.01	chase
+divide.v.01	divide
+eat.v.04	eat
+repent.v.02	repent
+singe	singe
+fly.v.01	fly
+course.v.03	course
+revert.v.01	revert
+loud.a.01	loud
+dart.v.02	dart
+accrue.v.01	accrue
+drive_off	drive off
+quarter.v.01	quarter
+tag.v.01	tag
+generate.v.01	generate
+have.v.17	have
+spring.v.05	spring
+catch.v.01	catch
+produce.v.06	produce
+clear.v.22	clear
+fail.v.01	fail
+hang.v.08	hang
+inadequate.s.02	inadequate
+take.v.21	take
+drop.v.01	drop
+even.v.03	even
+attack.v.01	attack
+can.v.01	can
+_verb_group	verb group
+present.v.05	present
+nip.v.03	nip
+conserve.v.02	conserve
+unravel.v.01	unravel
+pull.v.04	pull
+step.v.06	step
+drive.v.14	drive
+hunt.v.06	hunt
+meet.v.08	meet
+lift.v.10	lift
+delight.v.01	delight
+picture	picture
+reason.v.01	reason
+cross_off.v.01	cross off
+amount.v.01	amount
+stock.v.02	stock
+exceed.v.02	exceed
+follow_through.v.02	follow through
+come_to.v.03	come to
+file.v.05	file
+find.v.13	find
+snog.v.01	snog
+grub.v.02	grub
+force_out.v.04	force out
+dry.v.02	dry
+maroon.v.01	maroon
+replace.v.01	replace
+moo.v.01	moo
+listen.v.01	listen
+trot.v.01	trot
+switch.v.04	switch
+sell.v.05	sell
+decelerate.v.01	decelerate
+interrupt.v.03	interrupt
+total.v.01	total
+give.v.01	give
+bus.v.01	bus
+wish.v.02	wish
+chip.v.01	chip
+advance.v.08	advance
+suspect.v.03	suspect
+estimate.v.01	estimate
+adequate_to.s.01	adequate to
+circulate.v.02	circulate
+offer.v.01	offer
+kill.v.02	kill
+wear.v.05	wear
+run.v.01	run
+revolve_around.v.02	revolve around
+discover.v.03	discover
+separate.v.12	separate
+clear.v.02	clear
+belong.v.01	belong
+lead.v.05	lead
+trade.v.02	trade
+eat.v.02	eat
+pour.v.01	pour
+nail	nail
+come_to_the_fore.v.01	come to the fore
+run_along	run along
+paint.v.03	paint
+spur.v.01	spur
+end_up_in	end up in
+restrict.v.02	restrict
+weight	weight
+disperse.v.04	disperse
+pay.v.08	pay
+engender.v.01	engender
+imprint.v.01	imprint
+shunt.v.01	shunt
+reheat.v.01	reheat
+obscure.v.01	obscure
+overtake.v.01	overtake
+count.v.08	count
+derive.v.05	derive
+tall.a.01	tall
+manipulate.v.05	manipulate
+inform.v.01	inform
+flicker.v.03	flicker
+harass.v.01	harass
+dig.v.01	dig
+cut.v.11	cut
+talk_on	talk on
+machine.v.01	machine
+pick.v.07	pick
+outlive.v.01	outlive
+end_in	end in
+battle.v.01	battle
+out.v.03	out
+lap.v.04	lap
+burn	burn
+get.v.11	get
+dry.v.01	dry
+coil.v.03	coil
+sew.v.01	sew
+play.v.03	play
+paint	paint
+emit.v.01	emit
+butter.v.01	butter
+break.v.03	break
+culminate.v.01	culminate
+voice.v.02	voice
+ascend.v.08	ascend
+fillet.v.02	fillet
+direct.v.03	direct
+throw.v.13	throw
+go.v.03	go
+interfering.s.01	interfering
+serve.v.15	serve
+train.v.01	train
+get_off.v.05	get off
+sow.v.01	sow
+render.v.07	render
+search.v.01	search
+sail.v.01	sail
+continue.v.03	continue
+affect.v.05	affect
+notice	notice
+sit.v.02	sit
+feel.v.07	feel
+season.v.02	season
+wash.v.01	wash
+warm.v.02	warm
+bark.v.01	bark
+rain_on	rain on
+decide.v.02	decide
+crack.v.06	crack
+run.v.34	run
+revolt.v.01	revolt
+contain.v.05	contain
+raise.v.15	raise
+side	side
+cut.v.21	cut
+keep.v.16	keep
+roll.v.03	roll
+seed.v.05	seed
+castle_off_in	castle off in
+curl.v.01	curl
+letter.v.03	letter
+saw	saw
+crane.v.01	crane
+ask.v.02	ask
+seed.v.06	seed
+recline.v.02	recline
+think.v.01	think
+jump.v.13	jump
+watch.v.02	watch
+throw.v.02	throw
+clear_out.v.01	clear out
+hunt.v.03	hunt
+determine.v.01	determine
+welcome.v.01	welcome
+lurk.v.01	lurk
+encase.v.01	encase
+involve.v.05	involve
+open.s.13	open
+fudge.v.01	fudge
+circle.v.02	circle
+dream_of	dream of
+devour.v.03	devour
+star.v.01	star
+emerge.v.04	emerge
+sound.v.03	sound
+run.v.06	run
+accommodate.v.04	accommodate
+still.v.04	still
+seize.v.01	seize
+inhere_in.v.01	inhere in
+clear.s.08	clear
+slip.v.05	slip
+stop.v.01	stop
+reach.v.04	reach
+stop_on	stop on
+help.v.01	help
+glaze.v.02	glaze
+ford.v.01	ford
+occupy.v.03	occupy
+land.v.01	land
+intersect.v.01	intersect
+past.a.01	past
+tie.v.03	tie
+walk.v.04	walk
+surprise.v.02	surprise
+name.v.03	name
+draw.v.07	draw
+oppress.v.01	oppress
+stream	stream
+explore.v.02	explore
+fleece.v.02	fleece
+start.v.08	start
+write_on	write on
+demand.v.01	demand
+prevent.v.02	prevent
+accelerate.v.01	accelerate
+bankrupt.v.01	bankrupt
+erode.v.02	erode
+glide.v.02	glide
+dress.v.15	dress
+object.v.01	object
+source.v.02	source
+let.v.01	let
+think.v.03	think
+pass.v.14	pass
+whirl.v.02	whirl
+raise.v.25	raise
+view.v.02	view
+watch.v.03	watch
+shoe.v.01	shoe
+frost.v.01	frost
+agree.v.02	agree
+have.v.02	have
+can	can
+separate.v.08	separate
+fill_up.v.04	fill up
+radiate.v.01	radiate
+look_around.v.01	look around
+pet.v.01	pet
+stay_at.v.01	stay at
+travel.v.02	travel
+moderate.v.01	moderate
+decide.v.01	decide
+hang.v.04	hang
+win_over	win over
+stipulate.v.01	stipulate
+check.v.01	check
+burn_in	burn in
+experience.v.01	experience
+_synset_domain_topic_of	synset domain topic of
+beckon.v.01	beckon
+collaborate.v.01	collaborate
+hoard.v.01	hoard
+accompany.v.02	accompany
+hunt.v.01	hunt
+lose.v.07	lose
+ditch.v.01	ditch
+partcipate_in	partcipate in
+marry.v.02	marry
+front.v.01	front
+request.v.01	request
+fish	fish
+develop	develop
+create.v.02	create
+box.v.03	box
+tear_up	tear up
+walk.v.09	walk
+begin.v.03	begin
+contribute.v.02	contribute
+grow.v.08	grow
+hold.v.14	hold
+arm.v.02	arm
+work.v.03	work
+fire.v.02	fire
+attract.v.02	attract
+fall_off.v.01	fall off
+ride_off.v.01	ride off
+obtain.v.01	obtain
+raise.v.07	raise
+market.v.03	market
+nap.v.01	nap
+catch.v.04	catch
+explode.v.01	explode
+calm.v.01	calm
+react.v.03	react
+writhe.v.01	writhe
+claim.v.01	claim
+prioritize.v.01	prioritize
+decoy.v.01	decoy
+write.v.07	write
+ring_up.v.01	ring up
+tie.v.02	tie
+refuse.v.02	refuse
+twiddle.v.02	twiddle
+go.v.02	go
+return.v.05	return
+sign.v.06	sign
+come.v.06	come
+begin.v.02	begin
+scurry.v.01	scurry
+bag.v.02	bag
+subvert.v.04	subvert
+stock.v.05	stock
+trade.v.01	trade
+miss.v.01	miss
+bridge.v.01	bridge
+socialize.v.01	socialize
+get.v.28	get
+right.v.03	right
+hurt.v.02	hurt
+graduate.v.01	graduate
+press.v.04	press
+question.v.01	question
+defy.v.03	defy
+take.v.09	take
+come.v.15	come
+bend.v.02	bend
+pinpoint.v.01	pinpoint
+weigh.v.01	weigh
+find.v.01	find
+want.v.02	want
+stick.v.04	stick
+shape.v.02	shape
+take.v.24	take
+sit.v.01	sit
+rekey	rekey
+lift.v.02	lift
+walk_down	walk down
+answer.v.03	answer
+replenish.v.01	replenish
+total.v.02	total
+pull.v.08	pull
+sag.v.01	sag
+understand.v.01	understand
+burrow.v.01	burrow
+break.v.04	break
+bury.v.02	bury
+govern	govern
+disperse.v.02	disperse
+break_up.v.03	break up
+even.v.02	even
+write_down.v.01	write down
+digest.v.01	digest
+curl.v.04	curl
+arch.v.01	arch
+sense.v.02	sense
+except	except
+register.v.03	register
+bank_on	bank on
+lie_down.v.01	lie down
+lend.v.02	lend
+taste.v.02	taste
+put.v.01	put
+out_of.r.01	out of
+explain.v.02	explain
+plow.v.03	plow
+charge.v.02	charge
+show.v.08	show
+entrench.v.03	entrench
+interrupt.v.01	interrupt
+clog.v.01	clog
+do_with	do with
+resent.v.01	resent
+act.v.05	act
+take.v.02	take
+arise.v.02	arise
+sleep.v.02	sleep
+design.v.03	design
+emit.v.02	emit
+rest_on	rest on
+cloud.v.08	cloud
+rub.v.03	rub
+fancy.v.02	fancy
+converge.v.01	converge
+return.v.06	return
+plague	plague
+pass.v.09	pass
+slice.v.03	slice
+file.v.01	file
+straddle.v.01	straddle
+cover.v.01	cover
+calculate.v.02	calculate
+blemish.v.02	blemish
+promise.v.02	promise
+walk.v.02	walk
+turn_over	turn over
+adjust.v.01	adjust
+face.v.04	face
+hurl.v.03	hurl
+go_on.v.05	go on
+shoulder.v.02	shoulder
+decree.v.01	decree
+letter.v.02	letter
+encode.v.01	encode
+judge.v.05	judge
+name.v.05	name
+segment.v.01	segment
+use.v.04	use
+form.v.02	form
+play_around.v.01	play around
+reproduce.v.02	reproduce
+grow.v.04	grow
+carry.v.26	carry
+place.v.02	place
+tow.v.01	tow
+take.v.15	take
+lead.v.01	lead
+book.v.03	book
+wet.v.01	wet
+scald.v.02	scald
+bottom_out_in	bottom out in
+air.v.05	air
+get_into.v.01	get into
+entail.v.01	entail
+warm.v.01	warm
+tuck.v.01	tuck
+alight.v.02	alight
+fit.v.02	fit
+traverse.v.01	traverse
+busy.v.01	busy
+hit.v.02	hit
+suffocate.v.02	suffocate
+cup.v.03	cup
+become	become
+bit	bit
+waste.v.01	waste
+respect.v.01	respect
+impel.v.01	impel
+join.v.01	join
+please.v.01	please
+bury.v.05	bury
+press.v.01	press
+complain.v.01	complain
+light_up.v.01	light up
+shop.v.01	shop
+identify.v.01	identify
+speak_for.v.01	speak for
+submerge.v.01	submerge
+strike.v.21	strike
+study_for	study for
+travel_by	travel by
+dense.s.04	dense
+use.v.02	use
+descry.v.01	descry
+hang.v.03	hang
+poison.v.05	poison
+embrace.v.01	embrace
+edit.v.03	edit
+zip_up.v.01	zip up
+trade.v.04	trade
+beat.v.03	beat
+turn_down.v.05	turn down
+award.v.01	award
+feed.v.01	feed
+stream.v.01	stream
+bread.v.01	bread
+tell.v.03	tell
+mail.v.02	mail
+step_out.v.01	step out
+war.v.01	war
+slide.v.03	slide
+lend.v.03	lend
+follow.v.08	follow
+strike.v.04	strike
+field.v.03	field
+cost.v.02	cost
+piss_on	piss on
+sign.v.02	sign
+go_around	go around
+fasten.v.01	fasten
+unfold.v.03	unfold
+stroke.v.01	stroke
+operate.v.03	operate
+give_birth.v.01	give birth
+seat.v.01	seat
+dive.v.01	dive
+lodge.v.02	lodge
+anchor.v.01	anchor
+take_out.v.04	take out
+spread.v.03	spread
+wean.v.01	wean
+star.v.02	star
+mobile.a.02	mobile
+encircle.v.01	encircle
+crunch.v.02	crunch
+write_on.v.01	write on
+hamper.v.01	hamper
+target.v.01	target
+print.v.01	print
+survive.v.01	survive
+yoke.v.02	yoke
+commit.v.06	commit

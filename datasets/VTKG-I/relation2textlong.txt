@@ -1,0 +1,217 @@
+accommodate.v.04	have room for; hold without crowding
+adjust.v.01	alter or regulate so as to achieve accuracy or conform to a standard
+against	against
+align.v.01	place in a line or arrange so as to be parallel or straight
+assemble.v.01	create by putting components or members together
+attach.v.01	cause to be attached
+attach.v.02	be attached; be in contact with
+attach.v.03	become attached
+attach_to	attach to
+attach_to.v.01	be present or associated with an event or entity
+audit.v.01	examine carefully for accuracy with the intent of verification
+beckon.v.01	signal with the hands or nod
+blow.v.01	exhale hard
+board.v.01	get on board of (trains, buses, ships, aircraft, etc.)
+break.v.05	destroy the integrity of; usually by force; cause to separate into pieces or fragments
+brush.v.01	rub with a brush, or as if with a brush
+buy.v.01	obtain by purchase; acquire by means of a financial transaction
+carry.v.02	have with oneself; have on one's person
+carry.v.26	have on the surface or on the skin
+catch.v.04	take hold of so as to seize or restrain or stop the motion of
+chase.v.01	go after with the intent to catch
+check.v.01	examine so as to determine accuracy, quality, or condition
+check.v.02	make an examination or investigation
+clean.v.01	make clean by removing dirt, filth, or unwanted substances from
+confront.v.01	oppose, as in hostility or a competition
+confront.v.02	deal with (something unpleasant) head on
+confront.v.03	present somebody with something, usually to accuse or criticize
+contain.v.05	be capable of holding or containing
+cook.v.01	prepare a hot meal
+cook.v.02	prepare for eating by applying heat
+cover.v.01	provide with a covering or cause to be covered
+cover.v.02	form a cover over
+cream.v.02	beat thoroughly and conclusively in a competition or fight
+crunch.v.02	press or grind with a crushing noise
+cut.v.01	separate with or as if with an instrument
+cut.v.04	make an incision or separation
+cut.v.28	reap or harvest
+decant.v.01	pour out
+direct.v.01	command with authority
+discipline.v.01	develop (children's) behavior by instruction and practice; especially to teach self-control
+drag.v.01	pull, as against a resistance
+dress.v.15	give a neat appearance to
+dribble.v.03	propel, "Carry the ball"
+drink.v.01	take in liquids
+drive.v.01	operate or control a vehicle
+drive.v.02	travel or be transported in a vehicle
+drive_on	drive on
+dry.v.01	remove the moisture from and make dry
+eat.v.01	take in solid food
+eat.v.02	eat a meal; take a meal
+embrace.v.02	squeeze (someone) tightly in your arms, usually with fondness
+exit.v.01	move out of or depart from
+face.v.05	turn so as to face; turn the face in a certain direction
+feed.v.01	provide as food
+feed.v.02	give food to
+feed.v.06	take in food; used of animals only
+fill.v.01	make full, also in a metaphorical sense
+fleece.v.02	shear the wool from
+flip.v.05	cause to move with a flick
+flush.v.02	flow freely
+fly.v.01	travel through the air; be airborne
+follow.v.01	to travel behind, go after, come after
+front.v.01	be oriented in a certain direction, often with respect to another reference point; be opposite to
+get.v.03	cause to move; cause to be in a certain position or condition
+greet.v.01	express greetings upon meeting someone
+grind.v.07	shape or form by grinding
+groom.v.03	care for one's external appearance
+have	have
+have.v.01	have or possess, either in a concrete or an abstract sense
+have.v.02	have as a feature
+herd.v.01	cause to herd, drive, or crowd together
+hit.v.01	cause to move by striking
+hold.v.02	have or hold in one's hands or grip
+hold.v.10	be the physical support of; carry the weight of
+hold.v.11	contain or hold; have within
+hold.v.22	hold the attention of
+hop_on.v.01	get up on the back of
+hose.v.01	water with a hose
+hunt.v.01	pursue for food or sport (as of wild animals)
+incorporate.v.02	include or contain; have as a component
+inhere_in.v.01	be part of
+inspect.v.01	look over carefully
+install.v.01	set up for use
+jab.v.01	poke or thrust abruptly
+jump.v.01	move forward by leaps and bounds
+jump.v.11	cause to jump or leap
+keep.v.01	keep in a certain state, position, or activity; e.g., "keep clean"
+kick.v.01	drive or propel with the foot
+lasso.v.01	catch with a lasso
+launch.v.02	propel with force
+launch.v.03	launch for the first time; launch on a maiden voyage
+lean.v.01	to incline or bend from a vertical position
+lean.v.02	cause to lean or incline
+lean_on.v.01	rest on for support
+let_go_of.v.01	release, as from one's grip
+lick.v.02	pass the tongue over
+lie.v.01	be located or situated somewhere; occupy a certain position
+lie.v.02	be lying, be prostrate; be in a horizontal position
+light.v.01	make lighter or brighter
+load.v.01	fill or place a load on
+load.v.04	put (something) on a structure or conveyance
+lodge.v.02	put, fix, force, or implant
+look.v.01	perceive with attention; direct one's gaze towards
+look.v.02	give a certain impression or have a certain outward aspect
+lose.v.01	fail to keep or to maintain; cease to have, either physically or in an abstract sense
+make.v.03	make or cause to be or to become
+manipulate.v.05	control (others or oneself) or influence skillfully, usually to one's advantage
+milk.v.01	take milk from female mammals
+move.v.02	cause to move or shift into a new position or place, both in a concrete and in an abstract sense
+obstruct.v.01	hinder or prevent the progress or accomplishment of
+open.v.01	cause to open or to become open
+open.v.03	become open
+operate.v.01	direct or control; projects, businesses, etc.
+operate.v.03	handle and cause to function
+own.v.01	have ownership or possession of
+pack.v.01	arrange in a container
+paint.v.01	make a painting
+paint.v.02	apply paint to; coat with paint
+park.v.01	place temporarily
+park.v.02	maneuver a vehicle into a parking space
+parry.v.01	impede the movement of (an opponent or a ball)
+pay.v.01	give money, usually in exchange for goods or services
+pet.v.01	stroke or caress gently
+pick.v.01	select carefully from a group
+pick_up.v.01	take and lift upward
+pick_up.v.02	take up by hand
+play.v.01	participate in games or sport
+play.v.03	play on an instrument
+play.v.05	be at play; be engaged in playful activity; amuse oneself in a way characteristic of children
+pluck.v.04	pull lightly but sharply with a plucking motion
+point.v.08	mark with diacritics
+produce.v.02	create or manufacture a man-made product
+pull.v.01	cause to move by pulling
+pull.v.04	apply force so as to cause motion towards the source of the motion
+push.v.01	move with force, "He pushed the table into a corner"
+put.v.01	put into a certain place or abstract location
+race.v.02	compete in a race
+race.v.04	cause to move fast or to rush or race
+raise.v.02	raise from a lower to a higher position
+read.v.01	interpret something that is written or printed
+repair.v.01	restore by replacing a part or putting together what is torn or broken
+rest.v.01	not move; be in a resting position
+rest.v.02	take a short break from one's activities in order to relax
+rest_on	rest on
+restrain.v.03	to close within bounds, limit or hold back from movement
+ride.v.01	sit and travel on the back of animal, usually while controlling its motions
+ride.v.02	be carried or travel on or in a vehicle
+ride.v.10	sit on and control a vehicle
+row.v.01	propel with oars
+rub.v.02	cause friction
+run.v.01	move fast by using one's feet, with one foot off the ground at any given time
+sail.v.01	traverse or travel on (a body of water)
+scratch.v.02	cut the surface of; wear away the surface of
+search.v.02	search or seek
+send.v.01	cause to go somewhere
+serve.v.06	provide (usually but not necessarily food)
+sign.v.01	mark with one's signature; write one's name (on)
+sip.v.01	drink in sips
+sit.v.01	be seated
+sit.v.02	be around, often idly or without specific purpose
+sit.v.07	be located or situated somewhere
+sit_down.v.01	take a seat
+sit_on	sit on
+skate.v.01	move along on skates
+skin.v.04	strip the skin off
+sleep.v.01	be asleep
+sleep_on	sleep on
+slide.v.03	move smoothly along a surface
+smell.v.01	inhale the odor of; perceive by the olfactory sense
+smell.v.02	emit an odor
+snog.v.01	touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc.
+squeeze.v.02	press firmly
+stand.v.01	be standing; be upright
+stand.v.02	be in some specified state or condition
+stand.v.03	occupy a place or location, also metaphorically
+stand_on	stand on
+startle.v.02	move or jump suddenly, as if in surprise or alarm
+steer.v.01	direct the course; determine the direction of travelling
+stick.v.13	pierce or penetrate or puncture with something pointed
+stir.v.01	move an implement through
+stop.v.01	come to a halt, stop moving
+straddle.v.01	sit or stand astride of
+swing.v.01	move in a curve or arc, usually with the intent of hitting
+tag.v.01	attach a tag or label to
+talk.v.01	exchange thoughts; talk with
+tall.a.01	great in vertical dimension; high in stature
+taller_than	taller than
+teach.v.01	impart skills or knowledge to
+text_on	text on
+throw.v.01	propel through the air
+tie.v.01	fasten or secure with a rope, string, or cord
+tire.v.02	exhaust or get tired through overuse or great strain or stress
+toast.v.02	propose a toast to
+touch.v.01	make physical contact with, come in contact with
+touch.v.05	be in direct physical contact with; make contact
+transport.v.02	move while supporting, either in a vehicle or in one's hands or on one's body
+turn.v.01	change orientation or direction, also in the abstract sense
+type.v.01	write by means of a keyboard with types
+unfold.v.04	spread out or open from a closed or folded state
+use.v.01	put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+walk.v.01	use one's feet to advance; advance by steps
+walk.v.02	accompany or escort
+walk.v.04	traverse or cover by walking
+walk.v.09	make walk
+walk.v.10	take a walk; go for a walk; walk for pleasure
+wash.v.01	clean with some chemical process
+wash.v.02	cleanse (one's body) with soap and water
+wash.v.03	cleanse with a cleaning agent, such as soap, and water
+watch.v.01	look attentively
+watch.v.03	see or watch
+watch.v.04	observe with attention
+wear.v.01	be dressed in
+wear.v.02	have on one's person
+wear.v.05	have or show an appearance of
+whirl.v.02	cause to spin
+wield.v.02	handle effectively
+zip_up.v.01	close with a zipper

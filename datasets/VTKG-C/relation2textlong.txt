@@ -1,0 +1,2731 @@
+separate.v.09	go one's own way; move apart
+pollute.v.01	make impure
+overcast.v.01	make overcast or cloudy
+equip.v.01	provide with (something) usually for a specific purpose
+profit.v.01	derive a benefit from
+away.s.01	not present; having left
+burn.v.07	cause to undergo combustion
+add.v.04	make an addition by combining numbers
+rinse.v.01	wash off soap or remaining dirt
+separate.v.02	force, take, or pull apart
+populate.v.01	inhabit or live in; be an inhabitant of
+feign.v.01	make believe with the intent to deceive
+blow_up.v.02	make large
+flog.v.01	beat severely with a whip or rod
+adopt.v.02	take up and practice as one's own
+remember.v.01	recall knowledge from memory; have a recollection
+blow	blow
+pass.v.01	go across or through
+spin.v.05	form a web by making a thread
+flip.v.05	cause to move with a flick
+offer.v.04	put forward for consideration
+direct.v.09	give directions to; point somebody into a certain direction
+corner.v.02	force a person or an animal into a position from which he cannot escape
+market.v.01	engage in the commercial promotion, sale, or distribution of
+lick.v.02	pass the tongue over
+wave_in	wave in
+jump	jump
+drink_in.v.01	be fascinated or spell-bound by; pay close attention to
+scape	scape
+drag.v.11	proceed for an extended period of time
+legislate.v.01	make laws, bills, etc. or bring into effect by legislation
+present.v.04	hand over formally
+catch.v.02	perceive with the senses quickly, suddenly, or momentarily
+transport.v.01	move something or somebody around; usually over long distances
+stand.v.06	have or maintain a position or stand on an issue
+train.v.02	undergo training or instruction in preparation for a particular role, function, or profession
+break.v.29	cause the failure or ruin of
+conduct.v.02	lead, as in the performance of a composition; Barenboim conducted the Chicago symphony for years"
+change.v.05	change clothes; put on different clothes
+ground.v.05	bring to the ground
+cut_off.v.03	remove by or as if by cutting
+herd.v.02	move together, like a herd
+close.v.06	complete a business deal, negotiation, or an agreement
+reach_for	reach for
+stay.v.09	stop a judicial process
+plop.v.02	drop with the sound of something falling into water
+tune.v.02	adjust the pitches of (musical instruments)
+wonder.v.03	be amazed at
+dream.v.02	experience while sleeping
+stand.v.02	be in some specified state or condition
+distinguish.v.01	mark as different
+inspect.v.01	look over carefully
+reason.v.03	think logically
+orb.v.01	move in an orbit
+charge.v.01	to make a rush at or sudden attack upon, as in battle
+tie.v.01	fasten or secure with a rope, string, or cord
+enter.v.01	to come or go into
+predominate.v.01	be larger in number, quantity, power, status or importance
+drag.v.01	pull, as against a resistance
+camp.v.02	establish or set up a camp
+tug.v.02	strive and make an effort to reach a goal
+sign_to	sign to
+saw.v.01	cut with a saw
+worsen.v.02	make worse
+scape_from	scape from
+fit.v.05	insert or adjust several objects or people
+execute.v.01	kill as a means of socially sanctioned punishment
+return_from	return from
+meet.v.04	fill or meet a want or need
+dilute.v.01	lessen the strength or flavor of a solution or mixture
+cool.v.02	loose heat
+preen.v.01	clean with one's bill
+thrust.v.01	push forcefully
+incline.v.02	bend or turn (one's ear) towards a speaker in order to listen well
+classify.v.01	arrange or order by classes or categories
+wring.v.02	twist and compress, as if in pain or anguish
+destroy.v.01	do away with, cause the destruction or undoing of
+weather.v.01	face and withstand with courage
+guide.v.05	pass over, across, or through
+question.v.03	pose a question
+forget.v.02	be unable to remember
+hover.v.03	hang in the air; fly or be suspended above
+represent.v.12	describe or present, usually with respect to a particular quality
+become.v.01	enter or assume a certain state or condition
+get.v.01	come into the possession of something concrete or abstract
+slow.v.02	become slow or slower
+herd.v.01	cause to herd, drive, or crowd together
+besiege.v.01	surround so as to force to give up
+send.v.01	cause to go somewhere
+pluck.v.04	pull lightly but sharply with a plucking motion
+bottom_out.v.01	reach the low point
+_hypernym	hypernym
+make.v.14	be or be capable of being changed or made into
+sleep_in	sleep in
+mother.v.01	care for like a mother
+assemble.v.01	create by putting components or members together
+fellate.v.01	provide sexual gratification through oral stimulation
+promote.v.01	contribute to the progress or growth of
+mind.v.02	be concerned with or about something or somebody
+play.v.01	participate in games or sport
+side.v.01	take sides for or against
+froth.v.03	exude or expel foam
+end.v.04	put an end to
+state_mind_to	state mind to
+administer.v.01	work in an administrative capacity; supervise or be in charge of
+drive.v.15	urge forward
+prolong.v.02	lengthen or extend in duration or space
+intercept.v.01	seize on its way
+understand.v.02	perceive (an idea or situation) mentally
+battle	battle
+fracture.v.05	break (a bone)
+weather.v.03	sail to the windward of
+fly.v.05	cause to fly or float
+process.v.02	deal with in a routine way
+step_on.v.01	place or press the foot on
+promise.v.01	make a promise or commitment
+tease.v.01	annoy persistently
+delay.v.01	cause to be slowed down or delayed
+turn.v.10	cause to move around a center so as to show another side of
+surface.v.01	come to the surface
+volunteer.v.02	agree freely
+rock.v.01	move back and forth or sideways
+hollow.v.02	remove the interior of
+honor.v.01	bestow honor or rewards upon
+serve.v.14	mate with
+second.v.01	give support or one's approval to
+cling.v.03	hold on tightly or tenaciously
+spit.v.01	expel or eject (saliva or phlegm or sputum) from the mouth
+maim.v.01	injure or wound seriously and leave permanent disfiguration or mutilation
+hold.v.02	have or hold in one's hands or grip
+cup.v.02	put into a cup
+support.v.01	give moral or psychological support, aid, or courage to
+deliver.v.02	bring to a destination, make a delivery
+forecast.v.01	predict in advance
+precipitate.v.03	fall from clouds
+endanger.v.01	pose a threat to; present a danger to
+appear.v.04	seem to be true, probable, or apparent
+accumulate.v.02	collect or gather
+check.v.02	make an examination or investigation
+play.v.07	perform music on (a musical instrument)
+insert.v.02	introduce
+deal.v.06	do business; offer for sale as for one's livelihood
+travel_under	travel under
+extinguish.v.04	terminate, end, or take out
+stain.v.01	color with a liquid dye or tint
+rout.v.02	dig with the snout
+nest.v.01	inhabit a nest, usually after building
+explain.v.01	make plain and comprehensible
+travel.v.03	make a trip for pleasure
+determine.v.02	shape or influence; give direction to
+freeze.v.01	stop moving or become immobilized
+age.v.01	begin to seem older; get older
+wind.v.05	coil the spring of (some mechanical device) by turning a stem
+mix.v.04	add as an additional element or part
+gnaw.v.01	bite or chew on with the teeth
+settle.v.03	settle conclusively; come to terms
+chew_over.v.01	reflect deeply on a subject
+take.v.01	carry out
+frighten.v.01	cause fear in
+through.r.01	from beginning to end
+open_fire.v.01	start firing a weapon
+rain	rain
+create.v.05	create by artistic means
+sign.v.04	engage by written agreement
+irritate.v.02	excite to an abnormal condition, or chafe or inflame
+splash.v.05	make a splashing sound
+breath_in	breath in
+play.v.35	exhaust by allowing to pull on the line
+hop_on.v.01	get up on the back of
+order.v.01	give instructions to or direct somebody to do something with authority
+return_with	return with
+howl.v.02	cry loudly, as of animals
+head.v.01	to go or travel towards
+give_voice.v.01	put into words or an expression
+will.v.02	determine by choice
+develop.v.01	make something new, such as a product or a mental or artistic creation
+shout.v.02	utter a sudden loud cry
+_has_part	has part
+give.v.04	convey or reveal information
+attach_to	attach to
+mellow.v.02	become more relaxed, easygoing, or genial
+man	man
+assemble.v.03	get people together
+praise.v.01	express approval of
+mail	mail
+load.v.01	fill or place a load on
+prosecute.v.03	carry out or participate in an activity; be involved in
+belong.v.04	be rightly classified in a class or category
+harm.v.01	cause or do harm to
+lease.v.03	grant use or occupation of under a term of contract
+clean.v.02	remove unwanted substances from, such as feathers or pits
+position.v.01	cause to be in an appropriate place, state, or relation
+quarter.v.03	divide into quarters
+fabricate.v.02	make up something artificial or untrue
+massacre.v.01	kill a large number of people indiscriminately
+put_up.v.08	provide
+feed.v.02	give food to
+wonder.v.01	have a wish or desire to know something
+exist.v.01	have an existence, be extant
+ring.v.01	sound loudly and sonorously
+brandish.v.01	move or swing back and forth
+plant.v.06	put firmly in the mind
+elect.v.01	select by a vote for an office or membership
+arrive_on	arrive on
+return.v.01	go or come back to place, condition, or activity where one has been before
+cloud.v.06	make less clear
+board_up.v.01	cover with wooden boards
+screen.v.03	examine in order to test suitability
+short-circuit.v.02	create a short circuit in
+advertise.v.01	call attention to
+postdate.v.01	be later in time
+vote.v.01	express one's preference for a candidate or for a measure or resolution; cast a vote
+away.r.02	from one's possession
+cry.v.02	shed tears because of sadness, rage, or pain
+break_in.v.01	enter someone's (virtual or real) property in an unauthorized manner, usually with the intent to steal or commit a violent act
+stream.v.05	flow freely and abundantly
+affect.v.01	have an effect upon
+appear.v.02	come into sight or view
+advance.v.01	move forward, also in the metaphorical sense
+show.v.10	give evidence of, as of records
+fuel.v.02	provide with fuel
+restrict.v.01	place restrictions on
+up.v.01	raise
+touch.v.03	affect emotionally
+further.r.01	to or at a greater extent or degree or a more advanced stage (`further' is used more often than `farther' in this abstract sense)
+come_in.v.03	come into fashion; become fashionable
+study.v.02	be a student; follow a course of study; be enrolled at an institute of learning
+walk.v.01	use one's feet to advance; advance by steps
+box.v.01	put into a box
+short-change.v.01	cheat someone by not returning him enough money
+make.v.02	give certain properties to something
+head.v.04	be the first or leading member of (a group) and excel
+conflict.v.01	be in conflict
+measure.v.01	determine the measurements of something or somebody, take measurements of
+feel_up_to	feel up to
+issue_forth.v.01	come forth
+dislocate.v.01	move out of position
+think.v.05	imagine or visualize
+company.v.01	be a companion to somebody
+try.v.01	make an effort or attempt
+receive.v.02	receive a specified treatment (abstract)
+distingush_by	distingush by
+infest.v.01	invade in great numbers
+expand.v.03	make bigger or wider in size, volume, or quantity
+out.v.02	reveal (something) about somebody's identity or lifestyle
+give.v.37	offer in good faith
+field.v.01	catch or pick up (balls) in baseball or cricket
+report.v.01	to give an account or representation of in words
+devour.v.01	destroy completely
+end.v.01	have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical
+picture.v.02	show in, or as in, a picture
+pull.v.03	move into a certain direction
+argue.v.01	present reasons and arguments
+treat.v.03	provide treatment for
+hit	hit
+crowd_around	crowd around
+rise_above	rise above
+reduce.v.01	cut down on; make a reduction in
+lap.v.01	lie partly over or alongside of something or of one another
+outdo.v.02	get the better of
+download.v.01	transfer a file or program from a central computer to a smaller computer or to a computer at a remote location
+signalize.v.03	point out carefully and clearly
+debate.v.01	argue with one another
+back.v.05	support financial backing for
+hope.v.02	be optimistic; be full of hope; have hopes
+fry.v.02	cook on a hot surface using fat
+wall_in.v.01	enclose with a wall
+comply.v.01	act in accordance with someone's rules, commands, or wishes
+exist_in	exist in
+fix	fix
+cleanse.v.02	purge of an ideology, bad thoughts, or sins
+leak.v.03	enter or escape as through a hole or crack or fissure
+wedge	wedge
+denote.v.02	have as a meaning
+cry.v.05	demand immediate action
+publish.v.02	prepare and issue for public distribution or sale
+make_bold.v.01	take upon oneself; act presumptuously, without permission
+excel.v.01	distinguish oneself
+involve.v.02	engage as a participant
+change.v.03	become different in some particular way, without permanently losing one's or its former characteristics or essence
+shine.v.02	emit light; be bright, as of the sun or a light
+give.v.07	convey or communicate; of a smile, a look, a physical gesture
+unseat.v.02	dislodge from one's seat, as from a horse
+grind.v.07	shape or form by grinding
+remember.v.03	recapture the past; indulge in memories
+down.a.01	being or moving lower in position or less in some value
+stalk.v.03	go through (an area) in search of prey
+wind.v.02	extend in curves and turns
+perambulate.v.02	walk with no particular goal
+attract.v.01	direct toward itself or oneself by means of some psychological power or physical attributes
+dine.v.01	have supper; eat dinner
+lower.v.01	move something or somebody to a lower position
+eat.v.01	take in solid food
+situate.v.02	put (something somewhere) firmly
+dust.v.01	remove the dust from
+foster.v.01	promote the growth of
+place.v.06	take a place in a competition; often followed by an ordinal
+winter.v.01	spend the winter
+storm	storm
+delight.v.02	take delight in
+scorch.v.02	become superficially burned
+decompose.v.03	break down
+spot.v.04	make a spot or mark onto
+confront.v.02	deal with (something unpleasant) head on
+shape.v.03	give shape or form to
+wind_down	wind down
+jump.v.06	enter eagerly into
+bite.v.02	cause a sharp or stinging pain or discomfort
+run.v.14	change from one state to another
+show.v.01	give an exhibition of to an interested audience
+board.v.01	get on board of (trains, buses, ships, aircraft, etc.)
+include.v.03	add as part of something else; put in as part of a set, group, or category
+make_up.v.04	make up work that was missed due to absence at a later point
+will	will
+tear.v.05	fill with tears or shed tears
+weave.v.01	interlace by or as if by weaving
+swing.v.02	move or walk in a swinging or swaying manner
+boil.v.02	immerse or be immersed in a boiling liquid, often for cooking purposes
+bring_to.v.01	return to consciousness
+open.v.03	become open
+manufacture.v.01	put together out of artificial or natural components or parts; He manufactured a popular cereal"
+switch.v.06	flog with or as if with a flexible rod
+rubbish.v.01	attack strongly
+repair.v.01	restore by replacing a part or putting together what is torn or broken
+kick.v.02	thrash about or strike out with the feet
+smoke	smoke
+roll.v.01	move by turning over or rotating
+double.v.01	increase twofold
+cry_out_for.v.01	need badly or desperately
+teach.v.02	accustom gradually to some action or attitude
+pass.v.20	throw (a ball) to another player
+provide.v.02	give what is desired or needed, especially support, food or sustenance
+trip.v.05	get high, stoned, or drugged
+flat.s.01	having a surface without slope, tilt in which no part is higher or lower than another
+push_up.v.01	push upward
+doctor.v.02	give medical treatment to
+chair.v.01	act or preside as chair, as of an academic department in a university
+steam.v.02	emit steam
+bring.v.01	take something or somebody with oneself somewhere
+clear.v.05	remove
+observe.v.06	behave as expected during of holidays or rites
+tear_away.v.01	rip off violently and forcefully
+express.v.02	articulate; either verbally or with a cry, shout, or noise
+hanker.v.01	desire strongly or persistently
+share.v.04	give out as one's portion or share
+waste.v.02	use inefficiently or inappropriately
+distinguish.v.03	be a distinctive feature, attribute, or trait; sometimes in a very positive sense
+offer.v.06	make available for sale
+free.v.06	free from obligations or duties
+singe.v.01	burn superficially or lightly
+cut.v.22	form or shape by cutting or incising
+exert.v.01	put to use
+duplicate.v.03	make a duplicate or duplicates of
+play.v.16	engage in an activity as if it were a game rather than take it seriously
+dissolve.v.09	become or cause to become soft or liquid
+season.v.01	lend flavor to
+transport.v.02	move while supporting, either in a vehicle or in one's hands or on one's body
+barricade.v.01	render unsuitable for passage
+shoot.v.02	kill by firing a missile
+break.v.18	interrupt a continued activity
+spoil.v.02	become unfit for consumption or use
+trill.v.01	pronounce with a trill, of the phoneme `r'
+run_into.v.01	be beset by
+beat.v.01	come out better in a competition, race, or conflict
+satisfy.v.01	meet the requirements or expectations of
+seem.v.03	appear to exist
+end.v.02	bring to an end or halt
+grab.v.06	capture the attention or imagination of
+group.v.02	form a group or group together
+head.v.02	be in charge of
+fail.v.03	disappoint, prove undependable to; abandon, forsake
+crowd.v.03	to gather together in large numbers
+sit	sit
+fall_asleep.v.01	change from a waking to a sleeping state
+retain.v.01	hold back within
+row_with	row with
+sing.v.01	deliver by singing
+cool.v.01	make cool or cooler
+hatch.v.01	emerge from the eggs
+list.v.03	cause to lean to the side
+wet.a.01	covered or soaked with a liquid such as water
+dissolve.v.02	cause to go into a solution
+appear.v.06	appear as a character on stage or appear in a play, etc.
+brown	brown
+enjoy.v.01	derive or receive pleasure from; get enjoyment from; take pleasure in
+share.v.05	communicate
+meet.v.02	get together socially or for a specific purpose
+clap.v.04	clap one's hands together
+leave.v.02	go and leave behind, either intentionally or by neglect or forgetfulness
+strew.v.01	spread by scattering ("straw" is archaic)
+answer.v.10	react to a stimulus or command
+offer.v.02	present for acceptance or rejection
+move_on	move on
+install.v.01	set up for use
+stalk.v.01	walk stiffly
+buy.v.01	obtain by purchase; acquire by means of a financial transaction
+restrict.v.03	place limits on (extent or access)
+establish.v.01	set up or found
+weigh.v.03	determine the weight of
+stumble.v.02	miss a step and fall or nearly fall
+tail.v.03	remove the stalk of fruits or berries
+burn_into	burn into
+needle	needle
+doubt.v.01	consider unlikely or have doubts about
+realize.v.05	convert into cash; of goods and property
+wander.v.03	go via an indirect route or at no set pace
+equal.v.02	be equal to in quality or ability
+rule.v.02	decide with authority
+lower	lower
+prefer.v.01	like better; value more highly
+freeze.v.04	cause to freeze
+page.v.02	work as a page
+spill.v.01	cause or allow (a liquid substance) to run or flow from a container
+gauge.v.02	rub to a uniform size
+be.v.11	have life, be alive
+regenerate.v.04	return to life; get or give new life or energy
+color.v.01	add color to
+number.v.03	enumerate
+walk.v.10	take a walk; go for a walk; walk for pleasure
+grow_with	grow with
+think.v.02	expect, believe, or suppose
+manipulate.v.01	influence or control shrewdly or deviously
+issue.v.02	circulate or distribute or equip with
+seat.v.02	be able to seat
+soar.v.01	rise rapidly
+trip.v.04	put in motion or move to act
+believe_in.v.01	have a firm conviction as to the goodness of something
+happen.v.01	come to pass
+blow.v.10	sound by having air expelled through a tube
+go_into.v.02	be used or required for
+catch_up.v.01	reach the point where one should be after a delay
+lean.v.01	to incline or bend from a vertical position
+discriminate.v.01	recognize or perceive the difference
+water.v.02	provide with water
+pounce.v.01	move down on as if in an attack
+push.v.01	move with force, "He pushed the table into a corner"
+rush.v.05	run with the ball, in football
+rear.v.01	stand up on the hind legs, of quadrupeds
+insert.v.01	put or introduce into something
+_member_of_domain_usage	member of domain usage
+blow.v.03	free of obstruction by blowing air through
+fish.v.01	seek indirectly
+strike.v.01	deliver a sharp blow, as with the hand, fist, or weapon
+turn.v.07	pass into a condition gradually, take on a specific property or attribute; become
+spill.v.05	reveal information
+relax.v.01	become less tense, rest, or take one's ease
+cover.v.15	make up for shortcomings or a feeling of inferiority by exaggerating good qualities
+howl.v.01	emit long loud cries
+wind	wind
+fence	fence
+command.v.02	make someone do something
+follow	follow
+stream_through	stream through
+float_on	float on
+give.v.09	cause to happen or be responsible for
+dream.v.01	have a daydream; indulge in a fantasy
+realize.v.03	make real or concrete; give reality or substance to
+rear.v.02	bring up
+trouble.v.05	cause bodily suffering to and make sick or indisposed
+specify.v.02	decide upon or fix definitely
+cling.v.01	come or be in close contact with; stick or hold together and resist separation
+face.v.05	turn so as to face; turn the face in a certain direction
+dangle.v.01	hang freely
+reserve.v.04	arrange for and reserve (something for someone else) in advance
+trigger.v.02	release or pull the trigger on
+corner.v.03	turn a corner
+plan.v.03	make or work out a plan for; devise
+drive_up.v.01	approach while driving
+announce.v.02	announce publicly or officially
+come_on.v.01	appear or become visible; make a showing
+leave.v.03	act or be so as to become in a specified state
+stain.v.02	produce or leave stains
+further.s.01	more distant in especially degree
+withdraw.v.01	pull back or move away or backward
+spend.v.02	pay out
+lie.v.06	have a place in relation to something else
+keep_track_of	keep track of
+attach.v.01	cause to be attached
+fence.v.02	receive stolen goods
+ride.v.04	move like a floating object
+unite.v.05	bring together for a common purpose or action or ideology or in a shared situation
+tear.v.01	separate or cause to separate abruptly
+quieten.v.01	become quiet or quieter
+roll.v.11	move in a wavy pattern or with a rising and falling motion
+tend.v.01	have a tendency or disposition to do or be something; be inclined
+get_mad_at	get mad at
+strive.v.02	to exert much effort or energy
+starve.v.02	die of food deprivation
+long_for	long for
+nail.v.01	attach something somewhere by means of nails
+forget.v.01	dismiss from the mind; stop remembering
+read_to	read to
+overturn.v.02	cause to overturn from an upright or normal position
+gallop.v.02	go at galloping speed
+form.v.07	assume a form or shape
+challenge.v.02	issue a challenge to
+beget.v.01	make children
+murder.v.01	kill intentionally and with premeditation
+ball.v.01	form into a ball by winding or rolling
+slash.v.01	cut with sweeping strokes; as with an ax or machete
+rise.v.13	exert oneself to meet a challenge
+work_in	work in
+field.v.04	select (a team or individual player) for a game
+equal.v.03	make equal, uniform, corresponding, or matching
+travel_by.v.01	move past
+audit.v.01	examine carefully for accuracy with the intent of verification
+spurt.v.01	gush forth in a sudden stream or jet
+move_over.v.01	move in order to make room for someone for something
+price.v.01	determine the price of
+store.v.02	find a place for and put away for storage
+round.v.02	make round
+chew.v.01	chew (food); to bite and grind with the teeth
+apologize.v.02	defend, explain, clear away, or make excuses for by reasoning
+make.v.15	make by shaping or bringing together constituents
+yoke.v.01	become joined or linked together
+strike.v.13	produce by ignition or a blow
+direct.v.01	command with authority
+visit.v.01	go to see a place, as for entertainment
+haunt.v.02	haunt like a ghost; pursue
+talk.v.02	express in speech
+succeed.v.01	attain success or reach a desired goal
+fan.v.01	strike out (a batter), (of a pitcher)
+falsify.v.01	make false by mutilation or addition; as of a message or story
+forgive.v.01	stop blaming or grant forgiveness
+bank_with	bank with
+lie	lie
+submit.v.01	refer for judgment or consideration
+network.v.01	communicate with and within a group
+rest.v.11	be inactive, refrain from acting
+urge.v.01	force or impel in an indicated direction
+include.v.02	consider as part of something
+crop.v.05	feed as in a meadow or pasture
+typify.v.02	express indirectly by an image, form, or model; be a symbol
+pry.v.01	to move or force, especially in an effort to get something open
+write.v.02	communicate or express by writing
+hide.v.01	prevent from being seen or discovered
+injure.v.01	cause injuries or bodily harm to
+videotape.v.01	record on videotape
+follow.v.01	to travel behind, go after, come after
+harness.v.01	put a harness
+honor.v.03	accept as pay
+refuse.v.01	show unwillingness towards
+feed.v.06	take in food; used of animals only
+fill.v.09	plug with a substance
+swing_around.v.01	turn abruptly and face the other way, either physically or metaphorically
+think_about.v.01	have on one's mind, think about actively
+talk_of.v.01	discuss or mention
+escape.v.01	run away from confinement
+bake.v.01	cook and make edible by putting in a hot oven
+answer.v.01	react verbally
+impress.v.02	impress positively
+annoy.v.01	cause annoyance in; disturb, especially by minor irritations
+remember.v.02	keep in mind for attention or consideration
+carry.v.02	have with oneself; have on one's person
+tear.v.02	to separate or be separated by force
+comment.v.01	make or write a comment on
+throw.v.01	propel through the air
+fish.v.02	catch or try to catch fish or shellfish
+obstruct.v.03	shut out from view or get in the way so as to hide from sight
+skid.v.04	move obliquely or sideways, usually in an uncontrolled manner
+align.v.01	place in a line or arrange so as to be parallel or straight
+storm.v.02	take by force
+bridge_gap_in	bridge gap in
+look_forward.v.01	expect or hope for
+rest.v.01	not move; be in a resting position
+reap.v.02	get or derive
+comfort.v.02	lessen pain or discomfort; alleviate
+dress.v.01	put on clothes
+squirt.v.01	cause to come out in a squirt
+yield.v.01	be the cause or source of
+educate.v.03	teach or refine to be discriminative in taste or judgment
+worship.v.02	show devotion to (a deity)
+display.v.02	attract attention by displaying some body part or posing; of animals
+change_state.v.01	undergo a transformation or a change of position or action
+clear.v.10	make free from confusion or ambiguity; make clear
+relieve.v.01	provide physical relief, as from pain
+bristle.v.03	have or be thickly covered with or as if with bristles
+appear.v.05	come into being or existence, or appear on the scene
+side.a.01	located on a side
+invest.v.01	make an investment
+march.v.01	march in a procession
+time.v.04	regulate or set the time of
+belong.v.03	be in the right place or situation
+over.r.01	at or to a point across intervening space etc.
+restrain.v.03	to close within bounds, limit or hold back from movement
+bicycle_for	bicycle for
+prey.v.01	profit from in an exploitatory manner
+date.v.03	assign a date to; determine the (probable) date of
+come.v.13	happen as a result
+exit.v.01	move out of or depart from
+list_to	list to
+quiet.a.01	characterized by an absence or near absence of agitation or activity
+defend.v.01	argue or speak in defense of
+back.v.06	be in back of
+cut_to	cut to
+circle.v.01	travel around something
+burden.v.01	weight down with a load
+horse_around.v.01	indulge in horseplay
+ingredient_in	ingredient in
+postpone.v.01	hold back to a later time
+screw.v.03	cause to penetrate, as with a circular motion
+rest.v.08	put something in a resting position, as for support or steadying
+round.v.01	wind around; move along a circular course
+rear	rear
+evaluate.v.02	form a critical opinion of
+snap.v.01	utter in an angry, sharp, or abrupt tone
+contract.v.04	be stricken by an illness, fall victim to an illness
+destroy.v.02	destroy completely; damage irreparably
+head	head
+sting.v.02	deliver a sting to
+captain.v.01	be the captain of a sports team
+admit.v.03	allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of
+suffer.v.02	undergo (as of injuries and illnesses)
+gallop.v.03	cause to move at full gallop
+come.v.05	to be the product or result
+confront.v.03	present somebody with something, usually to accuse or criticize
+knead.v.01	make uniform
+damage.v.01	inflict damage upon
+row.v.01	propel with oars
+take.v.20	make use of or accept for some purpose
+consume.v.05	use up (resources or materials)
+cut.v.04	make an incision or separation
+rake.v.05	gather with a rake
+choose.v.01	pick out, select, or choose from a number of alternatives
+consist.v.04	be composed of
+force.v.04	impose urgently, importunately, or inexorably
+look.v.01	perceive with attention; direct one's gaze towards
+stage.v.01	perform (a play), especially on a stage
+help.v.02	improve the condition of
+eat_in.v.01	eat at home
+force.v.08	do forcibly; exert force
+spear.v.01	pierce with a spear
+nip.v.02	give a small sharp bite to
+teach_in	teach in
+suck.v.01	draw into the mouth by creating a practical vacuum in the mouth
+feel.v.04	be conscious of a physical, mental, or emotional state
+right.v.02	put in or restore to an upright position
+hurry_to	hurry to
+beat.v.04	move rhythmically
+steam.v.06	cook something by letting steam pass over it
+score.v.06	get a certain number or letter indicating quality or performance
+repress.v.01	put down by force or intimidation
+twitch.v.01	make an uncontrolled, short, jerky motion
+attach.v.02	be attached; be in contact with
+cup	cup
+disagree.v.01	be of different opinions
+distribute.v.01	administer or bestow, as in small portions
+put.v.02	cause to be in a certain state; cause to be in a certain relation
+enforce.v.01	ensure observance of laws and rules;
+greet.v.01	express greetings upon meeting someone
+produce.v.04	bring out for display
+groan.v.01	indicate pain, discomfort, or displeasure
+part	part
+climb.v.01	go upward with gradual or continuous progress
+process.v.03	perform mathematical and logical operations on (data) according to programmed instructions in order to obtain the required information
+tolerate.v.03	have a tolerance for a poison or strong drug or pathogen or environmental condition
+coat.v.01	put a coat on; cover the surface of; furnish with a surface
+continue.v.07	continue after an interruption
+keep.v.18	store or keep customarily
+print.v.03	make into a print
+follow.v.06	come after in time, as a result
+tear.v.03	move quickly and violently
+perfect.v.01	make perfect or complete
+fit.v.04	make fit
+milk	milk
+amount_to	amount to
+crouch.v.01	bend one's back forward from the waist on down
+absorb.v.04	take in, also metaphorically
+bicycle.v.01	ride a bicycle
+search.v.02	search or seek
+call.v.02	ascribe a quality to or give a name of a common noun that reflects a quality
+inspire.v.01	heighten or intensify
+demolish.v.03	defeat soundly
+welcome.v.02	bid welcome to; greet upon arrival
+land.v.02	cause to come to the ground
+experience.v.03	go through (mental or physical states or experiences)
+order.v.03	issue commands or orders for
+do.v.03	get (something) done
+mean.v.01	mean or intend to express or convey
+weather.v.02	cause to slope
+preserve.v.04	prevent (food) from rotting
+convert.v.01	change from one system to another or to a new plan or policy
+set	set
+fill.v.01	make full, also in a metaphorical sense
+receive.v.05	express willingness to have in one's home or environs
+infect.v.01	communicate a disease to
+spare.v.01	refrain from harming
+cook.v.05	transform by heating
+take.v.35	have sex with; archaic use
+lean.v.02	cause to lean or incline
+light_up.v.05	begin to smoke
+support.v.02	support materially or financially
+arouse.v.01	call forth (emotions, feelings, and responses)
+perform.v.03	give a performance (of something)
+pitch.v.08	erect and fasten
+care.v.02	provide care for
+stand.v.01	be standing; be upright
+love.v.01	have a great affection or liking for
+spring.v.04	develop suddenly
+fail.v.06	judge unacceptable
+cure_for	cure for
+stir-fry_in	stir-fry in
+weather.v.04	change under the action or influence of the weather
+coat.v.03	form a coat over
+kill.v.01	cause to die; put to death, usually intentionally or knowingly
+die.v.01	pass from physical life and lose all bodily attributes and functions necessary to sustain life
+fix.v.12	make ready or suitable or equip in advance for a particular purpose or for some use, event, etc
+fall.v.31	go as if by falling
+roll_up.v.02	get or gather together
+fast.v.01	abstain from certain foods, as for religious or medical reasons
+visit.v.07	stay with as a guest
+flim-flam.v.01	deceive somebody
+call_at.v.01	enter a harbor
+fence.v.03	fight with fencing swords
+hear.v.04	receive a communication from someone
+hang.v.01	be suspended or hanging
+stimulate.v.03	stir the feelings, emotions, or peace of
+leap.v.02	pass abruptly from one state or topic to another
+letter.v.01	win an athletic letter
+hurt.v.05	hurt the feelings of
+matter_more_than	matter more than
+capture.v.06	capture as if by hunting, snaring, or trapping
+oversee.v.01	watch and direct
+meet.v.07	collect in one place
+act.v.02	behave in a certain manner; show a certain behavior; conduct or comport oneself
+detect.v.01	discover or determine the existence, presence, or fact of
+succeed.v.02	be the successor (of)
+lead.v.04	travel in front of; go in advance of others
+burn.v.09	spend (significant amounts of money)
+stand.v.03	occupy a place or location, also metaphorically
+wake.v.01	be awake, be alert, be there
+gyrate.v.01	to wind or move in a spiral course
+laugh.v.01	produce laughter
+trace.v.02	make a mark or lines on a surface
+step.v.01	shift or move by taking a step
+collar.v.01	take into custody
+disrupt.v.02	throw into disorder
+instruct.v.02	give instructions or directions for some task
+rush.s.02	done under pressure
+sharpen.v.01	make sharp or sharper
+ready.s.02	(of especially money) immediately available
+dye.v.01	color with dye
+strike.v.20	pierce with force
+shoulder.v.03	carry a burden, either real or metaphoric
+serve.v.05	help to some food; help with food or drink
+launch.v.02	propel with force
+pierce.v.01	cut or make a way through
+function.v.01	perform as expected when applied
+lay.v.03	prepare or position for action or operation
+own.s.01	belonging to or on behalf of a specified person (especially yourself); preceded by a possessive
+dig	dig
+school.v.01	educate in or as if in a school
+bring.v.03	cause to happen or to occur as a consequence
+sing.v.02	produce tones with the voice
+break.v.02	become separated into pieces or fragments
+paint.v.01	make a painting
+deal.v.03	take action with respect to (someone or something)
+seat.v.06	place or attach firmly in or on a base
+raise.v.02	raise from a lower to a higher position
+better.v.03	get better
+flee.v.01	run away quickly
+stir.v.01	move an implement through
+lay_down.v.01	institute, enact, or establish
+reflect.v.06	give evidence of a certain behavior
+lasso.v.01	catch with a lasso
+in_charge_of	in charge of
+disappoint.v.01	fail to meet the hopes or expectations of
+branch.v.02	divide into two or more branches so as to form a fork
+break.v.24	vary or interrupt a uniformity or continuity
+give	give
+score.v.01	gain points in a game
+prop_up.v.01	support by placing against something solid or rigid
+examine.v.02	observe, check out, and look over carefully or inspect
+parry.v.01	impede the movement of (an opponent or a ball)
+note.v.01	make mention of
+bow.v.01	bend one's knee or body, or lower one's head
+save.v.06	make unnecessary an expenditure or effort
+wall_off	wall off
+catch.v.12	be struck or affected by
+recover.v.01	get or find back; recover the use of
+produce.v.01	bring forth or yield
+get.v.03	cause to move; cause to be in a certain position or condition
+open.v.02	start to operate or function or cause to start operating or functioning
+play.v.18	cause to emit recorded audio or video
+dance.v.02	move in a pattern; usually to musical accompaniment; do or perform a dance
+walk.v.08	walk at a pace
+transfer	transfer
+jump_to	jump to
+revolve.v.01	turn on or around an axis or a center
+cover.v.11	hide from view or knowledge
+educate.v.01	give an education to
+squash.v.01	to compress with violence, out of natural shape or condition
+shine.v.07	throw or flash the light of (a lamp)
+move.v.03	move so as to change position, perform a nontranslational motion
+speak.v.03	use language
+crawl.v.01	move slowly; in the case of people or animals with the body near the ground
+jab.v.01	poke or thrust abruptly
+study.v.03	give careful consideration to
+leave.v.01	go away from a place
+seat.v.05	provide with seats
+fence.v.01	enclose with a fence
+clear.v.24	free (the throat) by making a rasping sound
+refer.v.02	be relevant to
+convert.v.02	change the nature, purpose, or function of something
+fly.v.03	operate an airplane
+run_out.v.01	become used up; be exhausted
+erupt.v.02	erupt or intensify suddenly
+ride.v.01	sit and travel on the back of animal, usually while controlling its motions
+enter.v.02	become a participant; be involved in
+love.v.02	get pleasure from
+erase.v.02	remove by or as if by rubbing or erasing
+roll.v.08	shape by rolling
+suffer.v.03	experience (emotional) pain
+interrogate.v.02	pose a series of questions to
+even.s.02	equal in degree or extent or amount; or equally matched or balanced
+clock.v.01	measure the time or duration of an event or action or the person who performs an action in a certain period of time
+monitor.v.01	keep tabs on; keep an eye on; keep under surveillance
+top.v.03	be at the top of or constitute the top or highest point
+rise.v.01	move upward
+iron_out.v.01	settle or put right
+cock.v.01	tilt or slant to one side
+glass	glass
+chop.v.01	cut into pieces
+board	board
+tilt.v.04	charge with a tilt
+_also_see	also see
+demur.v.01	take exception to
+forward	forward
+have.v.01	have or possess, either in a concrete or an abstract sense
+reach.v.06	to extend as far as
+flaunt.v.01	display proudly; act ostentatiously or pretentiously
+subject.s.02	being under the power or sovereignty of another or others
+indicate.v.02	indicate a place, direction, person, or thing; either spatially or figuratively
+brown.v.01	fry in a pan until it changes color
+use.v.01	put into service; make work or employ for a particular purpose or for its inherent or natural purpose
+give.v.08	give as a present; make a gift of
+drill.v.03	learn by repetition
+misconstrue.v.01	interpret in the wrong way
+connect.v.03	be or become joined or united or linked
+lead.v.03	tend to or result in
+bear.v.01	have
+evict.v.01	expel or eject without recourse to legal process
+connect.v.01	connect, fasten, or put together two or more pieces
+stool.v.04	have a bowel movement
+flip.v.06	throw or toss with a light motion
+ramp.v.01	behave violently, as if in state of a great anger
+lend.v.01	bestow a quality on
+displace.v.03	terminate the employment of; discharge from an office or position
+cause.v.01	give rise to; cause to happen or occur, not always intentionally
+make_a_clean_breast_of.v.01	admit or acknowledge a wrongdoing or error
+word	word
+disappear.v.01	get lost, as without warning or explanation
+turn_on.v.03	produce suddenly or automatically
+ready.s.04	made suitable and available for immediate use
+subscribe.v.03	adopt as a belief
+reduce.v.08	lessen and make more modest
+trust.v.01	have confidence or faith in
+guard.v.01	to keep watch over
+matter_to.v.01	be of importance or consequence
+practice.v.01	carry out or practice; as of jobs and professions
+boost.v.04	increase or raise
+drive.v.11	move into a desired direction of discourse
+veto.v.01	vote against; refuse to endorse; refuse to assent
+turn_at	turn at
+travel_over	travel over
+kill.v.04	be fatal
+visit.v.04	come to see in an official or professional capacity
+study.v.05	learn by reading books; I must hit the books now"
+empower.v.01	give or delegate power or authority to
+swerve.v.01	turn sharply; change direction abruptly
+back.v.02	travel backward
+skid.v.01	slide without control
+chew_the_fat.v.01	talk socially without exchanging too much information
+decay.v.02	fall into decay or ruin
+take_over.v.05	take over ownership of; of corporations and companies
+live_in	live in
+establish.v.02	set up or lay the groundwork for
+position	position
+get.v.25	receive as a retribution or punishment
+drop_by.v.01	visit informally and spontaneously
+take.v.06	interpret something in a certain way; convey a particular meaning or impression
+run.v.15	cause to perform
+hot.a.01	used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning
+arm.v.01	prepare oneself for a military confrontation
+lecture.v.01	deliver a lecture or talk
+nurse.v.01	try to cure by special care of treatment, of an illness or injury
+hope.v.01	expect and wish
+wash.v.04	move by or as if by water
+peruse.v.01	examine or consider with attention and in detail
+change_by_reversal.v.01	change to the contrary
+sled.v.01	ride (on) a sled
+expect.v.04	consider reasonable or due
+stay.v.01	stay the same; remain in a certain state
+prosecute.v.01	conduct a prosecution in a court of law
+care_for.v.02	be fond of; be attached to
+corner.v.01	gain control over
+rush.v.01	move fast
+shore.v.01	serve as a shore to
+hang_out.v.01	spend time in a certain location or with certain people
+watch.v.05	be vigilant, be on the lookout or be careful
+dirty.v.01	make soiled, filthy, or dirty
+do.v.04	proceed or get along
+down.v.05	cause to come or go down
+disturb.v.01	move deeply
+persevere.v.01	be persistent, refuse to stop
+flit.v.01	move along rapidly and lightly; skim or dart
+pronounce.v.02	pronounce judgment on
+condition.v.04	put into a better state
+sign.v.07	communicate in sign language
+clog.v.03	impede the motion of, as with a chain or a burden
+wear.v.01	be dressed in
+go_on	go on
+salvage.v.01	save from ruin, destruction, or harm
+dribble.v.03	propel, "Carry the ball"
+sell.v.02	be sold at a certain price or in a certain way
+keep.v.03	retain possession of
+model.v.03	assume a posture as for artistic purposes
+bell.v.01	attach a bell to
+crowd.v.02	fill or occupy to the point of overflowing
+summarize.v.02	be a summary of
+source.v.01	get (a product) from another country or business
+copy.v.01	copy down as is
+stamp_out.v.01	end or extinguish by forceful means
+cook.v.02	prepare for eating by applying heat
+ask.v.04	consider obligatory; request and expect
+roll_across	roll across
+put_on.v.02	add to something existing
+stamp.v.02	to mark, or produce an imprint in or on something
+rub.v.02	cause friction
+flick.v.06	twitch or flutter
+increase.v.01	become bigger or greater in amount
+influence.v.01	have and exert influence or effect
+report.v.03	announce one's presence
+ignore.v.01	refuse to acknowledge
+travel.v.04	travel upon or across
+water.v.01	supply with water, as with channels or ditches or streams
+chuck.v.03	pat or squeeze fondly or playfully, especially under the chin
+pack.v.01	arrange in a container
+drive.v.02	travel or be transported in a vehicle
+appear.v.07	present oneself formally, as before a (judicial) authority
+shout.v.01	utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking)
+hide.v.02	be or go into hiding; keep out of sight, as for protection and safety
+prove.v.02	establish the validity of something, as by an example, explanation or experiment
+hedge.v.01	avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues)
+distribute.v.04	give to several people
+double.s.01	having more than one decidedly dissimilar aspects or qualities; public preaching and private influence"- R.W.Emerson
+inhibit.v.02	limit the range or extent of
+rationalize.v.03	structure and run according to rational or scientific principles in order to achieve desired results
+wield.v.02	handle effectively
+issue.v.04	come out of
+pull.v.01	cause to move by pulling
+cancel.v.03	declare null and void; make ineffective
+move.v.04	change residence, affiliation, or place of employment
+dominate.v.03	have dominance or the power to defeat over
+lie.v.05	tell an untruth; pretend with intent to deceive
+vacation.v.01	spend or take a vacation
+inside.r.02	on the inside
+fail.v.07	fail to get a passing grade
+fracture.v.06	fracture a bone of
+fly_in	fly in
+flare_out.v.01	become flared and widen, usually at one end
+gun.v.01	shoot with a gun
+shed.v.04	cast off hair, skin, horn, or feathers
+fast.a.01	acting or moving or capable of acting or moving quickly
+kill.v.15	destroy a vitally essential quality of or in
+measure.v.04	evaluate or estimate the nature, quality, ability, extent, or significance of
+shade.v.03	protect from light, heat, or view
+govern.v.03	exercise authority over; as of nations
+deflect.v.02	turn from a straight course, fixed direction, or line of interest
+seed.v.02	help (an enterprise) in its early stages of development by providing seed money
+step.v.10	move or proceed as if by steps into a new situation
+come_out_of_the_closet.v.01	to state openly and publicly one's homosexuality
+_instance_hypernym	instance hypernym
+habituate.v.02	make psychologically or physically used (to something)
+run_up.v.01	pile up (debts or scores)
+rub.v.01	move over something with pressure
+analyze.v.01	consider in detail and subject to an analysis in order to discover essential features or meaning
+guess.v.02	put forward, of a guess, in spite of possible refutation
+run_on.v.02	continue uninterrupted
+notice.v.02	notice or perceive
+enfeeble.v.01	make weak
+borrow.v.01	get temporarily
+advance.v.12	rise in rate or price
+jump.v.08	jump down from an elevated point
+deliver.v.01	deliver (a speech, oration, or idea)
+compress.v.01	make more compact by or as if by pressing
+learn.v.01	gain knowledge or skills
+complete.v.01	come or bring to a finish or an end; others finished in over 4 hours"
+name.v.01	assign a specified (usually proper) proper name to
+right.v.01	make reparations or amends for
+shift.v.02	change place or direction
+drink_through	drink through
+low_to	low to
+float.v.08	allow (currencies) to fluctuate
+correct.v.01	make right or correct
+stream_over	stream over
+shoo_away	shoo away
+advance.v.10	pay in advance
+fall.v.01	descend in free fall under the influence of gravity
+take_care.v.02	be in charge of or deal with
+crusade.v.01	exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for
+slump.v.02	fall or sink heavily
+bespeak.v.01	be a signal for or a symptom of
+recognize.v.02	be fully aware or cognizant of
+wipe_off.v.01	remove by wiping
+step.v.02	put down or press the foot, place the foot
+smother.v.05	deprive of the oxygen necessary for combustion
+present.v.02	bring forward and present to the mind
+shelter.v.01	provide shelter for
+pin.v.02	attach or fasten with pins or as if with pins
+tarnish.v.01	make dirty or spotty, as by exposure to air; also used metaphorically
+raise.v.01	raise the level or amount of something
+accept.v.01	consider or hold as true
+fume.v.02	emit a cloud of fine particles
+agrivate	agrivate
+carry.v.05	bear or be able to bear the weight, pressure,or responsibility of
+skulk.v.03	move stealthily
+attend.v.01	be present at (meetings, church services, university), etc.
+subscribe.v.05	receive or obtain regularly
+stream.v.02	exude profusely
+let_go.v.02	be relaxed
+lighten.v.01	make more cheerful
+transfer.v.01	transfer somebody to a different position or location of work
+gnash.v.01	grind together, of teeth
+bury.v.03	place in the earth and cover with soil
+step_around	step around
+wrinkle.v.02	make wrinkles or creases on a smooth surface; make a pressed, folded or wrinkled line in
+bask.v.02	be exposed
+lose.v.01	fail to keep or to maintain; cease to have, either physically or in an abstract sense
+ruin.v.02	destroy or cause to fail
+envelop.v.01	enclose or enfold completely with or as if with a covering
+construct.v.01	make by combining materials and parts
+touch.v.01	make physical contact with, come in contact with
+drink.v.02	consume alcohol
+remove.v.01	remove something concrete, as by lifting, pushing, or taking off, or remove something abstract
+perch.v.01	sit, as on a branch
+man.v.01	take charge of a certain job; occupy a certain work place
+guide.v.03	be a guiding or motivating force or drive
+give.v.28	execute and deliver
+name.v.02	give the name or identifying characteristics of; refer to by name or some other identifying characteristic property
+sit.v.07	be located or situated somewhere
+pain.v.02	cause emotional anguish or make miserable
+play.v.02	act or have an effect in a specified way or with a specific effect or outcome
+write.v.10	create code, write a computer program
+fertilize.v.01	provide with fertilizers or add nutrients to
+confess.v.01	confess to a punishable or reprehensible deed, usually under pressure
+continue.v.01	continue a certain state, condition, or activity
+rush.v.04	act or move at high speed
+pull.v.17	take away
+run.v.19	carry out a process or program, as on a computer or a machine
+run.v.03	stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point
+number_in	number in
+plunge.v.06	fall abruptly
+heat.v.02	provide with heat
+condition.v.05	apply conditioner to in order to make smooth and shiny
+beat.v.02	give a beating to; subject to a beating, either as a punishment or as an act of aggression
+school.v.03	swim in or form a large group of fish
+save.v.03	bring into safety
+cut.v.01	separate with or as if with an instrument
+leave.v.04	leave unchanged or undisturbed or refrain from taking
+ticket.v.01	issue a ticket or a fine to as a penalty
+balloon.v.02	become inflated
+nurse.v.04	treat carefully
+shade.v.02	represent the effect of shade or shadow on
+sophisticate.v.03	alter and make impure, as with the intention to deceive
+clench.v.01	hold in a tight grasp
+resist.v.04	withstand the force of something
+catch.v.19	contract
+kiss.v.02	touch lightly or gently
+connect_to	connect to
+research.v.01	attempt to find out in a systematically and scientific manner
+obstruct.v.01	hinder or prevent the progress or accomplishment of
+storm.v.03	rain, hail, or snow hard and be very windy, often with thunder or lightning
+nibble.v.02	bite gently
+halt.v.01	cause to stop
+house.v.01	contain or cover
+vary.v.03	be subject to change in accordance with a variable
+clear_up.v.04	become clear
+precede.v.02	come before
+decorate.v.01	make more attractive by adding ornament, colour, etc.
+needle.v.02	prick with a needle
+bus.v.02	ride in a bus
+avoid.v.03	refrain from doing something
+perpetrate.v.01	perform an act, usually with a negative connotation
+fail.v.02	be unsuccessful
+back_out.v.01	move out of a space backwards
+hear.v.03	examine or hear (evidence or a case) by judicial process
+persue	persue
+douse.v.01	put out, as of a candle or a light
+action.v.01	institute legal proceedings against; file a suit against
+cram.v.03	study intensively, as before an exam
+escalate.v.01	increase in extent or intensity
+resolve.v.06	find the solution
+cut.v.05	discharge from a group
+communicate.v.01	transmit information
+take.v.08	take into one's possession
+reflect.v.03	to throw or bend back (from a surface)
+entertain.v.01	provide entertainment for
+lower.v.04	cause to drop or sink
+dig.v.05	thrust down or into
+consume.v.02	serve oneself to, or consume regularly
+apparent.s.01	clearly revealed to the mind or the senses or judgment
+subcontract.v.01	arranged for contracted work to be done by others
+serve.v.03	contribute or conduce to
+dress.v.02	provide with clothes or put clothes on
+please.v.02	be the will of or have the will (to)
+close.v.01	move so that an opening or passage is obstructed; make shut
+idolize.v.01	love unquestioningly and uncritically or to excess; venerate as an idol
+deposit.v.02	put into a bank account
+ready.a.01	completely prepared or in condition for immediate action or use or progress
+settle.v.01	settle into a position, usually on a surface or ground
+take.v.04	get into one's hands, take physically
+compete.v.01	compete for something; engage in a contest; measure oneself against others
+service.v.02	make fit for use
+wash_out.v.02	wash free from unwanted substances, such as dirt
+regulate.v.02	bring into conformity with rules or principles or usage; impose regulations
+set.v.05	put into a certain state; cause to be in a certain state
+lay.v.04	lay eggs
+hurt.s.01	suffering from physical injury especially that suffered in battle
+teach.v.01	impart skills or knowledge to
+determine.v.03	fix conclusively or authoritatively
+make.v.03	make or cause to be or to become
+class	class
+wrong.v.01	treat unjustly; do wrong to
+prize.v.01	hold dear
+fight.v.02	fight against or resist strongly
+let_go_of.v.01	release, as from one's grip
+find.v.05	come to believe on the basis of emotion, intuitions, or indefinite grounds
+send.v.02	to cause or order to be taken, directed, or transmitted to another place
+originate.v.01	come into existence; take on form or shape
+stretch.v.02	extend one's limbs or muscles, or the entire body
+bring.v.02	cause to come into a particular state or condition
+course.v.01	move swiftly through or over
+wet.v.02	make one's bed or clothes wet by urinating
+burn.v.06	feel strong emotion, especially anger or passion
+look_like.v.01	bear a physical resemblance to
+will.v.01	decree or ordain
+wash.v.13	to cleanse (itself or another animal) by licking
+miss.v.07	fail to reach
+drop_out.v.03	leave school or an educational program prematurely
+impregnate.v.04	make pregnant
+jump_across	jump across
+read.v.01	interpret something that is written or printed
+return.v.07	make a return
+stay.v.04	continue in a place, position, or situation
+turn.v.06	pass to the other side of
+stay.v.05	remain behind
+act_as.v.01	function as or act like
+talk.v.01	exchange thoughts; talk with
+organize.v.04	bring order and organization to
+light.v.01	make lighter or brighter
+campaign.v.01	run, stand, or compete for an office or a position
+tighten.v.01	make tight or tighter
+rant.v.01	talk in a noisy, excited, or declamatory manner
+fall_in.v.02	to take one's place in a military formation or line
+hang.v.02	cause to be hanging or suspended
+get_rid_of.v.01	dispose of
+evaporate.v.01	lose or cause to lose liquid by vaporization leaving a more concentrated residue
+act.v.03	play a role or part
+stick.v.10	fasten with or as with pins or nails
+progress.v.01	develop in a positive way
+perform.v.01	carry out or perform an action
+recycle.v.02	use again after processing
+alter.v.03	make an alteration to
+stream_across	stream across
+drive.v.01	operate or control a vehicle
+fly.v.13	hit a fly
+bottom.a.01	situated at the bottom or lowest position
+border.v.05	lie adjacent to another or share a boundary
+ache.v.03	be the source of pain
+envy.v.02	be envious of; set one's heart on
+suffer.v.01	undergo or be subjected to
+seed	seed
+box_in.v.01	enclose or confine as if in a box
+race.v.02	compete in a race
+manipulate.v.02	hold something in one's hands and move it
+clear_off.v.01	remove from sight
+blast.v.07	fire a shot
+draw.v.16	bring or lead someone to a certain action or condition
+like.v.03	be fond of
+pass.v.07	travel past
+gain.v.05	obtain advantages, such as points, etc.
+taste.v.01	have flavor; taste of something
+list.v.04	tilt to one side
+raise.v.09	construct, build, or erect
+please.v.03	give satisfaction
+prick.v.02	cause a stinging pain
+rhyme.v.02	be similar in sound, especially with respect to the last syllable
+divide.v.02	perform a division
+debar.v.02	prevent the occurrence of; prevent from happening
+follow.v.07	behave in accordance or in agreement with
+make.v.49	eliminate urine
+short.a.01	primarily temporal sense; indicating or being or seeming to be limited in duration
+park.v.02	maneuver a vehicle into a parking space
+duck.v.01	to move (the head or body) quickly downwards or away
+butter_up.v.01	flatter with the intention of getting something
+permit.v.01	consent to, give permission
+quench.v.01	satisfy (thirst)
+fill.v.02	become full
+brood.v.05	sit on (eggs)
+gulp.v.01	to swallow hurriedly or greedily or in one draught
+smell.v.01	inhale the odor of; perceive by the olfactory sense
+listen_under	listen under
+publicize.v.01	make public
+admit.v.02	allow to enter; grant entry to
+dare.v.02	to be courageous enough to try or do something
+bum.v.02	be lazy or idle
+dwell.v.02	originate (in)
+ski.v.01	move along on skis
+flow.v.01	move or progress freely as if in a stream
+delegate.v.02	give an assignment to (a person) to a post, or assign a task to (a person)
+raise.v.03	cause to be heard or known; express or utter
+live_with	live with
+separate.v.07	make a division or separation
+receive	receive
+contend.v.06	be engaged in a fight; carry on a fight
+take.v.19	accept or undergo, often unwillingly
+rest.v.07	be inherent or innate in;
+live_in.v.01	live in the house where one works
+travel_rapidly.v.01	move very fast
+cremate.v.01	reduce to ashes
+rush_over	rush over
+houseclean.v.01	clean and tidy up the house
+film.v.01	make a film or photograph of something
+match.v.01	be compatible, similar or consistent; coincide in their characteristics
+bare.v.01	lay bare
+stick	stick
+conduct	conduct
+resurrect.v.03	return from the dead
+prance.v.02	spring forward on the hind legs
+haul.v.02	transport in a vehicle
+anticipate.v.05	be excited or anxious about
+shake.v.07	get rid of
+smell.v.05	become aware of not through the senses but instinctively
+win.v.01	be the winner in a contest or competition; be victorious
+attach_to.v.01	be present or associated with an event or entity
+down.v.04	shoot at and force to come down
+see.v.10	be careful or certain to do something; make certain of something
+put	put
+brush.v.01	rub with a brush, or as if with a brush
+pick_up.v.01	take and lift upward
+lease.v.04	engage for service under a term of contract
+trade_on	trade on
+stand_on	stand on
+thin_out.v.01	make sparse
+glitter.v.01	be shiny, as if wet
+miss.v.02	feel or suffer from the lack of
+charge.v.08	fill or load to capacity
+wipe_out.v.03	eliminate completely and without a trace
+spot.v.02	detect with the senses
+depend_on.v.03	be dependent on, as for support or maintenance
+steal.v.01	take without the owner's consent
+oppose.v.01	be against; express opposition to
+wonder.v.02	place in doubt or express doubtful speculation
+slither.v.01	to pass or move unobtrusively or smoothly
+write.v.08	record data on a computer
+guard.v.02	watch over or shield from danger or harm; protect
+look.v.02	give a certain impression or have a certain outward aspect
+peck.v.02	eat by pecking at, like a bird
+leave.v.08	remove oneself from an association with or participation in
+note.v.04	make a written note of
+act.v.01	perform an action, or work out or perform (an action)
+wheel.v.03	move along on or as if on wheels or a wheeled vehicle
+jump.v.03	make a sudden physical attack on
+expect.v.01	regard something as probable or likely
+ignite.v.01	cause to start burning; subject to fire or great heat
+trace.v.06	make one's course or travel along a path; travel or pass over, around, or along
+induce.v.01	cause to arise
+polish.v.01	make (a surface) shine
+dart.v.03	move with sudden speed
+date.v.05	provide with a dateline; mark with a date
+abandon.v.02	give up with the intent of never claiming again
+deposit	deposit
+undergo.v.01	pass through
+add_to.v.01	have an increased effect
+add.v.01	make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of
+equal.v.01	be identical or equivalent to
+participate.v.01	share in something
+swallow.v.05	take back what one has said
+hold.v.11	contain or hold; have within
+balance.v.01	bring into balance or equilibrium
+hold.v.03	organize or be responsible for
+defy.v.01	resist or confront with resistance
+swim.v.01	travel through water
+address.v.06	greet, as with a prescribed form, title, or name
+inflame.v.04	arouse or excite feelings and passions
+bottle.v.01	store (liquids or gases) in bottles
+free.v.01	grant freedom to; free from confinement
+connect.v.04	join by means of communication equipment
+spread.v.01	distribute or disperse widely
+decrease.v.01	decrease in size, extent, or range
+involve.v.07	make complex or intricate or complicated
+work_in.v.01	add by mixing or blending on or attaching
+need.v.03	have or feel a need for
+brighten.v.01	make lighter or brighter
+ball	ball
+case.v.01	look over, usually with the intention to rob
+sing_to	sing to
+embrace.v.02	squeeze (someone) tightly in your arms, usually with fondness
+froth.v.02	make froth or foam and become bubbly
+fall.v.24	drop oneself to a lower or less erect position
+eclipse.v.02	cause an eclipse of (a celestial body) by intervention
+guard.v.04	take precautions in order to avoid some unwanted consequence
+close.v.02	become closed
+quicker.r.01	more quickly
+glass.v.04	put in a glass container
+book.v.04	register in a hotel booker
+get_to.v.02	arrive at the point of
+house.v.02	provide housing for
+labor.v.02	work hard
+coach.v.01	teach and supervise (someone); act as a trainer or coach (to), as in sports
+fast.v.02	abstain from eating
+mine.v.01	get from the earth by excavation
+render.v.04	give or supply
+originate.v.02	bring into being
+steer.v.01	direct the course; determine the direction of travelling
+pierce.v.05	make a hole into
+burn.v.01	destroy by fire
+stride.v.01	walk with long steps
+dry.a.01	free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet
+gather.v.01	assemble or get together
+take_care.v.01	be careful, prudent, or watchful
+twirl.v.01	turn in a twisting or spinning motion
+discourse.v.01	to consider or examine in speech or writing
+hiss.v.01	make a sharp hissing sound, as if to show disapproval
+drop.v.07	stop pursuing or acting
+work.v.01	exert oneself by doing mental or physical work for a purpose or out of necessity
+arrange.v.01	put into a proper or systematic order
+blend.v.02	blend or harmonize
+gull.v.02	fool or hoax
+stick.v.12	pierce with a thrust using a pointed instrument
+slip.v.02	insert inconspicuously or quickly or quietly
+result.v.03	come about or follow as a consequence
+defend.v.03	protect against a challenge or attack
+tell.v.02	let something be known
+float.v.02	be afloat either on or below a liquid surface and not sink to the bottom
+jiggle.v.01	move to and fro
+pay.v.01	give money, usually in exchange for goods or services
+partially.r.01	in part; in some degree; not wholly
+miss.v.05	fail to reach or get to
+cleanse.v.01	clean one's body or parts thereof, as by washing
+possess.v.01	have as an attribute, knowledge, or skill
+come_to.v.04	return to consciousness
+cup.v.01	form into the shape of a cup
+mine	mine
+cut.v.24	function as a cutting instrument
+pass.v.05	place into the hands or custody of
+repel.v.01	cause to move back by force or influence
+charge.v.23	cause formation of a net electrical charge in or on
+stoop.v.04	sag, bend, bend over or down
+honk.v.01	make a loud noise
+oil	oil
+quiet.a.02	free of noise or uproar; or making little if any sound
+limp.v.01	walk impeded by some physical limitation or injury
+ship_on	ship on
+make.v.01	engage in
+unhorse.v.01	alight from (a horse)
+assume.v.05	occupy or take on
+fall_upon.v.01	find unexpectedly
+offer.v.07	propose a payment
+demand.v.03	claim as due or just
+note_in	note in
+voice.v.01	give voice to
+incur.v.01	make oneself subject to; bring upon oneself; become liable to
+portray.v.02	make a portrait of
+discipline.v.01	develop (children's) behavior by instruction and practice; especially to teach self-control
+bank	bank
+bare	bare
+purse.v.02	gather or contract into wrinkles or folds; pucker
+plow.v.01	to break and turn over earth especially with a plow
+breastfeed.v.01	give suck to
+derive.v.02	obtain
+bring.v.04	go or come after and bring or take back
+storm_from	storm from
+crunch.v.03	chew noisily
+bend.v.01	form a curve
+discard.v.01	throw or cast away
+carry.v.04	serve as a means for expressing something
+hitch.v.01	to hook or entangle
+desire.v.01	feel or have a desire for; want strongly
+throw.v.08	to put into a state or activity hastily, suddenly, or carelessly
+eye.v.01	look at
+elude.v.02	be incomprehensible to; escape understanding by
+break.v.08	scatter or part
+achieve.v.01	to gain with effort
+exclude.v.01	prevent from being included or considered or accepted
+change.v.02	undergo a change; become different in essence; losing one's or its original nature
+care.v.01	feel concern or interest
+appeal.v.01	take a court case to a higher court for review
+jerk.v.02	move with abrupt, seemingly uncontrolled motions
+man.v.02	provide with workers
+run_away.v.02	escape from the control of
+write.v.01	produce a literary work
+retire.v.01	go into retirement; stop performing one's work or withdraw from one's position
+choke.v.01	breathe with great difficulty, as when experiencing a strong emotion
+ask.v.05	address a question to and expect an answer from
+serve.v.09	spend time in prison or in a labor camp
+boot.v.02	cause to load (an operating system) and start the initial processes
+close.v.09	cause a window or an application to disappear on a computer desktop
+grow.v.02	become larger, greater, or bigger; expand or gain
+scale.v.04	reach the highest point of
+stand_back.v.01	stay clear of, avoid
+slow.v.03	cause to proceed more slowly
+tire.v.02	exhaust or get tired through overuse or great strain or stress
+show.v.04	make visible or noticeable
+trip.v.02	cause to stumble
+do.v.08	create or design, often in a certain way
+fight.v.03	make a strenuous or labored effort
+let_out.v.04	make (clothes) larger
+gore.v.01	wound by piercing with a sharp or penetrating object or instrument
+humidify.v.01	make (more) humid
+form.v.01	create (as an entity)
+bank.v.03	do business with a bank or keep an account at a bank
+pick.v.02	look for and gather
+roll.v.12	move about aimlessly or without any destination, often in search of food or employment
+drive_on	drive on
+sound.v.02	make a certain noise or sound
+convey.v.01	make known; pass on, of information
+form.v.03	develop into a distinctive entity
+breathe.v.01	draw air into, and expel out of, the lungs
+shake.v.02	move with or as if with a tremor
+staple.v.01	secure or fasten with a staple or staples
+charge.v.03	demand payment
+haul.v.01	draw slowly or heavily
+join.v.02	cause to become joined or linked
+do_well.v.01	act in one's own or everybody's best interest
+map.v.01	make a map of; show or establish the features of details of
+transport.v.04	transport commercially
+serve.v.06	provide (usually but not necessarily food)
+fool.v.01	make a fool or dupe of
+enter.v.06	come on stage
+dive.v.02	plunge into water
+distance.v.01	keep at a distance
+emerge.v.01	come out into view, as from concealment
+grow.v.07	cultivate by growing, often involving improvements by means of agricultural techniques
+trip_on	trip on
+smell_like	smell like
+record.v.01	make a record of; set down in permanent form
+tear_down	tear down
+coerce.v.01	to cause to do through pressure or necessity, by physical, moral or intellectual means :"She forced him to take a job in the city"
+sink.v.01	fall or descend to a lower place or level
+serve.v.10	work for or be a servant to
+tread.v.02	tread or stomp heavily or roughly
+project.v.10	put or send forth
+wear.v.09	put clothing on one's body
+result.v.01	issue or terminate (in a specified way, state, etc.); end
+push.v.02	press, drive, or impel (someone) to action or completion of an action
+last.v.01	persist for a specified period of time
+fall.v.03	pass suddenly and passively into a state of body or mind
+learn.v.02	get to know or become aware of, usually accidentally
+watch.v.04	observe with attention
+stretch.v.01	occupy a large, elongated area
+charge.v.09	enter a certain amount as a charge
+heed.v.01	pay close attention to; give heed to
+fidget.v.01	move restlessly
+outrun.v.01	run faster than
+glass.v.03	enclose with glass
+try.v.06	give pain or trouble to
+draw_a_bead_on.v.02	have an ambitious plan or a lofty goal
+arrive.v.01	reach a destination; arrive by movement or progress
+cast.v.02	deposit
+master.v.01	be or become completely proficient or skilled in
+blossom.v.02	develop or come to a promising stage
+strain.v.06	become stretched or tense or taut
+destroy.v.04	put (an animal) to death
+note.v.03	observe with care or pay close attention to
+suprise	suprise
+breeze_through.v.01	succeed at easily
+ridicule.v.01	subject to laughter or ridicule
+digest.v.04	become assimilated into the body
+bag.v.01	capture or kill, as in hunting
+stream_to	stream to
+burn_up	burn up
+reach.v.07	reach a goal, e.g., "make the first team"
+startle.v.02	move or jump suddenly, as if in surprise or alarm
+inject.v.01	give an injection to
+levy.v.01	impose and collect
+come.v.01	move toward, travel toward something or somebody or approach something or somebody
+pour.v.02	move in large numbers
+bridge.v.02	make a bridge across
+gather.v.05	draw together into folds or puckers
+reinforce.v.01	make stronger
+scratch.v.02	cut the surface of; wear away the surface of
+deal.v.09	distribute cards to the players in a game
+manage.v.02	be in charge of, act on, or dispose of
+hop.v.01	jump lightly
+ride.v.02	be carried or travel on or in a vehicle
+lose.v.02	fail to win
+vomit.v.01	eject the contents of the stomach through the mouth
+burn.v.03	undergo combustion
+mow.v.01	cut with a blade or mower
+shadow.v.02	cast a shadow over
+rejoice.v.01	feel happiness or joy
+beat.v.15	move with a flapping motion
+shred.v.01	tear into shreds
+run.v.18	occur persistently
+service_to	service to
+complete.v.02	bring to a whole, with all the necessary parts or elements
+slap.v.01	hit with something flat, like a paddle or the open hand
+pin_down.v.01	define clearly
+respect.v.02	show respect towards
+reach.v.01	reach a destination, either real or abstract
+join.v.03	come into the company of
+pick	pick
+consist.v.03	be consistent in form, tenor, or character; be congruous
+uncover.v.01	make visible
+browse.v.03	look around casually and randomly, without seeking anything in particular
+stomp.v.01	walk heavily
+sink.v.02	cause to sink
+transgress.v.01	act in disregard of laws, rules, contracts, or promises
+launch.v.03	launch for the first time; launch on a maiden voyage
+bribe.v.01	make illegal payments to in exchange for favors or influence
+peck.v.01	hit lightly with a picking motion
+lay.v.02	put in a horizontal position
+furrow.v.02	make wrinkled or creased
+wipe_up.v.01	to wash or wipe with or as if with a mop
+outdistance.v.01	go far ahead of
+reflect.v.04	be bright by reflecting or casting light
+cheat.v.03	engage in deceitful behavior; practice trickery or fraud
+make.v.08	compel or make somebody or something to act in a certain way
+fail_in	fail in
+draw.v.10	elicit responses, such as objections, criticism, applause, etc.
+double_over.v.01	bend over or curl up, usually with laughter or pain
+belong.v.05	be a member, adherent, inhabitant, etc. (of a group, organization, or place)
+watch.v.01	look attentively
+practice.v.04	avail oneself to
+empty.v.02	become empty or void of its content
+lie.v.01	be located or situated somewhere; occupy a certain position
+serve.v.01	serve a purpose, role, or function
+blow_off.v.01	come off due to an explosion or other strong force
+cover.v.05	act on verbally or in some form of artistic expression
+recumb.v.01	lean in a comfortable resting position
+air.v.02	be broadcast
+receive.v.01	get something; come into possession of
+sleep.v.01	be asleep
+expose.v.03	to show, make visible or apparent
+embroil.v.01	force into some kind of situation, condition, or course of action
+make.v.16	perform or carry out
+know.v.05	have firsthand knowledge of states, situations, emotions, or sensations
+open.v.01	cause to open or to become open
+confuse.v.02	be confusing or perplexing to; cause to be unable to think clearly
+sit_on	sit on
+enhance.v.01	increase
+lengthen.v.01	make longer
+gain.v.07	increase or develop
+saddle.v.01	put a saddle on
+access.v.02	reach or gain access to
+tie_down.v.01	secure with or as if with ropes
+adhere.v.06	stick to firmly
+read.v.03	look at, interpret, and say out loud something that is written or printed
+anger.v.01	make angry
+trouble.v.02	to cause inconvenience or discomfort to
+work.v.05	shape, form, or improve a material
+job.v.03	work occasionally
+grasp.v.01	hold firmly
+testify.v.02	provide evidence for
+report.v.05	be responsible for reporting the details of, as in journalism
+lie.v.04	be and remain in a particular state or condition
+acquire.v.05	win something through one's efforts
+consider.v.03	take into consideration for exemplifying purposes
+overrule.v.01	rule against
+record.v.02	register electronically
+pursue.v.02	follow in or as if in pursuit
+give.v.05	convey, as of a compliment, regards, attention, etc.; bestow
+welcome.v.03	receive someone, as into one's house
+vibrate.v.01	shake, quiver, or throb; move back and forth rapidly, usually in an uncontrolled manner
+control.v.02	lessen the intensity of; temper; hold in restraint; hold or keep within limits
+envy.v.01	feel envious towards; admire enviously
+hurt.v.06	feel physical pain
+put_on.v.04	carry out (performances)
+convey.v.03	transfer to another
+fear.v.02	be afraid or scared of; be frightened of
+service.v.01	be used by; as of a utility
+forget.v.04	leave behind unintentionally
+wall.v.01	surround with a wall in order to fortify
+gallop.v.01	ride at a galloping pace
+shed.v.01	get rid of
+promote.v.02	give a promotion to or assign to a higher position
+fast_for	fast for
+wag.v.01	move from side to side
+flush.v.04	make level or straight
+orient.v.01	be oriented
+frequent.v.02	be a regular or frequent visitor to a certain place
+plant.v.05	place something or someone in a certain position in order to secretly observe or deceive
+condition.v.01	establish a conditioned response
+milk.v.02	exploit as much as possible
+bay.v.02	bark with prolonged noises, of dogs
+pass	pass
+low.a.01	less than normal in degree or intensity or amount
+go.v.23	be sounded, played, or expressed
+interrupt.v.04	terminate
+number.v.02	give numbers to
+hammer.v.01	beat with or as if with a hammer
+diagnose.v.02	subject to a medical analysis
+thin.v.01	lose thickness; become thin or thinner
+consist.v.02	have its essential character; be comprised or contained in; be embodied in
+erupt.v.01	start abruptly
+grow.v.03	increase in size by natural process
+work.v.02	be employed
+resist.v.02	stand up or offer resistance to somebody or something
+spread.v.02	become distributed or widespread
+act_out.v.01	represent an incident, state, or emotion by action, especially on stage
+cover.v.04	provide for
+have_to	have to
+cook.v.03	transform and make suitable for consumption by heating
+excrete.v.01	eliminate from the body
+age	age
+cake	cake
+draw.v.06	represent by making a drawing of, as with a pencil, chalk, etc. on a surface
+drop.v.03	go down in value
+turn.v.04	cause to move around or rotate
+hit.v.01	cause to move by striking
+develop.v.10	grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment
+trample.v.02	injure by trampling or as if by trampling
+unfold.v.04	spread out or open from a closed or folded state
+rise.v.02	increase in value or to a higher point
+concern.v.02	be on the mind of
+sponsor.v.01	assume sponsorship of
+happen.v.02	happen, occur, or be the case in the course of events or by chance
+cut_out.v.01	delete or remove
+refer.v.03	think of, regard, or classify under a subsuming principle or with a general group or in relation to another
+belong_to.v.01	be a part or adjunct
+double.v.04	do double duty; serve two purposes or have two functions
+field.v.02	play as a fielder
+lose.v.06	allow to go out of sight
+rate.v.03	estimate the value of
+bone.v.02	remove the bones from
+spin_off.v.01	produce as a consequence of something larger
+captain	captain
+subject.v.01	cause to experience or suffer or make liable or vulnerable to
+build.v.10	develop and grow
+contest.v.01	to make the subject of dispute, contention, or litigation
+live.v.02	lead a certain kind of life; live in a certain style
+guillotine.v.01	kill by cutting the head off with a guillotine
+park.v.01	place temporarily
+commercialize.v.02	make commercial
+bloom.v.01	produce or yield flowers
+play.v.05	be at play; be engaged in playful activity; amuse oneself in a way characteristic of children
+paw.v.01	scrape with the paws
+harbor.v.01	maintain (a theory, thoughts, or feelings)
+seal.v.01	make tight; secure against leakage
+immerse.v.01	thrust or throw into
+report.v.04	make known to the authorities
+switch_on.v.01	cause to operate by flipping a switch
+sit_in.v.01	attend as a visitor
+crack.v.01	become fractured; break or crack on the surface only
+wind.v.03	arrange or or coil around
+hear.v.01	perceive (sound) via the auditory sense
+oil.v.01	cover with oil, as if by rubbing
+drive	drive
+advance.v.02	bring forward for consideration or acceptance
+choke.v.02	be too tight; rub or press
+dress.v.03	put a finish on
+diversify.v.03	vary in order to spread risk or to expand
+carry.v.21	have or possess something abstract
+observe.v.04	watch attentively
+air_out.v.01	expose to fresh air
+affect.v.02	act physically on; have an effect upon
+race.v.03	to work as fast as possible towards a goal, sometimes in competition with others
+see.v.01	perceive by sight or have the power to perceive by sight
+travel_to.v.01	go to certain places as for sightseeing
+say.v.10	recite or repeat a fixed text
+smell.v.02	emit an odor
+bottle.v.02	put into bottles
+listen.v.02	listen and pay attention
+hold_up.v.04	rob at gunpoint or by means of some other threat
+obey.v.01	be obedient to
+share.v.01	have in common
+pace.v.01	walk with slow or fast paces
+set.v.08	set to a certain position or cause to operate correctly
+come.v.16	be received
+alight.v.01	to come to rest, settle
+wait.v.01	stay in one place and anticipate or expect something
+stay.v.02	stay put (in a certain place); we are not moving to Cincinnati"
+buy	buy
+set.v.04	establish as the highest level or best performance
+skate.v.01	move along on skates
+dislike.v.01	have or feel a dislike or distaste for
+date.v.01	go on a date with
+travel.v.01	change location; move, travel, or proceed, also metaphorically
+interrupt.v.02	destroy the peace or tranquility of
+garden.v.01	work in the garden
+dissolve_in	dissolve in
+ask.v.01	inquire about
+hear_with	hear with
+make.v.35	appear to begin an activity
+side_against	side against
+plan.v.01	have the will and intention to carry out some action
+conduct.v.01	direct the course of; manage or control
+rid.v.01	relieve from
+surprise.v.01	cause to be surprised
+machine.v.02	make by machinery
+impart.v.03	transmit or serve as the medium for transmission
+sit_down.v.01	take a seat
+fight	fight
+touch.v.02	perceive via the tactile sense
+mail.v.01	send via the postal service
+wish.v.03	make or express a wish
+plan.v.02	make plans for something
+avoid.v.01	stay clear from; keep away from; keep out of the way of someone or something
+take_up.v.04	take up time or space
+endow.v.01	give qualities or abilities to
+sail_along	sail along
+rush.v.03	urge to an unnatural speed
+miss.v.03	fail to attend an event or activity
+descend.v.01	move downward and lower, but not necessarily all the way
+shoot.v.01	hit with a missile from a weapon
+travel.v.05	undergo transportation as in a vehicle
+nail_down.v.01	succeed in obtaining a position
+kick.v.03	strike with the foot
+learn_from	learn from
+mark.v.02	designate as if by a mark
+jumpstart.v.01	start (a car engine whose battery is dead) by connecting it to another car's battery
+text_on	text on
+plain	plain
+cream.v.02	beat thoroughly and conclusively in a competition or fight
+induce.v.02	cause to do; cause to act in a specified manner
+time.v.02	assign a time for an activity or event
+trade.v.03	be traded at a certain price or under certain conditions
+strike.v.07	stop work in order to press demands
+predict.v.01	make a prediction about; tell in advance
+lay	lay
+require	require
+gain.v.08	earn on some commercial or business transaction; earn as salary or wages
+ship.v.05	place on board a ship
+offer.v.05	offer verbally
+lend	lend
+get.v.27	reach and board
+type.v.01	write by means of a keyboard with types
+work_at.v.01	to exert effort in order to do, make, or perform something
+stand.v.04	hold one's ground; maintain a position; be steadfast or upright
+govern.v.02	direct or strongly influence the behavior of
+lie.v.02	be lying, be prostrate; be in a horizontal position
+drink.v.01	take in liquids
+mention.v.01	make reference to
+seat.v.04	put a seat on a chair
+wear.v.04	deteriorate through use or stress
+lead.v.08	be ahead of others; be the first
+adapt.v.01	make fit for, or change to suit a new purpose
+tumble.v.01	fall down, as if collapsing
+bear.v.04	move while holding up or supporting
+incorporate.v.02	include or contain; have as a component
+mine.v.02	lay mines
+load.v.04	put (something) on a structure or conveyance
+carry.v.12	include, as on a list
+ramify.v.02	grow and send out branches or branch-like structures
+interfere.v.01	come between so as to be hindrance or obstacle
+increase.v.02	make bigger or more
+drive.v.03	cause someone or something to move by driving
+call.v.03	get or try to get into communication (with someone) by telephone
+embrown.v.02	make brown in color
+knock_out.v.01	eliminate
+mark.v.05	make or leave a mark on
+fall_into.v.01	be included in or classified as
+hound.v.01	pursue or chase relentlessly
+place.v.05	to arrange for
+flower	flower
+leave.v.07	have as a result or residue
+author.v.01	be the author of
+bring_around.v.02	provide a cure for, make healthy again
+design.v.04	make a design of; plan out in systematic, often graphic form
+force.v.06	force into or from an action or state, either physically or metaphorically
+break_open.v.01	open with force
+meet.v.06	satisfy or fulfill
+inflict.v.01	impose something unpleasant
+board.v.04	provide food and lodging (for)
+prevail.v.03	continue to exist
+snuff_out.v.02	put out, as of fires, flames, or lights
+look_to.v.01	turn one's interests or expectations towards
+stick.v.09	fasten with an adhesive material like glue
+wallow.v.02	roll around, "pigs were wallowing in the mud"
+deceive.v.01	be false to; be dishonest with
+camp.v.01	live in or as if in a tent
+burn.v.10	feel hot or painful
+answer.v.02	respond to a signal
+guide.v.04	use as a guide
+intend.v.01	have in mind as a purpose
+subjugate.v.02	make subservient; force to submit or subdue
+strengthen.v.01	make strong or stronger
+power.v.01	supply the force or power for the functioning of
+flood.v.02	cover with liquid, usually water
+sail.v.03	travel on water propelled by wind
+follow.v.04	travel along a certain course
+circle	circle
+donate.v.01	give to a charity or good cause
+plant.v.01	put or set (seeds, seedlings, or plants) into the ground
+break.v.09	force out or release suddenly and often violently something pent up
+_similar_to	similar to
+cost.v.01	be priced at
+stiffen.v.02	make stiff or stiffer
+detach.v.02	separate (a small unit) from a larger, especially for a special assignment
+barbeque.v.01	cook outdoors on a barbecue grill
+save.v.02	to keep up and reserve for personal or special use
+engage.v.10	keep engaged
+sneak.v.01	to go stealthily or furtively
+jump.v.01	move forward by leaps and bounds
+against	against
+build_up.v.01	enlarge, develop, or increase by degrees or in stages
+excavate.v.02	find by digging in the ground
+sell.v.01	exchange or deliver for money or its equivalent
+rope_in.v.01	divide by means of a rope
+serve.v.07	devote (part of) one's life or efforts to, as of countries, institutions, or ideas
+travel_through	travel through
+smoke.v.01	inhale and exhale smoke from cigarettes, cigars, pipes
+make_noise.v.01	emit a noise
+blow.v.01	exhale hard
+seal.v.02	close with or as if with a seal
+stock.v.06	provide or furnish with a stock of something
+carve.v.01	form by carving
+alloy.v.02	make an alloy of
+patch.v.01	to join or unite the pieces of
+roll.v.17	take the shape of a roll or cylinder
+start.v.06	get off the ground
+leave	leave
+imply.v.01	express or state indirectly
+swallow.v.01	pass through the esophagus as part of eating or drinking
+spend.v.01	pass time in a specific way
+exist.v.02	support oneself
+pick.v.05	remove in small bits
+close_up.v.01	cease to operate or cause to cease operating
+hurt.v.04	cause damage or affect negatively
+keep.v.07	look after; be the keeper of; have charge of
+reconcile.v.03	come to terms
+commandeer.v.01	take arbitrarily or by force
+mind.v.01	be offended or bothered by; take offense with, be bothered by
+salt.v.01	add salt to
+throw	throw
+farm.v.01	be a farmer; work as a farmer
+format.v.01	set (printed matter) into a specific format
+wrestle.v.01	combat to overcome an opposing tendency or force
+date.v.02	stamp with a date
+taller_than	taller than
+change.v.06	exchange or replace with another, usually of the same kind or category
+sleep_on	sleep on
+freeze.v.02	change to ice
+agitate.v.02	cause to be agitated, excited, or roused
+inhibit.v.04	control and refrain from showing; of emotions, desires, impulses, or behavior
+tune	tune
+forward.v.01	send or ship onward from an intermediate post or station in transit
+feel.v.01	undergo an emotional sensation or be in a particular state of mind
+fail.v.04	stop operating or functioning
+limp.v.02	proceed slowly or with difficulty
+miss.v.06	be without
+hike.v.02	walk a long way, as for pleasure or physical exercise
+refund.v.01	pay back
+groom.v.03	care for one's external appearance
+obscure.v.03	make obscure or unclear
+sun.v.02	expose to the rays of the sun or affect by exposure to the sun
+herd.v.03	keep, move, or drive animals
+recommend.v.01	push for something
+stick.v.13	pierce or penetrate or puncture with something pointed
+smite.v.01	inflict a heavy blow on, with the hand, a tool, or a weapon
+rain.v.01	precipitate as rain
+roll.v.14	cause to move by turning over or in a circular manner of as if on an axis
+march.v.03	walk fast, with regular or measured steps; walk with a stride
+hold.v.22	hold the attention of
+express.v.01	give expression to
+stock.v.01	have on hand
+help.v.03	be of use
+sun.v.01	expose one's body to the sun
+supply.v.01	give something useful or necessary to
+smooth.v.01	make smooth or smoother, as if by rubbing
+flush.v.02	flow freely
+consider.v.04	show consideration for; take into account
+blow.v.02	be blowing or storming
+air.v.03	broadcast over the airwaves, as in radio or television
+smash.v.01	hit hard
+expand.v.02	become larger in size or volume or quantity
+_derivationally_related_form	derivationally related form
+snooze.v.01	sleep lightly or for a short period of time
+temper.v.04	make more temperate, acceptable, or suitable by adding something else; moderate
+get_the_better_of.v.01	win a victory over
+alphabetize.v.01	arrange in alphabetical order
+denude.v.01	lay bare
+church.v.01	perform a special church rite or service for
+crash.v.03	undergo damage or destruction on impact
+have	have
+bus	bus
+protect.v.01	shield from danger, injury, destruction, or damage
+blow.v.06	shape by blowing
+justify.v.01	show to be reasonable or provide adequate ground for
+map.v.04	plan, delineate, or arrange in detail
+vote_in.v.01	elect in a voting process
+shake.v.01	move or cause to move back and forth
+visualize.v.01	imagine; conceive of; see in one's mind
+fear.v.01	be afraid or feel anxious or apprehensive about a possible or probable situation or event
+exploit.v.01	use or manipulate to one's advantage
+come.v.03	come to pass; arrive, as in due course
+observe.v.08	stick to correctly or closely
+save.v.04	spend less; buy at a reduced price
+marry.v.01	take in marriage
+mean.s.06	(used of persons or behavior) characterized by or indicative of lack of generosity
+appeal.v.02	request earnestly (something from somebody); ask for aid or protection
+agree.v.01	be in accord; be in agreement
+give.v.03	transfer possession of something concrete or abstract to somebody
+deviate.v.01	turn aside; turn away from
+penetrate.v.01	pass into or through, often by overcoming resistance
+jump.v.11	cause to jump or leap
+judge.v.01	determine the result of (a competition)
+necessitate.v.01	require as useful, just, or proper
+drop_out.v.01	give up in the face of defeat of lacking hope; admit defeat
+arm	arm
+hit.v.09	cause to experience suddenly
+land	land
+drink_out_of	drink out of
+rest.v.05	be at rest
+append.v.02	fix to; attach
+dance_around	dance around
+seize.v.02	take or capture by force
+sentence.v.01	pronounce a sentence on (somebody) in a court of law
+wear.v.02	have on one's person
+rescue.v.01	free from harm or evil
+grow_on	grow on
+switch_off.v.01	cause to stop operating by disengaging a switch
+land.v.04	bring ashore
+prevent.v.01	keep from happening or arising; make impossible
+report.v.02	announce as the result of an investigation or experience or finding
+fold.v.01	bend or lay so that one part covers the other
+focus.v.02	cause to converge on or toward a central point
+champ.v.01	chafe at the bit, like horses
+get_down.v.07	take the first step or steps in carrying out an action
+stop.v.05	cause to stop
+tell.v.05	discern or comprehend
+occur.v.03	to be found to exist
+mimic.v.01	imitate (a person or manner), especially for satirical effect
+nod.v.02	lower and raise the head, as to indicate assent or agreement or confirmation
+unclutter.v.01	rid of obstructions
+exercise.v.04	do physical exercise
+write_in.v.01	cast a vote by inserting a name that does not appear on the ballot
+choose.v.03	see fit or proper to act in a certain way; decide to act in a certain way
+prepare	prepare
+produce.v.02	create or manufacture a man-made product
+represent.v.03	be representative or typical for
+wedge.v.02	squeeze like a wedge into a tight space
+save.v.05	accumulate money for future use
+better.v.01	surpass in excellence
+ripple.v.01	stir up (water) so as to form ripples
+bank.v.01	tip laterally
+box.v.02	hit with the fist
+disguise.v.01	make unrecognizable
+harness.v.02	exploit the power of
+drown.v.03	die from being submerged in water, getting water into the lungs, and asphyxiating
+group.v.01	arrange into a group or groups
+follow.v.23	grasp the meaning
+order.v.02	make a request for something
+lift.v.03	move upwards
+taste.v.06	experience briefly
+needle.v.01	goad or provoke,as by constant criticism
+bring.v.05	bring into a different state
+ride.v.10	sit on and control a vehicle
+blow.v.14	cause to move by means of an air current
+toast.v.02	propose a toast to
+hose.v.01	water with a hose
+hold.v.10	be the physical support of; carry the weight of
+proceed.v.02	move ahead; travel onward in time or space
+wear.v.03	have in one's aspect; wear an expression of one's attitude or personality
+touch.v.05	be in direct physical contact with; make contact
+melt.v.01	reduce or cause to be reduced from a solid to a liquid state, usually by heating
+break.v.05	destroy the integrity of; usually by force; cause to separate into pieces or fragments
+visit.v.03	pay a brief visit
+ring.v.03	make (bells) ring, often for the purposes of musical edification
+burn_down.v.01	burn completely; be consumed or destroyed by fire
+extract.v.01	remove, usually with some force or effort; also used in an abstract sense
+earn.v.02	acquire or deserve by one's efforts or actions
+change.v.01	cause to change; make different; cause a transformation
+raise.v.04	collect funds for a specific purpose
+cast	cast
+charge.v.24	energize a battery by passing a current through it in the direction opposite to discharge
+cover.v.13	maintain a check on; especially by patrolling
+pick.v.01	select carefully from a group
+flutter.v.03	flap the wings rapidly or fly with flapping movements
+jog.v.03	run for exercise
+involve.v.01	connect closely and often incriminatingly
+turn.v.01	change orientation or direction, also in the abstract sense
+group	group
+reach.v.02	reach a point in time, or a certain state or level
+bag.v.05	put into a bag
+doubt.v.02	lack confidence in or have doubts about
+cook.v.01	prepare a hot meal
+tax.v.01	levy a tax on
+quarter.v.04	divide by four; divide into quarters
+cover.v.02	form a cover over
+bus.v.03	remove used dishes from the table in restaurants
+bigger.s.01	large or big relative to something else
+storm.v.05	attack by storm; attack suddenly
+provoke.v.02	evoke or provoke to appear or occur
+sound.v.04	announce by means of a sound
+build.v.03	build or establish something abstract
+bite.v.01	to grip, cut off, or tear with or as if with the teeth or jaws
+mean.v.03	denote or connote
+complete.v.05	write all the required information onto a form
+prepare.v.05	educate for a future role or function
+quote.v.02	name the price of
+empty.v.01	make void or empty of contents
+point.v.08	mark with diacritics
+seed.v.01	go to seed; shed seeds
+fall_in	fall in
+produce.v.03	cause to happen, occur or exist
+give.v.19	give (as medicine)
+roll_out.v.01	flatten or spread with a roller
+shoulder.v.01	lift onto one's shoulders
+imply.v.05	have as a necessary feature
+drop_on	drop on
+better.v.02	to make better
+exercise.v.03	give a workout to
+observe.v.09	conform one's action or practice to
+bequeath.v.01	leave or give by will after one's death
+kick.v.01	drive or propel with the foot
+wish.v.01	hope for; have a wish
+fly	fly
+cross.v.05	to cover or extend over an area or time period
+train_in	train in
+pronounce.v.01	speak, pronounce, or utter in a certain way
+celebrate.v.02	have a celebration
+rise.v.15	increase in volume
+count.v.02	have weight; have import, carry weight
+advertise.v.02	make publicity for; try to sell (a product)
+hush.v.02	cause to be quiet or not talk
+lap.v.03	move with or cause to move with a whistling or hissing sound
+swing.v.01	move in a curve or arc, usually with the intent of hitting
+attach.v.03	become attached
+absorb.v.01	become imbued
+_member_of_domain_region	member of domain region
+save.v.09	spend sparingly, avoid the waste of
+believe.v.01	accept as true; take to be true
+feel.v.03	perceive by a physical sensation, e.g., coming from the skin or muscles
+believe.v.04	follow a credo; have a faith; be a believer
+_member_meronym	member meronym
+thin.v.02	make thin or thinner
+cut.v.36	cease, stop
+vanish.v.02	become invisible or unnoticeable
+tackle.v.03	seize and throw down an opponent player, who usually carries the ball
+thwart.v.01	hinder or prevent (the efforts, plans, or desires) of
+gag.v.05	struggle for breath; have insufficient oxygen intake
+prepare.v.03	to prepare verbally, either for written or spoken delivery
+invade.v.01	march aggressively into another's territory by military force for the purposes of conquest and occupation
+cut.v.30	penetrate injuriously
+ask.v.03	direct or put; seek an answer to
+begin.v.04	begin to speak or say
+retort.v.01	answer back
+own.v.01	have ownership or possession of
+prove.v.01	be shown or be found to be
+draw.v.04	make, formulate, or derive in the mind
+thank.v.01	express gratitude or show appreciation to
+wedge_between	wedge between
+life	life
+upset.v.02	cause to lose one's composure
+meet.v.01	come together
+hate.v.01	dislike intensely; feel antipathy or aversion towards
+put_away.v.04	stop using
+botch.v.01	make a mess of, destroy or ruin
+drop.v.08	leave or unload
+bob_for	bob for
+like.v.02	find enjoyable or agreeable
+play.v.09	move or seem to move quickly, lightly, or irregularly
+paint.v.02	apply paint to; coat with paint
+dig.v.02	create by digging
+age.v.03	make older
+regale.v.01	provide with choice or abundant food or drink
+go.v.10	be or continue to be in a certain condition
+cover.v.16	invest with a large or excessive amount of something
+twist.v.10	twist suddenly so as to sprain
+include.v.01	have as a part, be made up out of
+give.v.31	present to view
+page	page
+cloud.v.04	make gloomy or depressed
+care_for.v.01	have a liking, fondness, or taste (for)
+graze.v.02	break the skin (of a body part) by scraping
+pollinate.v.01	fertilize by transfering pollen
+weed_out.v.01	remove unwanted elements
+finish_up.v.02	finally be or do something
+haunt.v.01	follow stealthily or recur constantly and spontaneously to
+encourage.v.02	inspire with confidence; give hope or courage to
+bone	bone
+sign.v.01	mark with one's signature; write one's name (on)
+sip.v.01	drink in sips
+burn.v.05	cause to burn or combust
+effect.v.01	produce
+milk.v.01	take milk from female mammals
+pick_up.v.02	take up by hand
+strike_out.v.02	put out or be put out by a strikeout
+hire.v.01	engage or hire for work
+foam.v.01	become bubbly or frothy or foaming
+prepare_for	prepare for
+lose.v.05	miss from one's possessions; lose sight of
+book.v.01	engage for a performance
+adopt.v.01	choose and follow; as of theories, ideas, policies, strategies or plans
+service	service
+pray_at	pray at
+argue.v.02	have an argument about something
+catalyze.v.01	change by catalysis or cause to catalyze
+seek.v.01	try to get or reach
+follow.v.03	come as a logical consequence; follow logically
+rent.v.01	let for money
+catch.v.27	be the catcher
+iron.v.01	press and smooth with a heated iron
+furlough.v.01	dismiss, usually for economic reasons
+announce.v.01	make known; make an announcement
+keep.v.01	keep in a certain state, position, or activity; e.g., "keep clean"
+think_up.v.01	devise or invent
+snip.v.02	cultivate, tend, and cut back the growth of
+page.v.01	contact, as with a pager or by calling somebody's name over a P.A. system
+mark	mark
+keep_track.v.01	keep informed of fully aware
+cash.v.01	exchange for cash
+control.v.01	exercise authoritative control or power over
+move.v.02	cause to move or shift into a new position or place, both in a concrete and in an abstract sense
+shade.v.04	vary slightly
+partake.v.02	have, give, or receive a share of
+wiretap.v.01	tap a telephone or telegraph wire to get information
+compress.v.02	squeeze or press together
+dance.v.01	move in a graceful and rhythmical way
+discontinue.v.01	put an end to a state or an activity
+store.v.01	keep or lay aside for future use
+confront.v.01	oppose, as in hostility or a competition
+crash.v.01	fall or come down violently
+reach_into.v.01	run into or up to
+call.v.05	order, request, or command to come
+rob.v.01	take something away by force or without the consent of the owner
+close.v.04	finish or terminate (meetings, speeches, etc.)
+lean_on.v.01	rest on for support
+separate.v.05	divide into components or constituents
+back.v.01	be behind; approve of
+grumble.v.03	to utter or emit low dull rumbling sounds
+knock_out.v.03	destroy or break forcefully
+rest.v.02	take a short break from one's activities in order to relax
+choke.v.04	constrict (someone's) throat and keep from breathing
+shield.v.01	protect, hide, or conceal from danger or harm
+voyage.v.01	travel on water propelled by wind or by other means
+stamp.v.06	destroy or extinguish as if by stamping with the foot
+stop.v.03	stop from happening or developing
+find.v.03	come upon after searching; find the location of something that was missed or lost
+race.v.04	cause to move fast or to rush or race
+continue.v.02	continue talking
+value.v.01	fix or determine the value of; assign a value to
+wrap.v.01	arrange or fold as a cover or protection
+break.v.44	become punctured or penetrated
+see.v.05	deem to be
+shuttle.v.01	travel back and forth between two points
+play_back.v.01	reproduce (a recording) on a recorder
+stay_from	stay from
+rate.v.01	assign a rank or rating to
+decant.v.01	pour out
+wake_up.v.02	stop sleeping
+propel.v.01	cause to move forward with force
+administer.v.04	give or apply (medications)
+drop.v.02	to fall vertically
+list.v.01	give or make a list of; name individually; give the names of
+stick_to.v.02	keep to
+separate.v.01	act as a barrier between; stand between
+mend.v.02	heal or recover
+charge.v.06	file a formal charge against
+solve.v.01	find the solution to (a problem or question) or understand the meaning of
+droop.v.02	hang loosely or laxly
+skim_over.v.02	move or pass swiftly and lightly over the surface of
+quest_for.v.01	go in search of or hunt for
+harry.v.02	make a pillaging or destructive raid on (a place), as in wartimes
+sound.v.01	appear in a certain way
+become.v.02	undergo a change or development
+adhere.v.04	be a devoted follower or supporter
+salt.v.03	add zest or liveliness to
+mine_for	mine for
+page_through	page through
+bet_on.v.01	place a bet on
+spring	spring
+make	make
+result_in	result in
+stumble.v.01	walk unsteadily
+fit.v.07	conform to some shape or size
+hit.v.03	deal a blow to, either with the hand or with an instrument
+tune.v.01	adjust for (better) functioning
+inflate.v.02	fill with gas or air
+across.r.02	transversely
+expect.v.03	look forward to the probable occurrence of
+clean.v.01	make clean by removing dirt, filth, or unwanted substances from
+rise.v.04	rise up
+rend.v.01	tear or be torn violently
+build_up.v.02	form or accumulate steadily
+rush.v.02	attack suddenly
+gain.v.09	increase (one's body weight)
+program.v.02	write a computer program
+agitate.v.06	change the arrangement or position of
+starve.v.01	be hungry; go without food
+lower.v.02	set lower
+reflect.v.05	show an image of
+sound.v.06	cause to sound
+rest.v.03	give a rest to
+sniff.v.01	perceive by inhaling through the nose
+state.v.01	express in words
+stock.v.04	supply with livestock
+meet.v.05	satisfy a condition or restriction
+wash.v.02	cleanse (one's body) with soap and water
+range.v.05	lay out orderly or logically in a line or as if in a line
+break_with.v.01	end a relationship
+frolic.v.01	play boisterously
+cut.v.28	reap or harvest
+flag_down.v.01	signal to stop
+locate.v.01	discover the location of; determine the place of; find by searching or examining
+rent.v.04	hold under a lease or rental agreement; of goods and services
+carry	carry
+overdress.v.02	put on special clothes to appear particularly appealing and attractive
+weave.v.04	to move or cause to move in a sinuous, spiral, or circular course
+thump.v.03	hit hard with the hand, fist, or some heavy instrument
+describe.v.01	give a description of
+glass.v.01	furnish with glass
+squeeze.v.02	press firmly
+drown_in	drown in
+occur_in	occur in
+dress.v.06	kill and prepare for market or consumption
+widen.v.04	extend in scope or range or area
+test.v.01	put to the test, as for its quality, or give experimental use to
+count.v.04	name or recite the numbers in ascending order
+skin.v.04	strip the skin off
+float.v.01	be in motion due to some air or water current
+specialize.v.01	become more focus on an area of activity or field of study
+depend_on.v.02	put trust in with confidence
+wash.v.03	cleanse with a cleaning agent, such as soap, and water
+operate.v.01	direct or control; projects, businesses, etc.
+grade.v.03	assign a grade or rank to, according to one's evaluation
+best	best
+surround.v.01	extend on all sides of simultaneously; encircle
+heat.v.01	make hot or hotter
+defend.v.02	be on the defensive; act against an attack
+senesce.v.01	grow old or older
+sign.v.05	communicate silently and non-verbally by signals or signs
+count.v.01	determine the number or amount of
+salt.v.02	sprinkle as if with salt
+start.v.09	begin or set in motion
+serve.v.02	do duty or hold offices; serve in a specific function
+bathe.v.01	cleanse the entire body
+end.v.03	be the end of; be the last or concluding part of
+forget.v.03	forget to do something
+chase.v.01	go after with the intent to catch
+divide.v.01	separate into parts or portions
+eat.v.04	worry or cause anxiety in a persistent way
+repent.v.02	feel remorse for; feel sorry for; be contrite about
+singe	singe
+fly.v.01	travel through the air; be airborne
+course.v.03	hunt with hounds
+revert.v.01	go back to a previous state
+loud.a.01	characterized by or producing sound of great volume or intensity
+dart.v.02	run or move very quickly or hastily
+accrue.v.01	grow by addition
+drive_off	drive off
+quarter.v.01	provide housing for (military personnel)
+tag.v.01	attach a tag or label to
+generate.v.01	bring into existence
+have.v.17	achieve a point or goal
+spring.v.05	produce or disclose suddenly or unexpectedly
+catch.v.01	discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state
+produce.v.06	bring onto the market or release
+clear.v.22	remove (people) from a building
+fail.v.01	fail to do something; leave something undone
+hang.v.08	be suspended or poised
+inadequate.s.02	not sufficient to meet a need
+take.v.21	take by force
+drop.v.01	let fall to the ground
+even.v.03	make even or more even
+attack.v.01	launch an attack or assault on; begin hostilities or start warfare with
+can.v.01	preserve in a can or tin
+_verb_group	verb group
+present.v.05	introduce
+nip.v.03	sever or remove by pinching or snipping
+conserve.v.02	keep in safety and protect from harm, decay, loss, or destruction
+unravel.v.01	become or cause to become undone by separating the fibers or threads of
+pull.v.04	apply force so as to cause motion towards the source of the motion
+step.v.06	move with one's feet in a specific manner
+drive.v.14	move by being propelled by a force
+hunt.v.06	seek, search for
+meet.v.08	get to know; get acquainted with
+lift.v.10	raise in rank or condition
+delight.v.01	give pleasure to or be pleasing to
+picture	picture
+reason.v.01	decide by reasoning; draw or come to a conclusion
+cross_off.v.01	remove from a list
+amount.v.01	be tantamount or equivalent to
+stock.v.02	equip with a stock
+exceed.v.02	be superior or better than some standard
+follow_through.v.02	pursue to a conclusion or bring to a successful issue
+come_to.v.03	attain
+file.v.05	place in a container for keeping records
+find.v.13	perceive oneself to be in a certain condition or place
+snog.v.01	touch with the lips or press the lips (against someone's mouth or other body part) as an expression of love, greeting, etc.
+grub.v.02	search about busily
+force_out.v.04	press, force, or thrust out of a small space
+dry.v.02	become dry or drier
+maroon.v.01	leave stranded or isolated with little hope of rescue
+replace.v.01	substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected)
+moo.v.01	make a low noise, characteristic of bovines
+listen.v.01	hear with intention
+trot.v.01	run at a moderately swift pace
+switch.v.04	make a shift in or exchange of; then we switched"
+sell.v.05	give up for a price or reward
+decelerate.v.01	lose velocity; move more slowly
+interrupt.v.03	interfere in someone else's activity
+total.v.01	add up in number or quantity
+give.v.01	cause to have, in the abstract sense or physical sense
+bus.v.01	send or move around by bus
+wish.v.02	prefer or wish to do something
+chip.v.01	break off (a piece from a whole)
+advance.v.08	develop further
+suspect.v.03	hold in suspicion; believe to be guilty
+estimate.v.01	judge tentatively or form an estimate of (quantities or time)
+adequate_to.s.01	having the requisite qualities for
+circulate.v.02	cause to become widely known
+offer.v.01	make available or accessible, provide or furnish
+kill.v.02	thwart the passage of
+wear.v.05	have or show an appearance of
+run.v.01	move fast by using one's feet, with one foot off the ground at any given time
+revolve_around.v.02	move around in a circular motion
+discover.v.03	make a discovery, make a new finding
+separate.v.12	come apart
+clear.v.02	make a way or path by removing objects
+belong.v.01	be owned by; be in the possession of
+lead.v.05	cause to undertake a certain action
+trade.v.02	turn in as payment or part payment for a purchase
+eat.v.02	eat a meal; take a meal
+pour.v.01	cause to run
+nail	nail
+come_to_the_fore.v.01	make oneself visible; take action
+run_along	run along
+paint.v.03	make a painting of
+spur.v.01	incite or stimulate
+end_up_in	end up in
+restrict.v.02	place under restrictions; limit access to
+weight	weight
+disperse.v.04	move away from each other;
+pay.v.08	render
+engender.v.01	call forth
+imprint.v.01	establish or impress firmly in the mind
+shunt.v.01	transfer to another track, of trains
+reheat.v.01	heat again
+obscure.v.01	make less visible or unclear
+overtake.v.01	catch up with and possibly overtake
+count.v.08	have faith or confidence in
+derive.v.05	come from; be connected by a relationship of blood, for example
+tall.a.01	great in vertical dimension; high in stature
+manipulate.v.05	control (others or oneself) or influence skillfully, usually to one's advantage
+inform.v.01	impart knowledge of some fact, state or affairs, or event to
+flicker.v.03	flash intermittently
+harass.v.01	annoy continually or chronically
+dig.v.01	turn up, loosen, or remove earth
+cut.v.11	intentionally fail to attend
+talk_on	talk on
+machine.v.01	turn, shape, mold, or otherwise finish by machinery
+pick.v.07	pilfer or rob
+outlive.v.01	live longer than
+end_in	end in
+battle.v.01	battle or contend against in or as if in a battle
+out.v.03	be made known; be disclosed or revealed
+lap.v.04	take up with the tongue
+burn	burn
+get.v.11	succeed in catching or seizing, especially after a chase
+dry.v.01	remove the moisture from and make dry
+coil.v.03	wind around something in coils or loops
+sew.v.01	fasten by sewing; do needlework
+play.v.03	play on an instrument
+paint	paint
+emit.v.01	expel (gases or odors)
+butter.v.01	spread butter on
+break.v.03	render inoperable or ineffective
+culminate.v.01	end, especially to reach a final or climactic stage
+voice.v.02	utter with vibrating vocal chords
+ascend.v.08	move to a better position in life or to a better job
+fillet.v.02	cut into filets
+direct.v.03	guide the actors in (plays and films)
+throw.v.13	cause to fall off
+go.v.03	move away from a place into another direction
+interfering.s.01	intrusive in a meddling or offensive manner
+serve.v.15	put the ball into play
+train.v.01	create by training and teaching
+get_off.v.05	escape potentially unpleasant consequences; get away with a forbidden action
+sow.v.01	place (seeds) in or on the ground for future growth
+render.v.07	give back
+search.v.01	try to locate or discover, or try to establish the existence of
+sail.v.01	traverse or travel on (a body of water)
+continue.v.03	keep or maintain in unaltered condition; cause to remain or last
+affect.v.05	have an emotional or cognitive impact upon
+notice	notice
+sit.v.02	be around, often idly or without specific purpose
+feel.v.07	be felt or perceived in a certain way
+season.v.02	make fit
+wash.v.01	clean with some chemical process
+warm.v.02	make warm or warmer
+bark.v.01	speak in an unfriendly tone
+rain_on	rain on
+decide.v.02	bring to an end; settle conclusively
+crack.v.06	break partially but keep its integrity
+run.v.34	travel rapidly, by any (unspecified) means
+revolt.v.01	make revolution
+contain.v.05	be capable of holding or containing
+raise.v.15	cause to puff up with a leaven
+side	side
+cut.v.21	create by duplicating data
+keep.v.16	raise
+roll.v.03	occur in soft rounded shapes
+seed.v.05	distribute (players or teams) so that outstanding teams or players will not meet in the early rounds
+castle_off_in	castle off in
+curl.v.01	form a curl, curve, or kink
+letter.v.03	mark letters on or mark with letters
+saw	saw
+crane.v.01	stretch (the neck) so as to see better
+ask.v.02	make a request or demand for something to somebody
+seed.v.06	sprinkle with silver iodide particles to disperse and cause rain
+recline.v.02	cause to recline
+think.v.01	judge or regard; look upon; judge
+jump.v.13	bypass
+watch.v.02	follow with the eyes or the mind
+throw.v.02	move violently, energetically, or carelessly
+clear_out.v.01	move out and leave nothing behind
+hunt.v.03	chase away, with as with force
+determine.v.01	establish after a calculation, investigation, experiment, survey, or study
+welcome.v.01	accept gladly
+lurk.v.01	lie in wait, lie in ambush, behave in a sneaky and secretive manner
+encase.v.01	enclose in, or as if in, a case
+involve.v.05	contain as a part
+open.s.13	not sealed or having been unsealed
+fudge.v.01	tamper, with the purpose of deception
+circle.v.02	move in circles
+dream_of	dream of
+devour.v.03	eat immoderately
+star.v.01	feature as the star
+emerge.v.04	come up to the surface of or rise
+sound.v.03	give off a certain sound or sounds
+run.v.06	move along, of liquids
+accommodate.v.04	have room for; hold without crowding
+still.v.04	make motionless
+seize.v.01	take hold of; grab
+inhere_in.v.01	be part of
+clear.s.08	(especially of a title) free from any encumbrance or limitation that presents a question of fact or law
+slip.v.05	move smoothly and easily
+stop.v.01	come to a halt, stop moving
+reach.v.04	be in or establish communication with
+stop_on	stop on
+help.v.01	give help or assistance; be of service
+glaze.v.02	become glassy or take on a glass-like appearance
+ford.v.01	cross a river where it's shallow
+occupy.v.03	occupy the whole of
+land.v.01	reach or come to rest
+intersect.v.01	meet at a point
+past.a.01	earlier than the present time; no longer current
+tie.v.03	limit or restrict to
+walk.v.04	traverse or cover by walking
+surprise.v.02	come upon or take unawares
+name.v.03	charge with a function; charge to be
+draw.v.07	take liquid out of a container or well
+oppress.v.01	come down on or keep down by unjust use of one's authority
+stream	stream
+explore.v.02	travel to or penetrate into
+fleece.v.02	shear the wool from
+start.v.08	get going or set in motion
+write_on	write on
+demand.v.01	request urgently and forcefully
+prevent.v.02	stop (someone or something) from doing something or being in a certain state
+accelerate.v.01	move faster
+bankrupt.v.01	reduce to bankruptcy
+erode.v.02	remove soil or rock
+glide.v.02	fly in or as if in a glider plane
+dress.v.15	give a neat appearance to
+object.v.01	express or raise an objection or protest or criticism or express dissent
+source.v.02	specify the origin of
+let.v.01	make it possible through a specific action or lack of action for something to happen
+think.v.03	use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments
+pass.v.14	go successfully through a test or a selection process
+whirl.v.02	cause to spin
+raise.v.25	invigorate or heighten
+view.v.02	look at carefully; study mentally
+watch.v.03	see or watch
+shoe.v.01	furnish with shoes
+frost.v.01	decorate with frosting
+agree.v.02	consent or assent to a condition, or agree to do something
+have.v.02	have as a feature
+can	can
+separate.v.08	discontinue an association or relation; go different ways
+fill_up.v.04	eat until one is sated
+radiate.v.01	send out rays or waves
+look_around.v.01	look about oneself
+pet.v.01	stroke or caress gently
+stay_at.v.01	reside temporarily
+travel.v.02	undertake a journey or trip
+moderate.v.01	preside over
+decide.v.01	reach, make, or come to a decision about something
+hang.v.04	let drop or droop
+win_over	win over
+stipulate.v.01	specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement
+check.v.01	examine so as to determine accuracy, quality, or condition
+burn_in	burn in
+experience.v.01	go or live through
+_synset_domain_topic_of	synset domain topic of
+beckon.v.01	signal with the hands or nod
+collaborate.v.01	work together on a common enterprise of project
+hoard.v.01	save up as for future use
+accompany.v.02	go or travel along with
+hunt.v.01	pursue for food or sport (as of wild animals)
+lose.v.07	fail to make money in a business; make a loss or fail to profit
+ditch.v.01	forsake
+partcipate_in	partcipate in
+marry.v.02	perform a marriage ceremony
+front.v.01	be oriented in a certain direction, often with respect to another reference point; be opposite to
+request.v.01	express the need or desire for; ask for
+fish	fish
+develop	develop
+create.v.02	bring into existence
+box.v.03	engage in a boxing match
+tear_up	tear up
+walk.v.09	make walk
+begin.v.03	set in motion, cause to start
+contribute.v.02	contribute to some cause
+grow.v.08	come to have or undergo a change of (physical features and attributes)
+hold.v.14	support or hold in a certain manner
+arm.v.02	supply with arms
+work.v.03	have an effect or outcome; often the one desired or expected
+fire.v.02	cause to go off
+attract.v.02	be attractive to
+fall_off.v.01	come off
+ride_off.v.01	ride away on a horse, for example
+obtain.v.01	come into possession of
+raise.v.07	summon into action or bring into existence, often as if by magic
+market.v.03	deal in a market
+nap.v.01	take a siesta
+catch.v.04	take hold of so as to seize or restrain or stop the motion of
+explode.v.01	cause to burst with a violent release of energy
+calm.v.01	make calm or still
+react.v.03	undergo a chemical reaction; react with another substance under certain conditions
+writhe.v.01	to move in a twisting or contorted motion, (especially when struggling)
+claim.v.01	assert or affirm strongly; state to be true or existing
+prioritize.v.01	assign a priority to
+decoy.v.01	lure or entrap with or as if with a decoy
+write.v.07	mark or trace on a surface
+ring_up.v.01	to perform and record a sale on a cash register
+tie.v.02	finish a game with an equal number of points, goals, etc.
+refuse.v.02	refuse to accept
+twiddle.v.02	manipulate, as in a nervous or unconscious manner
+go.v.02	follow a procedure or take a course
+return.v.05	bring back to the point of departure
+sign.v.06	place signs, as along a road
+come.v.06	be found or available; The furniture comes unassembled"
+begin.v.02	have a beginning, in a temporal, spatial, or evaluative sense
+scurry.v.01	to move about or proceed hurriedly
+bag.v.02	hang loosely, like an empty bag
+subvert.v.04	destroy completely
+stock.v.05	amass so as to keep for future use or sale or for a particular occasion or use
+trade.v.01	engage in the trade of
+miss.v.01	fail to perceive or to catch with the senses or the mind
+bridge.v.01	connect or reduce the distance between
+socialize.v.01	take part in social activities; interact with others
+get.v.28	irritate
+right.v.03	regain an upright or proper position
+hurt.v.02	give trouble or pain to
+graduate.v.01	receive an academic degree upon completion of one's studies
+press.v.04	place between two surfaces and apply weight or pressure
+question.v.01	challenge the accuracy, probity, or propriety of
+defy.v.03	challenge
+take.v.09	travel or go by means of a certain kind of transportation, or a certain route
+come.v.15	develop into
+bend.v.02	change direction
+pinpoint.v.01	locate exactly
+weigh.v.01	have a certain weight
+find.v.01	come upon, as if by accident; meet with
+want.v.02	have need of
+stick.v.04	be or become fixed
+shape.v.02	make something, usually for a specific function
+take.v.24	ascertain or determine by measuring, computing or take a reading from a dial
+sit.v.01	be seated
+rekey	rekey
+lift.v.02	take hold of something and move it to a different location
+walk_down	walk down
+answer.v.03	give the correct answer or solution to
+replenish.v.01	fill something that had previously been emptied
+total.v.02	determine the sum of
+pull.v.08	strain abnormally
+sag.v.01	droop, sink, or settle from or as if from pressure or loss of tautness
+understand.v.01	know and comprehend the nature or meaning of
+burrow.v.01	move through by or as by digging
+break.v.04	ruin completely
+bury.v.02	place in a grave or tomb
+govern	govern
+disperse.v.02	to cause to separate and go in different directions
+break_up.v.03	come apart
+even.v.02	become even or more even
+write_down.v.01	put down in writing; of texts, musical compositions, etc.
+digest.v.01	convert food into absorbable substances
+curl.v.04	twist or roll into coils or ringlets
+arch.v.01	form an arch or curve
+sense.v.02	detect some circumstance or entity automatically
+except	except
+register.v.03	enroll to vote
+bank_on	bank on
+lie_down.v.01	assume a reclining position
+lend.v.02	give temporarily; let have for a limited time
+taste.v.02	perceive by the sense of taste
+put.v.01	put into a certain place or abstract location
+out_of.r.01	motivated by
+explain.v.02	define
+plow.v.03	move in a way resembling that of a plow cutting into or going through the soil
+charge.v.02	blame for, make a claim of wrongdoing or misbehavior against
+show.v.08	be or become visible or noticeable
+entrench.v.03	occupy a trench or secured area
+interrupt.v.01	make a break in
+clog.v.01	become or cause to become obstructed
+do_with	do with
+resent.v.01	feel bitter or indignant about
+act.v.05	pretend to have certain qualities or state of mind
+take.v.02	require (time or space)
+arise.v.02	originate or come into being
+sleep.v.02	be able to accommodate for sleeping
+design.v.03	create the design for; create or execute in an artistic or highly skilled manner
+emit.v.02	give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.
+rest_on	rest on
+cloud.v.08	make milky or dull
+rub.v.03	scrape or rub as if to relieve itching
+fancy.v.02	have a fancy or particular liking or desire for
+converge.v.01	be adjacent or come together
+return.v.06	return in kind
+plague	plague
+pass.v.09	go unchallenged; be approved
+slice.v.03	cut into slices
+file.v.01	record in a public office or in a court of law
+straddle.v.01	sit or stand astride of
+cover.v.01	provide with a covering or cause to be covered
+calculate.v.02	judge to be probable
+blemish.v.02	mar or impair with a flaw
+promise.v.02	promise to undertake or give
+walk.v.02	accompany or escort
+turn_over	turn over
+adjust.v.01	alter or regulate so as to achieve accuracy or conform to a standard
+face.v.04	be opposite
+hurl.v.03	utter with force; utter vehemently
+go_on.v.05	start running, functioning, or operating
+shoulder.v.02	push with the shoulders
+decree.v.01	issue a decree
+letter.v.02	set down or print with letters
+encode.v.01	convert information into code
+judge.v.05	put on trial or hear a case and sit as the judge at the trial of
+name.v.05	mention and identify by name
+segment.v.01	divide into segments
+use.v.04	seek or achieve an end by using to one's advantage
+form.v.02	to compose or represent:"This wall forms the background of the stage setting"
+play_around.v.01	commit adultery
+reproduce.v.02	have offspring or produce more individuals of a given animal or plant
+grow.v.04	cause to grow or develop
+carry.v.26	have on the surface or on the skin
+place.v.02	place somebody in a particular situation or location
+tow.v.01	drag behind
+take.v.15	experience or feel or submit to
+lead.v.01	take somebody somewhere
+book.v.03	record a charge in a police register
+wet.v.01	cause to become wet
+scald.v.02	treat with boiling water
+bottom_out_in	bottom out in
+air.v.05	expose to warm or heated air, so as to dry
+get_into.v.01	get involved in or with
+entail.v.01	have as a logical consequence
+warm.v.01	get warm or warmer
+tuck.v.01	fit snugly into
+alight.v.02	come down
+fit.v.02	be the right size or shape; fit correctly or as desired
+traverse.v.01	travel across or pass over
+busy.v.01	keep busy with
+hit.v.02	hit against; come into sudden contact with
+suffocate.v.02	impair the respiration of or obstruct the air passage of
+cup.v.03	treat by applying evacuated cups to the patient's skin
+become	become
+bit	bit
+waste.v.01	spend thoughtlessly; throw away
+respect.v.01	regard highly; think much of
+impel.v.01	urge or force (a person) to an action; constrain or motivate
+join.v.01	become part of; become a member of a group or organization
+please.v.01	give pleasure to or be pleasing to
+bury.v.05	embed deeply
+press.v.01	exert pressure or force to or upon
+complain.v.01	express complaints, discontent, displeasure, or unhappiness
+light_up.v.01	start to burn with a bright flame
+shop.v.01	do one's shopping
+identify.v.01	recognize as being; establish the identity of someone or something
+speak_for.v.01	be a spokesperson for
+submerge.v.01	sink below the surface; go under or as if under water
+strike.v.21	arrive at after reckoning, deliberating, and weighing
+study_for	study for
+travel_by	travel by
+dense.s.04	slow to learn or understand; lacking intellectual acuity
+use.v.02	take or consume (regularly or habitually)
+descry.v.01	catch sight of
+hang.v.03	kill by hanging
+poison.v.05	administer poison to
+embrace.v.01	include in scope; include as part of something broader; have as one's sphere or territory
+edit.v.03	cut and assemble the components of
+zip_up.v.01	close with a zipper
+trade.v.04	exchange or give (something) in exchange for
+beat.v.03	hit repeatedly
+turn_down.v.05	make lower or quieter
+award.v.01	give, especially as an honor or reward
+feed.v.01	provide as food
+stream.v.01	to extend, wave or float outward, as if in the wind
+bread.v.01	cover with bread crumbs
+tell.v.03	narrate or give a detailed account of
+mail.v.02	cause to be directed or transmitted to another place
+step_out.v.01	go outside a room or building for a short period of time
+war.v.01	make or wage war
+slide.v.03	move smoothly along a surface
+lend.v.03	have certain characteristics of qualities for something; be open or vulnerable to
+follow.v.08	be next
+strike.v.04	make a strategic, offensive, assault against an enemy, opponent, or a target
+field.v.03	answer adequately or successfully
+cost.v.02	require to lose, suffer, or sacrifice
+piss_on	piss on
+sign.v.02	approve and express assent, responsibility, or obligation
+go_around	go around
+fasten.v.01	cause to be firmly attached
+unfold.v.03	extend or stretch out to a greater or the full length
+stroke.v.01	touch lightly and repeatedly, as with brushing motions
+operate.v.03	handle and cause to function
+give_birth.v.01	cause to be born
+seat.v.01	show to a seat; assign a seat for
+dive.v.01	drop steeply
+lodge.v.02	put, fix, force, or implant
+anchor.v.01	fix firmly and stably
+take_out.v.04	obtain by legal or official process
+spread.v.03	spread across or over
+wean.v.01	gradually deprive (infants and young mammals) of mother's milk
+star.v.02	be the star in a performance
+mobile.a.02	moving or capable of moving readily (especially from place to place)
+encircle.v.01	form a circle around
+crunch.v.02	press or grind with a crushing noise
+write_on.v.01	write about a particular topic
+hamper.v.01	prevent the progress or free movement of
+target.v.01	intend (something) to move towards a certain goal
+print.v.01	put into print
+survive.v.01	continue to live through hardship or adversity
+yoke.v.02	link with or as with a yoke
+commit.v.06	engage in or perform
