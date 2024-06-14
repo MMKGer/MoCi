@@ -9,7 +9,6 @@ The framework of our method, MoCi, considers multimodal information (𝑠, 𝑣,
 ## Requirments
 - Python==3.8
 - numpy==1.24.3
-- pillow==10.2.0
 - torch==1.13.0
 - tqdm==4.66.1
 - wheel==0.41.2
