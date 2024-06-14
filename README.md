@@ -13,7 +13,7 @@
 - tqdm==4.66.1
 - wheel==0.41.2
 
-## Code Structure
+## 🎆 Code Structure
 The code is organized as follows:
 ```text
 ├── datasets
@@ -48,7 +48,7 @@ Model Training
     python main.py 
 
 
-## Citation
+##  🤝 Citation
 ```python
 @inproceedings{
   title={},
