@@ -2,7 +2,7 @@
 
 ## Overview
 <p align="center">
-  <img src="model.jpg" alt="MoCi" width="640">
+  <img src="model.jpg" alt="MoCi" width="1000">
 </p>
 
 ## Requirments
