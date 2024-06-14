@@ -4,6 +4,7 @@
 <p align="center">
   <img src="model.jpg" alt="MoCi" width="1000">
 </p>
+The framework of our method, MoCi, considers multimodal information (𝑠, 𝑣, 𝑡). Initial features are derived from modality-specific embeddings initialization, followed by contrastive pre-training. Pre-aligned semantic features are processed through the modality circular fusion module. Then, these modality features and joint features are input into the relational context-aware prediction module.
 
 ## Requirments
 - Python==3.8
